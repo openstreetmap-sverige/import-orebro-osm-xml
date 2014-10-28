@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-27090' lat='59.28725311140001' lon='15.221306512117017' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Holmen / Svampenområdet' />
+	</node>
+	<node  id='-27091' lat='59.288255714483356' lon='15.220657513677788' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Svampenterminalen' />
+	</node>
+	<node  id='-27092' lat='59.285470393195645' lon='15.22017911029008' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Karmen' />
+	</node>
+</osm>

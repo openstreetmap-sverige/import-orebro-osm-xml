@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-27057' lat='59.26847599854124' lon='15.210154180964834' >
+		<tag k='amenity' v='recycling' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Återvinningsstation: Krämaren, Köpmangatan (endast glas och batteri)' />
+	</node>
+	<node  id='-27058' lat='59.26570009302918' lon='15.209781956712224' >
+		<tag k='amenity' v='recycling' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Återvinningsstation: Kungsg./Ängg., Servus  (endast glas och batteri)' />
+	</node>
+</osm>

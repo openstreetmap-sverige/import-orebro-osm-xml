@@ -1,0 +1,136 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-26760' lat='59.27957269166598' lon='15.225985843721913' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Berggården' />
+	</node>
+	<node  id='-26761' lat='59.280506898188044' lon='15.21811883187021' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klosterbacken' />
+	</node>
+	<node  id='-26762' lat='59.254401385646474' lon='14.95467471646069' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Vintrosahemmet' />
+	</node>
+	<node  id='-26763' lat='59.27169725528797' lon='15.233671119224853' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Skebäcksgården' />
+	</node>
+	<node  id='-26764' lat='59.23896777840613' lon='15.161851877604958' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergshemmet' />
+	</node>
+	<node  id='-26765' lat='59.25714063092977' lon='15.205145720294409' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ängen' />
+	</node>
+	<node  id='-26766' lat='59.274498668718394' lon='15.18870092401442' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rostahemmet' />
+	</node>
+	<node  id='-26767' lat='59.16032627345977' lon='15.52518989155018' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Askenäs' />
+	</node>
+	<node  id='-26768' lat='59.286128003606564' lon='15.179926573378282' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ädelgården' />
+	</node>
+	<node  id='-26769' lat='59.25638857165838' lon='15.201731520712812' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården' />
+	</node>
+	<node  id='-26770' lat='59.2390517136722' lon='15.160676243507469' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lindhultsgården' />
+	</node>
+	<node  id='-26771' lat='59.2706770412384' lon='15.226321835725525' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sirishof' />
+	</node>
+	<node  id='-26772' lat='59.297120779211596' lon='15.155132289875056' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Löwenhjelmska huset' />
+	</node>
+	<node  id='-26773' lat='59.28694425253886' lon='15.200582641990042' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mikaeligården' />
+	</node>
+	<node  id='-26774' lat='59.2992125355193' lon='15.155109754142572' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Demenscentrum' />
+	</node>
+	<node  id='-26775' lat='59.25491292207116' lon='15.236723559387446' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Jeremiasgården' />
+	</node>
+	<node  id='-26776' lat='59.27440122466306' lon='15.166723570289955' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Skäpplandsgården' />
+	</node>
+	<node  id='-26777' lat='59.31803002001911' lon='15.399672240886224' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagagården' />
+	</node>
+	<node  id='-26778' lat='59.29831488223547' lon='15.16234146262864' >
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Elgströmska huset' />
+	</node>
+</osm>

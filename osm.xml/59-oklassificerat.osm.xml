@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-27077' lat='59.27030126239388' lon='15.203813594484421' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eugèniaparken' />
+	</node>
+	<node  id='-27078' lat='59.26789325783584' lon='15.207767184634768' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Söder city' />
+	</node>
+	<node  id='-27079' lat='59.27097655537541' lon='15.203749011995075' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagatunneln' />
+	</node>
+	<node  id='-27080' lat='59.26792797276575' lon='15.201698484686515' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Virginska skolan' />
+	</node>
+	<node  id='-27081' lat='59.27181637948408' lon='15.203348254331868' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Västå park' />
+	</node>
+	<node  id='-27082' lat='59.26949588307041' lon='15.201004141941004' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Godsmagasinet' />
+	</node>
+</osm>

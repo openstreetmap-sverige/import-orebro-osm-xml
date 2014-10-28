@@ -1,0 +1,129 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-27059' lat='59.272821019335254' lon='15.212042520369499' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Thorén Business School' />
+	</node>
+	<node  id='-27060' lat='59.26869501386865' lon='15.212886302953562' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rudbecksskolan' />
+	</node>
+	<node  id='-27061' lat='59.276009618567365' lon='15.206496147046108' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Jensen gymnasium' />
+	</node>
+	<node  id='-27062' lat='59.27770744615223' lon='15.193256414400667' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='IT-gymnasiet' />
+	</node>
+	<node  id='-27063' lat='59.27464427510555' lon='15.218115013499254' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Karolinska Skolan' />
+	</node>
+	<node  id='-27064' lat='59.355305263816334' lon='15.239098586979322' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kvinnerstaskolan' />
+	</node>
+	<node  id='-27065' lat='59.26737986714448' lon='15.202211349378121' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Virginska Skolan' />
+	</node>
+	<node  id='-27066' lat='59.24339598095753' lon='15.191876491546173' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Örebro Waldorfskola Johannaskolan' />
+	</node>
+	<node  id='-27067' lat='59.27757093226407' lon='15.191916851256957' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Liaskolan, gymnasiesärskola' />
+	</node>
+	<node  id='-27068' lat='59.26627786072714' lon='15.2007753522465' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Riksgymnasiet för döva RGD och Riksgymnasiet för hörselskadade, RGH' />
+	</node>
+	<node  id='-27069' lat='59.26853131556072' lon='15.179961277992328' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Yrkesgymnasiet' />
+	</node>
+	<node  id='-27070' lat='59.26077575326425' lon='15.189633885269183' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Örebro praktiska gymnasium' />
+	</node>
+	<node  id='-27071' lat='59.258365718881294' lon='15.204089631887097' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rockgymnasiet' />
+	</node>
+	<node  id='-27072' lat='59.25956856109426' lon='15.207925717431804' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Tullängsskolan' />
+	</node>
+	<node  id='-27073' lat='59.26439298365208' lon='15.24273745156317' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fordonsutbildningar' />
+	</node>
+	<node  id='-27074' lat='59.2778563984533' lon='15.193429158066454' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rytmus musikergymnasiet' />
+	</node>
+	<node  id='-27075' lat='59.27642225395704' lon='15.208365881768373' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Plusgymnasiet' />
+	</node>
+	<node  id='-27076' lat='59.300671171467904' lon='15.230093019332733' >
+		<tag k='isced:level' v='4' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='JB gymnasiet' />
+	</node>
+</osm>
