@@ -1,0 +1,1277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-32103' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32104' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32105' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32106' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32107' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32108' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32109' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32110' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32111' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32112' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32113' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32114' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32115' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32116' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32117' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32118' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32119' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32120' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32121' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32122' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32123' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32124' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32125' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32126' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32127' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32128' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32129' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32130' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32131' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32132' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32133' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32134' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32135' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32136' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32137' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32138' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32139' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32140' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32141' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32142' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32143' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32144' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32145' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32146' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32147' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32148' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32149' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32150' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32151' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32152' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32153' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32154' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32155' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32156' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32157' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32158' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32159' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32160' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32161' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32162' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32163' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32164' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32165' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32166' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32167' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32168' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32169' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32170' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32171' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32172' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32173' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32174' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32175' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32176' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32177' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32178' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32179' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32180' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32181' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32182' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32183' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32184' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32185' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32186' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32187' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32188' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32189' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32190' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32191' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32192' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32193' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32194' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32195' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32196' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32197' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32198' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32199' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32200' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32201' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32202' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32203' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32204' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32205' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32206' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32207' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32208' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32209' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32210' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32211' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32212' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32213' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32214' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32215' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32216' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32217' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32218' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32219' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32220' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32221' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32222' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32223' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32224' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32225' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32226' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32227' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32228' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32229' lat='59.27665243569508' lon='15.221329911303004' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Järnvägsgatan' />
+	</node>
+	<node  id='-32230' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32231' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32232' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32233' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32234' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32235' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32236' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32237' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32238' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32239' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32240' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32241' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32242' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32243' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32244' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32245' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32246' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32247' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32248' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32249' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32250' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32251' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32252' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32253' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32254' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32255' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32256' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32257' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32258' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32259' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32260' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32261' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32262' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32263' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32264' lat='59.268524248221894' lon='15.19969519060456' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svartå Bangata' />
+	</node>
+	<node  id='-32265' lat='59.27243887724605' lon='15.220569101461194' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kanalvägen' />
+	</node>
+	<node  id='-32266' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32267' lat='59.270853010015905' lon='15.231711723529454' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Skyttegatan' />
+	</node>
+	<node  id='-32268' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32269' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32270' lat='59.27242755208226' lon='15.209052387588608' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Fabriksgatan' />
+	</node>
+	<node  id='-32271' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+	<node  id='-32272' lat='59.27275760703576' lon='15.23663391352924' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Slussgatan' />
+	</node>
+	<node  id='-32273' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32274' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32275' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32276' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32277' lat='59.27215809190392' lon='15.224884897298383' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Floragatan' />
+	</node>
+	<node  id='-32278' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+	</node>
+	<node  id='-32279' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32280' lat='59.265033917832326' lon='15.203921583789983' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Kungsgatan' />
+	</node>
+	<node  id='-32281' lat='59.27264581528555' lon='15.219545046063596' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
+	</node>
+	<node  id='-32282' lat='59.269143542881366' lon='15.20450662554701' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Änggatan' />
+	</node>
+	<node  id='-32283' lat='59.28805795078614' lon='15.227324624654356' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
+	</node>
+	<node  id='-32284' lat='59.274620459325234' lon='15.217628953304807' >
+		<tag k='amenity' v='parking' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='bussparkering' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bussparkering Olaigatan' />
+	</node>
+</osm>

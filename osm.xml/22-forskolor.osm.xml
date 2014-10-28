@@ -1,0 +1,4448 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-31468' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31469' lat='59.37146508822501' lon='15.083418669558865' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Killevigge föräldrakooperativ' />
+	</node>
+	<node  id='-31470' lat='59.37146508822501' lon='15.083418669558865' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Killevigge föräldrakooperativ' />
+	</node>
+	<node  id='-31471' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31472' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31473' lat='59.34683242911913' lon='15.235379583318672' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kårstaängen, förskola' />
+	</node>
+	<node  id='-31474' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31475' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31476' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31477' lat='59.27131743819428' lon='15.191502755528466' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Murgrönan, förskola' />
+	</node>
+	<node  id='-31478' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31479' lat='59.137253239172374' lon='15.666900595054171' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sjögården' />
+	</node>
+	<node  id='-31480' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31481' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31482' lat='59.137253239172374' lon='15.666900595054171' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sjögården' />
+	</node>
+	<node  id='-31483' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31484' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31485' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31486' lat='59.29778091891223' lon='15.183882216959704' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Linden, förskola' />
+	</node>
+	<node  id='-31487' lat='59.279339065954574' lon='15.221897768139245' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hattstugan, förskola' />
+	</node>
+	<node  id='-31488' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31489' lat='59.25765103030531' lon='15.24962784391645' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Terra Nova, förskola' />
+	</node>
+	<node  id='-31490' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31491' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-31492' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31493' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31494' lat='59.06928440376082' lon='15.556018474224283' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sotterngården' />
+	</node>
+	<node  id='-31495' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31496' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31497' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31498' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31499' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31500' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31501' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31502' lat='59.27748388037805' lon='15.197092272213041' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Marklyckans förskola' />
+	</node>
+	<node  id='-31503' lat='59.254976543275376' lon='15.20431269399155' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gåsapigan, förskola' />
+	</node>
+	<node  id='-31504' lat='59.276781970676886' lon='15.202507155106929' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Körbärsgården, förskola' />
+	</node>
+	<node  id='-31505' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31506' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31507' lat='59.212043429176845' lon='15.49764066039803' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Råby förskola' />
+	</node>
+	<node  id='-31508' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31509' lat='59.30051690276425' lon='15.189133059306194' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kastanjegården, förskola' />
+	</node>
+	<node  id='-31510' lat='59.28755365809311' lon='15.242443257030084' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kottebo förskola' />
+	</node>
+	<node  id='-31511' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31512' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31513' lat='59.27505573972688' lon='15.194241657853432' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hanna, förskola' />
+	</node>
+	<node  id='-31514' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31515' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31516' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31517' lat='59.25500435226028' lon='15.20063111589572' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fåraherden, förskola' />
+	</node>
+	<node  id='-31518' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31519' lat='59.256935216077025' lon='15.23373952507063' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lavendelgården, förskola' />
+	</node>
+	<node  id='-31520' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31521' lat='59.28933748793067' lon='15.23464942648131' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hästskon, förskola' />
+	</node>
+	<node  id='-31522' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31523' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31524' lat='59.276781970676886' lon='15.202507155106929' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Körbärsgården, förskola' />
+	</node>
+	<node  id='-31525' lat='59.28344620439955' lon='15.239212990692716' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grenadjärskolans förskola' />
+	</node>
+	<node  id='-31526' lat='59.22505434563848' lon='15.151808580727222' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mariebergs förskola' />
+	</node>
+	<node  id='-31527' lat='59.25500435226028' lon='15.20063111589572' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fåraherden, förskola' />
+	</node>
+	<node  id='-31528' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31529' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31530' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31531' lat='59.26959633741326' lon='15.197759201197208' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselbacken, förskola' />
+	</node>
+	<node  id='-31532' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31533' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31534' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31535' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31536' lat='59.29961619397178' lon='15.192291147479414' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Språk och lek, förskola' />
+	</node>
+	<node  id='-31537' lat='59.25328500060925' lon='15.24253604084049' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Galaxens förskola' />
+	</node>
+	<node  id='-31538' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31539' lat='59.27505573972688' lon='15.194241657853432' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hanna, förskola' />
+	</node>
+	<node  id='-31540' lat='59.2667778681737' lon='15.23126285152128' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kameleonten, förskola' />
+	</node>
+	<node  id='-31541' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31542' lat='59.25803702981036' lon='15.238127547574031' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fröet, förskola' />
+	</node>
+	<node  id='-31543' lat='59.1506389160712' lon='15.471019732088214' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lovis, förskola' />
+	</node>
+	<node  id='-31544' lat='59.3062219142408' lon='15.192031661457644' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ädelstenen, förskola' />
+	</node>
+	<node  id='-31545' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-31546' lat='59.26020626992671' lon='15.316231794135545' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Heimdals förskola' />
+	</node>
+	<node  id='-31547' lat='59.257367616022094' lon='15.268623456864512' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Snökristallens barnakademi, förskola' />
+	</node>
+	<node  id='-31548' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31549' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31550' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31551' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31552' lat='59.327029245475764' lon='15.48059644637506' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillkyrka förskola' />
+	</node>
+	<node  id='-31553' lat='59.28257491516974' lon='15.24322730332885' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rynningeåsen, förskola' />
+	</node>
+	<node  id='-31554' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31555' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31556' lat='59.28864498903137' lon='15.17138060570012' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gränden, förskola' />
+	</node>
+	<node  id='-31557' lat='59.30114312338824' lon='15.186787208060515' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hallongården, förskola' />
+	</node>
+	<node  id='-31558' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31559' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31560' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31561' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31562' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31563' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31564' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31565' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31566' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31567' lat='59.316527864428444' lon='15.23355213448592' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillåns förskola' />
+	</node>
+	<node  id='-31568' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31569' lat='59.27748388037805' lon='15.197092272213041' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Marklyckans förskola' />
+	</node>
+	<node  id='-31570' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31571' lat='59.25328500060925' lon='15.24253604084049' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Galaxens förskola' />
+	</node>
+	<node  id='-31572' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31573' lat='59.28917842289477' lon='15.172160266289882' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselmusen, förskola' />
+	</node>
+	<node  id='-31574' lat='59.29778091891223' lon='15.183882216959704' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Linden, förskola' />
+	</node>
+	<node  id='-31575' lat='59.241817394708654' lon='15.181660664527621' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Glommagårdens förskola' />
+	</node>
+	<node  id='-31576' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31577' lat='59.29489434056667' lon='15.166174846316874' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Nejlikan, förskola' />
+	</node>
+	<node  id='-31578' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31579' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31580' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31581' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31582' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-31583' lat='59.26600788523172' lon='15.230840755984786' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Snöstjärnan, förskola' />
+	</node>
+	<node  id='-31584' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31585' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31586' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31587' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31588' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31589' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31590' lat='59.28817046294274' lon='15.199901693519651' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillstugan, förskola' />
+	</node>
+	<node  id='-31591' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31592' lat='59.256935216077025' lon='15.23373952507063' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lavendelgården, förskola' />
+	</node>
+	<node  id='-31593' lat='59.30119217326774' lon='15.191455332998768' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Villan, förskola' />
+	</node>
+	<node  id='-31594' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31595' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31596' lat='59.34683242911913' lon='15.235379583318672' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kårstaängen, förskola' />
+	</node>
+	<node  id='-31597' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31598' lat='59.28519960120412' lon='15.177287077783626' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Karlavagnen, förskola' />
+	</node>
+	<node  id='-31599' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31600' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31601' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-31602' lat='59.320121940310116' lon='15.222822120350255' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klöverängens förskola' />
+	</node>
+	<node  id='-31603' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31604' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31605' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31606' lat='59.28279583280924' lon='15.226066438008308' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Knagglabacke förskola' />
+	</node>
+	<node  id='-31607' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-31608' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31609' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31610' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31611' lat='59.28279583280924' lon='15.226066438008308' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Knagglabacke förskola' />
+	</node>
+	<node  id='-31612' lat='59.27100976333524' lon='15.19098218402032' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kuben, förskola' />
+	</node>
+	<node  id='-31613' lat='59.24082253170184' lon='15.245054588516664' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Pärlan, förskola' />
+	</node>
+	<node  id='-31614' lat='59.390004950224316' lon='15.244473842815394' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grönvallska förskolan' />
+	</node>
+	<node  id='-31615' lat='59.254976543275376' lon='15.20431269399155' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gåsapigan, förskola' />
+	</node>
+	<node  id='-31616' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31617' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31618' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31619' lat='59.31615225985823' lon='15.233874525756182' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klockarängens förskola' />
+	</node>
+	<node  id='-31620' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31621' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31622' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31623' lat='59.327029245475764' lon='15.48059644637506' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillkyrka förskola' />
+	</node>
+	<node  id='-31624' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31625' lat='59.320121940310116' lon='15.222822120350255' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klöverängens förskola' />
+	</node>
+	<node  id='-31626' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31627' lat='59.30051690276425' lon='15.189133059306194' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kastanjegården, förskola' />
+	</node>
+	<node  id='-31628' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31629' lat='59.327029245475764' lon='15.48059644637506' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillkyrka förskola' />
+	</node>
+	<node  id='-31630' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31631' lat='59.26600788523172' lon='15.230840755984786' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Snöstjärnan, förskola' />
+	</node>
+	<node  id='-31632' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31633' lat='59.256944022644156' lon='15.210501114664558' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Höskullen, förskola' />
+	</node>
+	<node  id='-31634' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31635' lat='59.25888083141669' lon='15.269861843639413' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ormesta förskola' />
+	</node>
+	<node  id='-31636' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31637' lat='59.28917842289477' lon='15.172160266289882' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselmusen, förskola' />
+	</node>
+	<node  id='-31638' lat='59.276781970676886' lon='15.202507155106929' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Körbärsgården, förskola' />
+	</node>
+	<node  id='-31639' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31640' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31641' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31642' lat='59.28755365809311' lon='15.242443257030084' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kottebo förskola' />
+	</node>
+	<node  id='-31643' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31644' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31645' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31646' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31647' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31648' lat='59.300881351834' lon='15.178981085207152' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sagogården, förskola' />
+	</node>
+	<node  id='-31649' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31650' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31651' lat='59.390004950224316' lon='15.244473842815394' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grönvallska förskolan' />
+	</node>
+	<node  id='-31652' lat='59.241817394708654' lon='15.181660664527621' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Glommagårdens förskola' />
+	</node>
+	<node  id='-31653' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31654' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31655' lat='13.274240736708881' lon='15.505534270971282' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hästskon' />
+	</node>
+	<node  id='-31656' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31657' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31658' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31659' lat='59.28479343593693' lon='15.17775949377133' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Stjärnhimlen, förskola' />
+	</node>
+	<node  id='-31660' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31661' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31662' lat='59.28933748793067' lon='15.23464942648131' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hästskon, förskola' />
+	</node>
+	<node  id='-31663' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31664' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31665' lat='59.296773372001816' lon='15.16129562867306' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hedenhös, förskola' />
+	</node>
+	<node  id='-31666' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31667' lat='59.314033451528786' lon='15.334647135555848' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rinkaby förskola' />
+	</node>
+	<node  id='-31668' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31669' lat='59.28279583280924' lon='15.226066438008308' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Knagglabacke förskola' />
+	</node>
+	<node  id='-31670' lat='59.291236572346726' lon='15.197127275262416' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lars Wivallius förskola' />
+	</node>
+	<node  id='-31671' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31672' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31673' lat='59.25328500060925' lon='15.24253604084049' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Galaxens förskola' />
+	</node>
+	<node  id='-31674' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31675' lat='59.25756296782069' lon='15.246812871492692' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Södra gårdens förskola' />
+	</node>
+	<node  id='-31676' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31677' lat='59.290478073351466' lon='15.194263104993425' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Larsgården, förskola' />
+	</node>
+	<node  id='-31678' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31679' lat='59.2662080482538' lon='15.20462306608629' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kristinaskolans förskola' />
+	</node>
+	<node  id='-31680' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31681' lat='59.34106964035008' lon='15.229325671734768' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Skogsbrynet, förskola' />
+	</node>
+	<node  id='-31682' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31683' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31684' lat='59.25500435226028' lon='15.20063111589572' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fåraherden, förskola' />
+	</node>
+	<node  id='-31685' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31686' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31687' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31688' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31689' lat='59.30362788578763' lon='14.946162123312764' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Garphyttans förskola' />
+	</node>
+	<node  id='-31690' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31691' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31692' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31693' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31694' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31695' lat='59.270008552356884' lon='15.231176619402293' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Junibacken, förskola' />
+	</node>
+	<node  id='-31696' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31697' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31698' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31699' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31700' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31701' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31702' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31703' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31704' lat='59.24182953493893' lon='15.180451406782602' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Waldorfförskolan Linden' />
+	</node>
+	<node  id='-31705' lat='59.264581551354304' lon='15.261320978111618' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Näsby förskola' />
+	</node>
+	<node  id='-31706' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31707' lat='59.241817394708654' lon='15.181660664527621' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Glommagårdens förskola' />
+	</node>
+	<node  id='-31708' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31709' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31710' lat='59.23509269223214' lon='15.157607719575635' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Valpebo, förskola' />
+	</node>
+	<node  id='-31711' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31712' lat='59.291236572346726' lon='15.197127275262416' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lars Wivallius förskola' />
+	</node>
+	<node  id='-31713' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31714' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31715' lat='59.26823637482255' lon='15.232363843067603' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kattungen, förskola' />
+	</node>
+	<node  id='-31716' lat='59.28864498903137' lon='15.17138060570012' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gränden, förskola' />
+	</node>
+	<node  id='-31717' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31718' lat='59.28257491516974' lon='15.24322730332885' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Rynningeåsen, förskola' />
+	</node>
+	<node  id='-31719' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31720' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31721' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31722' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31723' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31724' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31725' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31726' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31727' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31728' lat='59.24209490624043' lon='15.183372775884498' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Waldorfskolans förskola Barnträdgården Viljan' />
+	</node>
+	<node  id='-31729' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31730' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31731' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31732' lat='59.26036641957642' lon='15.255865824621388' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Försprånget, förskola' />
+	</node>
+	<node  id='-31733' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31734' lat='59.47209395097418' lon='15.149648498731583' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Järle förskola' />
+	</node>
+	<node  id='-31735' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31736' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31737' lat='59.26020626992671' lon='15.316231794135545' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Heimdals förskola' />
+	</node>
+	<node  id='-31738' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31739' lat='59.30114312338824' lon='15.186787208060515' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hallongården, förskola' />
+	</node>
+	<node  id='-31740' lat='59.30362788578763' lon='14.946162123312764' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Garphyttans förskola' />
+	</node>
+	<node  id='-31741' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31742' lat='59.241817394708654' lon='15.181660664527621' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Glommagårdens förskola' />
+	</node>
+	<node  id='-31743' lat='59.28864498903137' lon='15.17138060570012' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gränden, förskola' />
+	</node>
+	<node  id='-31744' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31745' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31746' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31747' lat='59.31615225985823' lon='15.233874525756182' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klockarängens förskola' />
+	</node>
+	<node  id='-31748' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31749' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31750' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31751' lat='59.276781970676886' lon='15.202507155106929' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Körbärsgården, förskola' />
+	</node>
+	<node  id='-31752' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31753' lat='59.30362788578763' lon='14.946162123312764' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Garphyttans förskola' />
+	</node>
+	<node  id='-31754' lat='59.28864498903137' lon='15.17138060570012' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gränden, förskola' />
+	</node>
+	<node  id='-31755' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31756' lat='59.37134050292251' lon='15.083614810118823' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sörgården, förskola' />
+	</node>
+	<node  id='-31757' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31758' lat='59.28479343593693' lon='15.17775949377133' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Stjärnhimlen, förskola' />
+	</node>
+	<node  id='-31759' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31760' lat='59.25803702981036' lon='15.238127547574031' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fröet, förskola' />
+	</node>
+	<node  id='-31761' lat='59.25803702981036' lon='15.238127547574031' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fröet, förskola' />
+	</node>
+	<node  id='-31762' lat='59.28504407802311' lon='15.193623772211717' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lagan, förskola' />
+	</node>
+	<node  id='-31763' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31764' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31765' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31766' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31767' lat='59.279339065954574' lon='15.221897768139245' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hattstugan, förskola' />
+	</node>
+	<node  id='-31768' lat='59.30362788578763' lon='14.946162123312764' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Garphyttans förskola' />
+	</node>
+	<node  id='-31769' lat='59.34683242911913' lon='15.235379583318672' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kårstaängen, förskola' />
+	</node>
+	<node  id='-31770' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-31771' lat='59.291236572346726' lon='15.197127275262416' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lars Wivallius förskola' />
+	</node>
+	<node  id='-31772' lat='59.290478073351466' lon='15.194263104993425' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Larsgården, förskola' />
+	</node>
+	<node  id='-31773' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31774' lat='59.2662080482538' lon='15.20462306608629' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kristinaskolans förskola' />
+	</node>
+	<node  id='-31775' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31776' lat='59.30114312338824' lon='15.186787208060515' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hallongården, förskola' />
+	</node>
+	<node  id='-31777' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31778' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-31779' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31780' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31781' lat='59.26036641957642' lon='15.255865824621388' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Försprånget, förskola' />
+	</node>
+	<node  id='-31782' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31783' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31784' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31785' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31786' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31787' lat='13.274240736708881' lon='15.505534270971282' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hästskon' />
+	</node>
+	<node  id='-31788' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31789' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31790' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31791' lat='59.296773372001816' lon='15.16129562867306' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hedenhös, förskola' />
+	</node>
+	<node  id='-31792' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31793' lat='59.29778091891223' lon='15.183882216959704' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Linden, förskola' />
+	</node>
+	<node  id='-31794' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31795' lat='59.28519960120412' lon='15.177287077783626' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Karlavagnen, förskola' />
+	</node>
+	<node  id='-31796' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31797' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31798' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31799' lat='59.29961619397178' lon='15.192291147479414' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Språk och lek, förskola' />
+	</node>
+	<node  id='-31800' lat='59.255404075108395' lon='15.227320869231724' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kryddgårdens förskola' />
+	</node>
+	<node  id='-31801' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31802' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31803' lat='59.25328500060925' lon='15.24253604084049' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Galaxens förskola' />
+	</node>
+	<node  id='-31804' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31805' lat='59.240161454285435' lon='15.153376416818777' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Leklustan, förskola' />
+	</node>
+	<node  id='-31806' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-31807' lat='59.27748388037805' lon='15.197092272213041' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Marklyckans förskola' />
+	</node>
+	<node  id='-31808' lat='59.255404075108395' lon='15.227320869231724' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kryddgårdens förskola' />
+	</node>
+	<node  id='-31809' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31810' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31811' lat='59.28344620439955' lon='15.239212990692716' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grenadjärskolans förskola' />
+	</node>
+	<node  id='-31812' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31813' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31814' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-31815' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31816' lat='59.291290936409474' lon='15.180192871249837' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Växthuset, förskola' />
+	</node>
+	<node  id='-31817' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31818' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31819' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31820' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31821' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31822' lat='59.27219526923826' lon='15.240592585379591' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Måsen, förskola' />
+	</node>
+	<node  id='-31823' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31824' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31825' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31826' lat='59.26959633741326' lon='15.197759201197208' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselbacken, förskola' />
+	</node>
+	<node  id='-31827' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31828' lat='59.24209490624043' lon='15.183372775884498' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Waldorfskolans förskola Barnträdgården Viljan' />
+	</node>
+	<node  id='-31829' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31830' lat='59.22505434563848' lon='15.151808580727222' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mariebergs förskola' />
+	</node>
+	<node  id='-31831' lat='59.28917842289477' lon='15.172160266289882' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselmusen, förskola' />
+	</node>
+	<node  id='-31832' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31833' lat='59.266271608349484' lon='15.204779766378326' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Solägget, förskola' />
+	</node>
+	<node  id='-31834' lat='59.30362788578763' lon='14.946162123312764' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Garphyttans förskola' />
+	</node>
+	<node  id='-31835' lat='59.26020626992671' lon='15.316231794135545' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Heimdals förskola' />
+	</node>
+	<node  id='-31836' lat='59.28016112276319' lon='15.225058753580887' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Villekulla, förskola' />
+	</node>
+	<node  id='-31837' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31838' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31839' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31840' lat='59.254976543275376' lon='15.20431269399155' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gåsapigan, förskola' />
+	</node>
+	<node  id='-31841' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31842' lat='59.25368416371405' lon='15.226123056347147' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lergöken, förskola' />
+	</node>
+	<node  id='-31843' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31844' lat='59.25500435226028' lon='15.20063111589572' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fåraherden, förskola' />
+	</node>
+	<node  id='-31845' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31846' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31847' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31848' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31849' lat='59.27261876032278' lon='15.232746109935421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Wadköpings förskola' />
+	</node>
+	<node  id='-31850' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31851' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31852' lat='59.26959633741326' lon='15.197759201197208' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselbacken, förskola' />
+	</node>
+	<node  id='-31853' lat='59.28127452975273' lon='15.199533129574926' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Nyckelpigan, förskola' />
+	</node>
+	<node  id='-31854' lat='59.256944022644156' lon='15.210501114664558' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Höskullen, förskola' />
+	</node>
+	<node  id='-31855' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31856' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31857' lat='59.150568454553444' lon='15.471544669028875' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klockargården' />
+	</node>
+	<node  id='-31858' lat='59.27219526923826' lon='15.240592585379591' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Måsen, förskola' />
+	</node>
+	<node  id='-31859' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31860' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31861' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31862' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31863' lat='59.28864498903137' lon='15.17138060570012' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gränden, förskola' />
+	</node>
+	<node  id='-31864' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31865' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-31866' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31867' lat='59.291236572346726' lon='15.197127275262416' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lars Wivallius förskola' />
+	</node>
+	<node  id='-31868' lat='59.26036641957642' lon='15.255865824621388' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Försprånget, förskola' />
+	</node>
+	<node  id='-31869' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31870' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31871' lat='59.256935216077025' lon='15.23373952507063' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lavendelgården, förskola' />
+	</node>
+	<node  id='-31872' lat='59.193494453551054' lon='15.150662485427516' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mosjö förskola' />
+	</node>
+	<node  id='-31873' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31874' lat='59.305815392052935' lon='15.185806935404027' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Nybacken, förskola' />
+	</node>
+	<node  id='-31875' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-31876' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31877' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31878' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-31879' lat='59.28344620439955' lon='15.239212990692716' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grenadjärskolans förskola' />
+	</node>
+	<node  id='-31880' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31881' lat='59.254976543275376' lon='15.20431269399155' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gåsapigan, förskola' />
+	</node>
+	<node  id='-31882' lat='59.1583994129596' lon='15.530163147570002' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Per-Andersgården, förskola' />
+	</node>
+	<node  id='-31883' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31884' lat='59.270008552356884' lon='15.231176619402293' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Junibacken, förskola' />
+	</node>
+	<node  id='-31885' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31886' lat='59.28344620439955' lon='15.239212990692716' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grenadjärskolans förskola' />
+	</node>
+	<node  id='-31887' lat='59.257051056054905' lon='15.234366268017538' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Sörbyskolans förskola' />
+	</node>
+	<node  id='-31888' lat='59.258344667775766' lon='15.23868340713292' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Tybble förskola' />
+	</node>
+	<node  id='-31889' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31890' lat='59.29961619397178' lon='15.192291147479414' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Språk och lek, förskola' />
+	</node>
+	<node  id='-31891' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31892' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31893' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31894' lat='59.1506389160712' lon='15.471019732088214' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lovis, förskola' />
+	</node>
+	<node  id='-31895' lat='59.27354115814527' lon='15.18341251811043' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lilla flotten' />
+	</node>
+	<node  id='-31896' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31897' lat='59.28817046294274' lon='15.199901693519651' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillstugan, förskola' />
+	</node>
+	<node  id='-31898' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31899' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31900' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31901' lat='59.27100976333524' lon='15.19098218402032' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kuben, förskola' />
+	</node>
+	<node  id='-31902' lat='59.26036641957642' lon='15.255865824621388' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Försprånget, förskola' />
+	</node>
+	<node  id='-31903' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31904' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31905' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31906' lat='59.27113899129412' lon='15.191733942409382' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Vintergatan, förskola' />
+	</node>
+	<node  id='-31907' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31908' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31909' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31910' lat='59.34574211100506' lon='15.232392452572018' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kullens förskola' />
+	</node>
+	<node  id='-31911' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31912' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-31913' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31914' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31915' lat='59.28344620439955' lon='15.239212990692716' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grenadjärskolans förskola' />
+	</node>
+	<node  id='-31916' lat='59.25500435226028' lon='15.20063111589572' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fåraherden, förskola' />
+	</node>
+	<node  id='-31917' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31918' lat='59.316527864428444' lon='15.23355213448592' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillåns förskola' />
+	</node>
+	<node  id='-31919' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-31920' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31921' lat='59.37146508822501' lon='15.083418669558865' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Killevigge föräldrakooperativ' />
+	</node>
+	<node  id='-31922' lat='59.47209395097418' lon='15.149648498731583' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Järle förskola' />
+	</node>
+	<node  id='-31923' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31924' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31925' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31926' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31927' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31928' lat='59.25500435226028' lon='15.20063111589572' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fåraherden, förskola' />
+	</node>
+	<node  id='-31929' lat='59.30194341596208' lon='15.187071051949534' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Musikanten, förskolan' />
+	</node>
+	<node  id='-31930' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31931' lat='59.255087012520704' lon='15.206852433367528' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Stallbacken, förskola' />
+	</node>
+	<node  id='-31932' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31933' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31934' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31935' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-31936' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31937' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31938' lat='59.2914701465718' lon='14.993252131292357' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Asken, förskola' />
+	</node>
+	<node  id='-31939' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-31940' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31941' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-31942' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-31943' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31944' lat='59.27662681614743' lon='14.98541460787983' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Latorps förskola' />
+	</node>
+	<node  id='-31945' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31946' lat='59.150568454553444' lon='15.471544669028875' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klockargården' />
+	</node>
+	<node  id='-31947' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31948' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-31949' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-31950' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-31951' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-31952' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31953' lat='59.30114312338824' lon='15.186787208060515' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hallongården, förskola' />
+	</node>
+	<node  id='-31954' lat='59.28183317612644' lon='15.20969795579446' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Violen, förskola' />
+	</node>
+	<node  id='-31955' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31956' lat='59.30114312338824' lon='15.186787208060515' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hallongården, förskola' />
+	</node>
+	<node  id='-31957' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-31958' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-31959' lat='59.37146508822501' lon='15.083418669558865' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Killevigge föräldrakooperativ' />
+	</node>
+	<node  id='-31960' lat='59.47209395097418' lon='15.149648498731583' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Järle förskola' />
+	</node>
+	<node  id='-31961' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31962' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31963' lat='59.2554995083781' lon='14.952651500625139' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Vintrosa förskola' />
+	</node>
+	<node  id='-31964' lat='59.37146508822501' lon='15.083418669558865' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Killevigge föräldrakooperativ' />
+	</node>
+	<node  id='-31965' lat='59.283027750649865' lon='15.186765463848761' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Trollbacken, förskola' />
+	</node>
+	<node  id='-31966' lat='59.22804207625613' lon='15.14971085024073' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hagvidson förskola' />
+	</node>
+	<node  id='-31967' lat='59.296773372001816' lon='15.16129562867306' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hedenhös, förskola' />
+	</node>
+	<node  id='-31968' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31969' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-31970' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-31971' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-31972' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-31973' lat='59.317406717710135' lon='15.39787203099379' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ringblommans förskola' />
+	</node>
+	<node  id='-31974' lat='59.241817394708654' lon='15.181660664527621' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Glommagårdens förskola' />
+	</node>
+	<node  id='-31975' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-31976' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-31977' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31978' lat='59.25328500060925' lon='15.24253604084049' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Galaxens förskola' />
+	</node>
+	<node  id='-31979' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31980' lat='59.305815392052935' lon='15.185806935404027' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Nybacken, förskola' />
+	</node>
+	<node  id='-31981' lat='59.43790835383608' lon='15.239186007289318' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ervalla förskola' />
+	</node>
+	<node  id='-31982' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-31983' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31984' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-31985' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-31986' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-31987' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-31988' lat='59.255404075108395' lon='15.227320869231724' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kryddgårdens förskola' />
+	</node>
+	<node  id='-31989' lat='59.390004950224316' lon='15.244473842815394' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grönvallska förskolan' />
+	</node>
+	<node  id='-31990' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-31991' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-31992' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-31993' lat='59.291290936409474' lon='15.180192871249837' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Växthuset, förskola' />
+	</node>
+	<node  id='-31994' lat='59.256935216077025' lon='15.23373952507063' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lavendelgården, förskola' />
+	</node>
+	<node  id='-31995' lat='59.28344620439955' lon='15.239212990692716' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grenadjärskolans förskola' />
+	</node>
+	<node  id='-31996' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-31997' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-31998' lat='59.23973529080374' lon='15.238607177614538' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hopprepet, förskola' />
+	</node>
+	<node  id='-31999' lat='59.254976543275376' lon='15.20431269399155' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Gåsapigan, förskola' />
+	</node>
+	<node  id='-32000' lat='59.193494453551054' lon='15.150662485427516' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mosjö förskola' />
+	</node>
+	<node  id='-32001' lat='59.26959633741326' lon='15.197759201197208' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hasselbacken, förskola' />
+	</node>
+	<node  id='-32002' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-32003' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-32004' lat='59.23973529080374' lon='15.238607177614538' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hopprepet, förskola' />
+	</node>
+	<node  id='-32005' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-32006' lat='59.28479343593693' lon='15.17775949377133' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Stjärnhimlen, förskola' />
+	</node>
+	<node  id='-32007' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-32008' lat='59.28933748793067' lon='15.23464942648131' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hästskon, förskola' />
+	</node>
+	<node  id='-32009' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-32010' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-32011' lat='59.30114312338824' lon='15.186787208060515' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hallongården, förskola' />
+	</node>
+	<node  id='-32012' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-32013' lat='59.31615225985823' lon='15.233874525756182' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klockarängens förskola' />
+	</node>
+	<node  id='-32014' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-32015' lat='59.262847094345176' lon='15.219567780838473' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eklunda förskola' />
+	</node>
+	<node  id='-32016' lat='59.308884161458366' lon='15.230502897522904' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bettorps förskola' />
+	</node>
+	<node  id='-32017' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-32018' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-32019' lat='59.264581551354304' lon='15.261320978111618' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Näsby förskola' />
+	</node>
+	<node  id='-32020' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-32021' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-32022' lat='59.316527864428444' lon='15.23355213448592' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lillåns förskola' />
+	</node>
+	<node  id='-32023' lat='59.27029056596292' lon='15.170214033639565' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Alsalam, förskola' />
+	</node>
+	<node  id='-32024' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-32025' lat='59.27775879579755' lon='15.20603306541438' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brolyckan, förskola' />
+	</node>
+	<node  id='-32026' lat='59.270008552356884' lon='15.231176619402293' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Junibacken, förskola' />
+	</node>
+	<node  id='-32027' lat='59.29774392784663' lon='15.193119063223463' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al-Azhar, förskola' />
+	</node>
+	<node  id='-32028' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-32029' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-32030' lat='59.270008552356884' lon='15.231176619402293' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Junibacken, förskola' />
+	</node>
+	<node  id='-32031' lat='59.27748388037805' lon='15.197092272213041' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Marklyckans förskola' />
+	</node>
+	<node  id='-32032' lat='59.390004950224316' lon='15.244473842815394' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Grönvallska förskolan' />
+	</node>
+	<node  id='-32033' lat='59.26412321838885' lon='15.246389736592903' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almby förskola' />
+	</node>
+	<node  id='-32034' lat='59.255404075108395' lon='15.227320869231724' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kryddgårdens förskola' />
+	</node>
+	<node  id='-32035' lat='59.278645836784996' lon='15.171601839578948' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåmesen, förskola' />
+	</node>
+	<node  id='-32036' lat='59.28127452975273' lon='15.199533129574926' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Nyckelpigan, förskola' />
+	</node>
+	<node  id='-32037' lat='59.15794200640347' lon='15.530359093205364' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fruktgården, förskola' />
+	</node>
+	<node  id='-32038' lat='59.29882563502075' lon='15.192164987383421' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Apelgården, förskola' />
+	</node>
+	<node  id='-32039' lat='59.216188589708246' lon='15.34522462249661' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridhems förskola' />
+	</node>
+	<node  id='-32040' lat='59.320121940310116' lon='15.222822120350255' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klöverängens förskola' />
+	</node>
+	<node  id='-32041' lat='59.30362788578763' lon='14.946162123312764' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Garphyttans förskola' />
+	</node>
+	<node  id='-32042' lat='59.24209490624043' lon='15.183372775884498' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Waldorfskolans förskola Barnträdgården Viljan' />
+	</node>
+	<node  id='-32043' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-32044' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-32045' lat='59.24209490624043' lon='15.183372775884498' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Waldorfskolans förskola Barnträdgården Viljan' />
+	</node>
+	<node  id='-32046' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-32047' lat='59.27533199249001' lon='15.149598883004833' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Karlslunds förskola' />
+	</node>
+	<node  id='-32048' lat='59.27533199249001' lon='15.149598883004833' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Karlslunds förskola' />
+	</node>
+	<node  id='-32049' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-32050' lat='59.25752695526056' lon='15.214312521549338' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekängens förskola' />
+	</node>
+	<node  id='-32051' lat='59.241817394708654' lon='15.181660664527621' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Glommagårdens förskola' />
+	</node>
+	<node  id='-32052' lat='59.28500111206562' lon='15.177080201885445' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emil, förskola' />
+	</node>
+	<node  id='-32053' lat='59.279339065954574' lon='15.221897768139245' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Hattstugan, förskola' />
+	</node>
+	<node  id='-32054' lat='59.2612372166331' lon='15.328627101602232' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Ekebergabackens förskola' />
+	</node>
+	<node  id='-32055' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-32056' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-32057' lat='59.29890651717642' lon='15.157007777123894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Al Azhar förskola' />
+	</node>
+	<node  id='-32058' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-32059' lat='59.26020626992671' lon='15.316231794135545' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Heimdals förskola' />
+	</node>
+	<node  id='-32060' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-32061' lat='59.28159201493998' lon='15.188773856838969' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Brukets förskola' />
+	</node>
+	<node  id='-32062' lat='59.28600681173471' lon='15.148077443940387' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkhaga förskola' />
+	</node>
+	<node  id='-32063' lat='59.150568454553444' lon='15.471544669028875' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Klockargården' />
+	</node>
+	<node  id='-32064' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-32065' lat='59.290478073351466' lon='15.194263104993425' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Larsgården, förskola' />
+	</node>
+	<node  id='-32066' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-32067' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-32068' lat='59.23916392157298' lon='15.16580025373997' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Eriksbergsgårdens förskola' />
+	</node>
+	<node  id='-32069' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-32070' lat='59.214443037957835' lon='15.498827035300174' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Backagården, förskola' />
+	</node>
+	<node  id='-32071' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-32072' lat='59.240828514037624' lon='15.240218526073145' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bollen, förskola' />
+	</node>
+	<node  id='-32073' lat='59.266836862428455' lon='15.204717192939686' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Allégårdens förskola' />
+	</node>
+	<node  id='-32074' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-32075' lat='59.22505434563848' lon='15.151808580727222' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mariebergs förskola' />
+	</node>
+	<node  id='-32076' lat='59.2667778681737' lon='15.23126285152128' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kameleonten, förskola' />
+	</node>
+	<node  id='-32077' lat='59.25803702981036' lon='15.238127547574031' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fröet, förskola' />
+	</node>
+	<node  id='-32078' lat='59.30051690276425' lon='15.189133059306194' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kastanjegården, förskola' />
+	</node>
+	<node  id='-32079' lat='59.303052471670036' lon='15.189999925371144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Almgården, förskola' />
+	</node>
+	<node  id='-32080' lat='59.23969846683317' lon='15.187218558965395' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Adolfsbergsskolans förskola' />
+	</node>
+	<node  id='-32081' lat='59.26020626992671' lon='15.316231794135545' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Heimdals förskola' />
+	</node>
+	<node  id='-32082' lat='59.25938103610183' lon='15.2542337982423' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fagertärn, förskola' />
+	</node>
+	<node  id='-32083' lat='59.297251673740405' lon='15.191526424884355' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Björkbacken, förskola' />
+	</node>
+	<node  id='-32084' lat='59.270008552356884' lon='15.231176619402293' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Junibacken, förskola' />
+	</node>
+	<node  id='-32085' lat='59.193494453551054' lon='15.150662485427516' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mosjö förskola' />
+	</node>
+	<node  id='-32086' lat='59.26036641957642' lon='15.255865824621388' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Försprånget, förskola' />
+	</node>
+	<node  id='-32087' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-32088' lat='59.29042867012193' lon='15.167153615348107' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Emilia, förskola' />
+	</node>
+	<node  id='-32089' lat='59.2353432772135' lon='15.240134219109894' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Byggklossen, förskola' />
+	</node>
+	<node  id='-32090' lat='59.28363452356474' lon='15.180368546796144' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fantasia, förskola' />
+	</node>
+	<node  id='-32091' lat='59.31079342119957' lon='15.183065055309156' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Bergagård, förskola' />
+	</node>
+	<node  id='-32092' lat='59.27935125062685' lon='15.193305042386063' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Väster Parks förskola' />
+	</node>
+	<node  id='-32093' lat='59.27062095701457' lon='15.227571235550991' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fridensberg, förskola' />
+	</node>
+	<node  id='-32094' lat='59.212043429176845' lon='15.49764066039803' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Råby förskola' />
+	</node>
+	<node  id='-32095' lat='59.1506389160712' lon='15.471019732088214' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Lovis, förskola' />
+	</node>
+	<node  id='-32096' lat='59.22505434563848' lon='15.151808580727222' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Mariebergs förskola' />
+	</node>
+	<node  id='-32097' lat='59.276781970676886' lon='15.202507155106929' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Körbärsgården, förskola' />
+	</node>
+	<node  id='-32098' lat='59.24209490624043' lon='15.183372775884498' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Waldorfskolans förskola Barnträdgården Viljan' />
+	</node>
+	<node  id='-32099' lat='59.29275020238557' lon='15.17011085159007' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Blåklinten, förskola' />
+	</node>
+	<node  id='-32100' lat='59.30051690276425' lon='15.189133059306194' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kastanjegården, förskola' />
+	</node>
+	<node  id='-32101' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+	<node  id='-32102' lat='59.27395165032238' lon='15.162604126868693' >
+		<tag k='isced:level' v='1' />
+		<tag k='amenity' v='school' />
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Fasanen, förskola' />
+	</node>
+</osm>

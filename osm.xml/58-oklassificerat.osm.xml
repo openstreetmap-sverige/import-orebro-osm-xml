@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-32413' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32414' lat='59.2671929294705' lon='15.200501466738398' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kvarteret tågmästaren' />
+	</node>
+	<node  id='-32415' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32416' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32417' lat='59.26386843958615' lon='15.19610659332376' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Tappstället' />
+	</node>
+	<node  id='-32418' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32419' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32420' lat='59.2671929294705' lon='15.200501466738398' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kvarteret tågmästaren' />
+	</node>
+	<node  id='-32421' lat='59.2671929294705' lon='15.200501466738398' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kvarteret tågmästaren' />
+	</node>
+	<node  id='-32422' lat='59.2671929294705' lon='15.200501466738398' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Kvarteret tågmästaren' />
+	</node>
+	<node  id='-32423' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32424' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32425' lat='59.26205338843768' lon='15.195788453344136' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Södra vattentornet' />
+	</node>
+	<node  id='-32426' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32427' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32428' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+	<node  id='-32429' lat='59.26554878888234' lon='15.204108218463634' >
+		<tag k='source' v='data.karta.orebro.se' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='source:license' v='cc-by' />
+		<tag k='name' v='Drottningparken' />
+	</node>
+</osm>
