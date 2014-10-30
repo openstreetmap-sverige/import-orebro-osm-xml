@@ -1,45 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-27093' lat='59.278620381873054' lon='15.212806234799851' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Gång- och cykeltunneln till Järnvägsgatan' />
 	</node>
 	<node  id='-27094' lat='59.27663719329566' lon='15.215472200789936' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Norrcity' />
 	</node>
 	<node  id='-27095' lat='59.278856714247' lon='15.212460011628798' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Cykelparkering' />
 	</node>
 	<node  id='-27096' lat='59.28081972570986' lon='15.213732778102653' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Postterminalen' />
 	</node>
 	<node  id='-27097' lat='59.27972871049595' lon='15.213690393824045' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Bilparkering' />
 	</node>
 	<node  id='-27098' lat='59.27865131328564' lon='15.211718008205377' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Resecentrum/Örebro Central' />
 	</node>
 	<node  id='-27099' lat='59.27875111182756' lon='15.213909185402812' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Todo: oklassficierad' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Rättscentrum' />
 	</node>
 </osm>

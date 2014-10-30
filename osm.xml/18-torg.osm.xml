@@ -3,15 +3,11 @@
 	<node  id='-26758' lat='59.2724325297113' lon='15.219398623817355' >
 		<tag k='area' v='yes' />
 		<tag k='highway' v='pedestrian' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hamnplan' />
 	</node>
 	<node  id='-26759' lat='59.2827626339044' lon='15.220606337227382' >
 		<tag k='area' v='yes' />
 		<tag k='highway' v='pedestrian' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Bromsplan' />
 	</node>
 </osm>

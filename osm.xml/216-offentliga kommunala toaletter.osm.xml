@@ -3,41 +3,31 @@
 	<node  id='-26779' lat='59.24481703524773' lon='15.190420239346977' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='operator' v='Örebro kommun' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Sommarro' />
 	</node>
 	<node  id='-26780' lat='59.27438688905096' lon='15.225586838973829' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='operator' v='Örebro kommun' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Stora holmen' />
 	</node>
 	<node  id='-26781' lat='59.27191069332479' lon='15.231977599729692' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='operator' v='Örebro kommun' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Wadköping' />
 	</node>
 	<node  id='-26782' lat='59.27632689309168' lon='15.209790951533973' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='operator' v='Örebro kommun' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Resecentrum' />
 	</node>
 	<node  id='-26783' lat='59.27222577567227' lon='15.213154303683384' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='operator' v='Örebro kommun' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Rådhuset' />
 	</node>
 </osm>

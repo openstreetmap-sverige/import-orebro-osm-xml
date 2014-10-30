@@ -2,152 +2,102 @@
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-26694' lat='59.301075206172335' lon='15.238249165521976' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Bettorp' />
 	</node>
 	<node  id='-26695' lat='59.21894115079517' lon='15.139446455942117' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Mariebergs köpcentrum' />
 	</node>
 	<node  id='-26696' lat='59.25979732169834' lon='15.19918993441407' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Södermalm/Ladugårdsängen' />
 	</node>
 	<node  id='-26697' lat='59.306679675738295' lon='14.944866987801563' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Garphyttan' />
 	</node>
 	<node  id='-26698' lat='59.25963032661544' lon='15.182904212002061' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Aspholmen' />
 	</node>
 	<node  id='-26699' lat='59.46236570612661' lon='15.156586231773979' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Järle' />
 	</node>
 	<node  id='-26700' lat='59.160527619438724' lon='15.526953957889821' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Odensbacken' />
 	</node>
 	<node  id='-26701' lat='59.24519148382763' lon='15.135655031530408' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Pilängen' />
 	</node>
 	<node  id='-26702' lat='59.26585995162749' lon='15.237381978796256' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Österplan/Almbyplan' />
 	</node>
 	<node  id='-26703' lat='59.26943440966988' lon='15.250090232487416' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Skebäcksområdet' />
 	</node>
 	<node  id='-26704' lat='59.277030147833024' lon='15.233668995533845' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='CV-området' />
 	</node>
 	<node  id='-26705' lat='59.30977824108341' lon='15.224828683891188' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Lillån' />
 	</node>
 	<node  id='-26706' lat='59.263973847491854' lon='15.16411387010677' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Åby/Skråmsta' />
 	</node>
 	<node  id='-26707' lat='59.26181071873' lon='15.26892434544774' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Ormesta' />
 	</node>
 	<node  id='-26708' lat='59.314553822332066' lon='15.40485948836967' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Glanshammar' />
 	</node>
 	<node  id='-26709' lat='59.289453948020515' lon='15.20938255340781' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Holmen' />
 	</node>
 	<node  id='-26710' lat='59.29998292104308' lon='15.203088620270812' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Boglundsängen' />
 	</node>
 	<node  id='-26711' lat='59.258279741102236' lon='15.156489301446806' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Bista' />
 	</node>
 	<node  id='-26712' lat='59.237835376349295' lon='15.133329201502379' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Berglunda' />
 	</node>
 	<node  id='-26713' lat='59.202970362639874' lon='15.162794784221127' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Mosås' />
 	</node>
 	<node  id='-26714' lat='59.242634235724594' lon='15.117093875738776' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Västra Pilängen' />
 	</node>
 	<node  id='-26715' lat='59.23251566625357' lon='15.14639890378515' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Marieberg Nordväst' />
 	</node>
 	<node  id='-26716' lat='59.226960078422394' lon='15.256512054538627' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Norra Bro/Gryt' />
 	</node>
 	<node  id='-26717' lat='59.211358445961245' lon='15.152533841365901' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Törsjö' />
 	</node>
 	<node  id='-26718' lat='59.28820095234236' lon='15.21810849232226' >
 		<tag k='landuse' v='industrial' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Mannatorpsområdet' />
 	</node>
 </osm>

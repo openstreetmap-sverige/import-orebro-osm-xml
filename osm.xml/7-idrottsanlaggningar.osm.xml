@@ -1,141 +1,95 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-26603' lat='59.26594513590398' lon='15.220212051820114' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Idrottshuset' />
 	</node>
 	<node  id='-26604' lat='59.27998282011519' lon='15.233426265369491' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Grenadjärvallen' />
 	</node>
 	<node  id='-26605' lat='59.27938422105446' lon='15.183384136375263' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Trängen' />
 	</node>
 	<node  id='-26606' lat='59.27714912098578' lon='15.25702734932299' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Alnängarnas utegym' />
 	</node>
 	<node  id='-26607' lat='59.27119971567884' lon='15.160206433160555' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Karlslunds arena' />
 	</node>
 	<node  id='-26608' lat='59.26611423148233' lon='15.22587354661514' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Vinterstadion' />
 	</node>
 	<node  id='-26609' lat='59.269916130622754' lon='15.158459383328399' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Rosta gärde' />
 	</node>
 	<node  id='-26610' lat='59.26611423148233' lon='15.22587354661514' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Behrn arena - vinter' />
 	</node>
 	<node  id='-26611' lat='59.26031107578433' lon='15.193885520084812' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Gustavsviksbadet' />
 	</node>
 	<node  id='-26612' lat='59.25762896932734' lon='15.19628315725685' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Backahallen' />
 	</node>
 	<node  id='-26613' lat='59.27202632756896' lon='15.147825018207497' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Karlslunds ridhus' />
 	</node>
 	<node  id='-26614' lat='59.28965154814563' lon='15.155222747483723' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hedens IP' />
 	</node>
 	<node  id='-26615' lat='59.298426682528174' lon='15.155949835002932' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Mellringehallen' />
 	</node>
 	<node  id='-26616' lat='59.2662726132139' lon='15.223152616396659' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Behrn arena fotboll' />
 	</node>
 	<node  id='-26617' lat='59.28912206569005' lon='15.233359915556681' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Rynninge bollhall' />
 	</node>
 	<node  id='-26618' lat='59.25910143567501' lon='15.17195556646383' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Friidrottshallen' />
 	</node>
 	<node  id='-26619' lat='59.265675671241226' lon='15.218199980757843' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Eyrabadet' />
 	</node>
 	<node  id='-26620' lat='59.25928259002593' lon='15.214084962765336' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Ekäng' />
 	</node>
 	<node  id='-26621' lat='59.33763464740879' lon='14.944608847133637' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Ånnaboda' />
 	</node>
 	<node  id='-26622' lat='59.23905508056266' lon='15.242263312337853' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Brickebackens bad' />
 	</node>
 	<node  id='-26623' lat='59.275021406465484' lon='15.165045460142439' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hagabadet' />
 	</node>
 	<node  id='-26624' lat='59.1660007768126' lon='15.529549292468392' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Odenvallen' />
 	</node>
 	<node  id='-26625' lat='59.278040418307384' lon='15.183987677744708' >
-		<tag k='source' v='data.karta.orebro.se' />
 		<tag k='note' v='Idrottsanläggning' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Curlinghall' />
 	</node>
 </osm>

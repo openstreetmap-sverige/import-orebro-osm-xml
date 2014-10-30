@@ -3,64 +3,48 @@
 	<node  id='-26750' lat='59.25007334076989' lon='14.962846310812965' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Vintrosa, Holmsätervägen' />
 	</node>
 	<node  id='-26751' lat='59.23523079732181' lon='15.185348283074557' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Adolfsberg, Bergavägen' />
 	</node>
 	<node  id='-26752' lat='59.29934108922283' lon='14.955252076995128' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Garphyttan, Dragarvägen' />
 	</node>
 	<node  id='-26753' lat='59.23714450056646' lon='15.15095258654686' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Adolfsberg, St Gropen' />
 	</node>
 	<node  id='-26754' lat='59.300832666751944' lon='15.238218113244505' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Bettorp, Bakom gamla skjutbanan' />
 	</node>
 	<node  id='-26755' lat='59.2745152043766' lon='14.99434179292251' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Latorp, Fabriksvägen' />
 	</node>
 	<node  id='-26756' lat='59.3380116542275' lon='15.232446206494348' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Hovsta, Lundbackagatan' />
 	</node>
 	<node  id='-26757' lat='59.23492448740957' lon='15.252511340539773' >
 		<tag k='recycling:organic' v='yes' />
 		<tag k='amenity' v='recycling' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='recycling:christmas_trees' v='yes' />
 		<tag k='name' v='Brickebacken, Gällerstavägen Norra Bro' />
 	</node>

@@ -2,104 +2,70 @@
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-26586' lat='59.4260405328162' lon='15.1783223471517' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Norsebäcksbadet' />
 	</node>
 	<node  id='-26587' lat='59.2838576995623' lon='15.176815073746921' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Varbergabadet' />
 	</node>
 	<node  id='-26588' lat='59.35008066833352' lon='15.17865750351304' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Lången' />
 	</node>
 	<node  id='-26589' lat='59.44416359077588' lon='15.029548054577713' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Ramsjön' />
 	</node>
 	<node  id='-26590' lat='59.392008623434236' lon='15.4068930877024' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Väringsbricka' />
 	</node>
 	<node  id='-26591' lat='59.25369922281051' lon='15.415658682284324' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hjälmarbaden' />
 	</node>
 	<node  id='-26592' lat='59.31101974744005' lon='15.513244706947326' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Åstabadet' />
 	</node>
 	<node  id='-26593' lat='59.1363775662748' lon='15.74236626384993' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Dimbobaden' />
 	</node>
 	<node  id='-26594' lat='59.29971996244237' lon='15.186129503264377' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Vivallabadet' />
 	</node>
 	<node  id='-26595' lat='59.33775865831042' lon='14.934922254971863' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Södra Ånnabodasjön' />
 	</node>
 	<node  id='-26596' lat='59.23572780048654' lon='15.567947188952449' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Katrinelund' />
 	</node>
 	<node  id='-26597' lat='59.287698496131156' lon='14.982041530179433' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Lögardammen' />
 	</node>
 	<node  id='-26598' lat='59.204787451979485' lon='15.711215646311366' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Norra Vinön' />
 	</node>
 	<node  id='-26599' lat='59.28303426686297' lon='15.411197839422284' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Norra Ässundet' />
 	</node>
 	<node  id='-26600' lat='59.370508961309476' lon='15.388033261124415' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Tjugestasjön' />
 	</node>
 	<node  id='-26601' lat='59.277180434995095' lon='15.253840371567572' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Alnängsbadet' />
 	</node>
 	<node  id='-26602' lat='59.14486168280528' lon='15.664484038080229' >
 		<tag k='amenity' v='public bath' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hampetorp' />
 	</node>
 </osm>

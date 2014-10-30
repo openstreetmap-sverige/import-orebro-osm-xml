@@ -2,74 +2,50 @@
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-26631' lat='59.2756053554633' lon='15.16512215776857' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hagabiblioteket' />
 	</node>
 	<node  id='-26632' lat='59.25394217449239' lon='15.250957116385282' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Universitetsbiblioteket' />
 	</node>
 	<node  id='-26633' lat='59.30329985968751' lon='14.949692895221686' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Garphyttans bibliotek' />
 	</node>
 	<node  id='-26634' lat='59.28678926586465' lon='15.179282674465767' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Varberga bibliotek' />
 	</node>
 	<node  id='-26635' lat='59.299245858941234' lon='15.187636671927986' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Vivalla bibliotek' />
 	</node>
 	<node  id='-26636' lat='59.254448682886434' lon='14.955041692566263' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Vintrosa bibliotek' />
 	</node>
 	<node  id='-26637' lat='59.344826969132185' lon='15.232699968618945' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hovsta bibliotek' />
 	</node>
 	<node  id='-26638' lat='59.23935286655231' lon='15.185588533900287' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Adolfsbergs bibliotek' />
 	</node>
 	<node  id='-26639' lat='59.15764790369126' lon='15.527974013541172' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Odensbackens bibliotek' />
 	</node>
 	<node  id='-26640' lat='59.28120666083018' lon='15.190894957755757' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Markbackens bibliotek' />
 	</node>
 	<node  id='-26641' lat='59.23931588077535' lon='15.242364129559038' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Brickebackens bibliotek' />
 	</node>
 	<node  id='-26642' lat='59.319268191259845' lon='15.399429051540936' >
 		<tag k='amenity' v='library' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Glanshammars bibliotek' />
 	</node>
 </osm>

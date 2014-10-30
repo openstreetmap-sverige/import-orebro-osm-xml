@@ -2,56 +2,38 @@
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-26885' lat='59.2732110607109' lon='15.21475118440348' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Kvarnplatsen' />
 	</node>
 	<node  id='-26886' lat='59.27484338372112' lon='15.214515588528135' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Henry Allards park' />
 	</node>
 	<node  id='-26887' lat='59.27291088536889' lon='15.240175685290236' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Skebäcksparken' />
 	</node>
 	<node  id='-26888' lat='59.287591002330444' lon='15.172441716127286' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Varbergaparken' />
 	</node>
 	<node  id='-26889' lat='59.271035248945964' lon='15.232173881784412' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Skytteparken' />
 	</node>
 	<node  id='-26890' lat='59.283447438806306' lon='15.165991916694164' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Varbergaskogen' />
 	</node>
 	<node  id='-26891' lat='59.272614249543246' lon='15.202258683087999' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Hagaparken' />
 	</node>
 	<node  id='-26892' lat='59.26979354060922' lon='15.150022220819489' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Karlslunds trädgård och park' />
 	</node>
 	<node  id='-26893' lat='59.27146050891667' lon='15.20320877867688' >
 		<tag k='leisure' v='park' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Väståparken' />
 	</node>
 </osm>
