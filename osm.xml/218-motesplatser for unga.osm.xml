@@ -2,134 +2,90 @@
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
 	<node  id='-26863' lat='59.319499897647546' lon='15.228123754242626' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Lillåns fritidsgård' />
 	</node>
 	<node  id='-26864' lat='59.273153151626495' lon='15.205434495630232' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Café 019 - Mötesplats för unga' />
 	</node>
 	<node  id='-26865' lat='59.27258693678884' lon='15.237258280660846' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Engelbrektsgården - fritidsklubb' />
 	</node>
 	<node  id='-26866' lat='59.22461233194684' lon='15.151830172639048' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Mariebergsgården - fritidsgård' />
 	</node>
 	<node  id='-26867' lat='59.2849759752068' lon='15.232375987436987' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Norrbygården - fritidsklubb och fritidsgård' />
 	</node>
 	<node  id='-26868' lat='59.27783701062637' lon='15.214788854870214' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Café Deed - Mötesplats för unga' />
 	</node>
 	<node  id='-26869' lat='59.28698255275957' lon='15.178899069592457' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Varberga fritidsgård och fritidsklubb' />
 	</node>
 	<node  id='-26870' lat='59.157767309522185' lon='15.527367261942098' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Odengården - fritidsgård' />
 	</node>
 	<node  id='-26871' lat='59.239397037474255' lon='15.24236227043555' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Trädet - fritidsklubb och fritidsgård' />
 	</node>
 	<node  id='-26872' lat='59.25407083320476' lon='14.956223671843386' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Viagården - fritidsklubb och fritidsgård' />
 	</node>
 	<node  id='-26873' lat='59.278554140497555' lon='15.1753617180188' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Haga fritidsklubb' />
 	</node>
 	<node  id='-26874' lat='59.27483018727305' lon='15.164635236045457' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Haga fritidsgård' />
 	</node>
 	<node  id='-26875' lat='59.24665627069922' lon='15.165567750586819' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Adolfsbergsgården - fritidsklubb och fritidsgård' />
 	</node>
 	<node  id='-26876' lat='59.289409719740135' lon='15.199515554112317' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='52:an - fritidsklubb och fritidsgård' />
 	</node>
 	<node  id='-26877' lat='59.2788450048112' lon='15.21535900106541' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Brädcentralen - Mötesplats för unga' />
 	</node>
 	<node  id='-26878' lat='59.37106664515917' lon='15.083603038015735' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Närkes Kilsgården - fritidsgård' />
 	</node>
 	<node  id='-26879' lat='59.29759116512707' lon='15.188334825717178' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Vivalla fritidsgård och fritidsklubb' />
 	</node>
 	<node  id='-26880' lat='59.25624897391154' lon='15.210644705743587' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Kuggen - fritidsgård' />
 	</node>
 	<node  id='-26881' lat='59.19926653494332' lon='15.162312171434102' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Stationshuset - Fritidsgård' />
 	</node>
 	<node  id='-26882' lat='59.31943244785599' lon='15.400503960056131' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Glanshammars fritidsgård  och fritidsklubb' />
 	</node>
 	<node  id='-26883' lat='59.277872003173535' lon='15.214586536594613' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Kulturhuset - Mötesplats för unga' />
 	</node>
 	<node  id='-26884' lat='59.281396062908954' lon='15.190996540139619' >
 		<tag k='amenity' v='community_centre' />
-		<tag k='source' v='data.karta.orebro.se' />
-		<tag k='source:license' v='cc-by' />
 		<tag k='name' v='Tegelbruket - Allaktivitetshus för ungdomar' />
 	</node>
 </osm>
