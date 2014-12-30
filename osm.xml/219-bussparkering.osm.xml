@@ -1,68 +1,81 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-27026' lat='59.24936322504219' lon='15.176103778708892' >
-		<tag k='amenity' v='parking' />
-		<tag k='note' v='bussparkering' />
-		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
-	</node>
-	<node  id='-27027' lat='59.270853010015905' lon='15.231711723529454' >
-		<tag k='amenity' v='parking' />
-		<tag k='note' v='bussparkering' />
+	<node  id='-32980' lat='59.270853010015905' lon='15.231711723529454' >
 		<tag k='name' v='Bussparkering Skyttegatan' />
-	</node>
-	<node  id='-27028' lat='59.268524248221894' lon='15.19969519060456' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2037' />
+	</node>
+	<node  id='-32981' lat='59.24936322504219' lon='15.176103778708892' >
+		<tag k='name' v='Bussparkering Brunnsparken, Brunnsvägen' />
+		<tag k='amenity' v='parking' />
+		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1739' />
+	</node>
+	<node  id='-32982' lat='59.268524248221894' lon='15.19969519060456' >
 		<tag k='name' v='Bussparkering Svartå Bangata' />
-	</node>
-	<node  id='-27029' lat='59.27242755208226' lon='15.209052387588608' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1734' />
+	</node>
+	<node  id='-32983' lat='59.27242755208226' lon='15.209052387588608' >
 		<tag k='name' v='Bussparkering Fabriksgatan' />
-	</node>
-	<node  id='-27030' lat='59.27264581528555' lon='15.219545046063596' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1732' />
+	</node>
+	<node  id='-32984' lat='59.27264581528555' lon='15.219545046063596' >
 		<tag k='name' v='Bussparkering Hamnplan, Kanalvägen' />
-	</node>
-	<node  id='-27031' lat='59.265033917832326' lon='15.203921583789983' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1731' />
+	</node>
+	<node  id='-32985' lat='59.265033917832326' lon='15.203921583789983' >
 		<tag k='name' v='Bussparkering Kungsgatan' />
-	</node>
-	<node  id='-27032' lat='59.27215809190392' lon='15.224884897298383' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1737' />
+	</node>
+	<node  id='-32986' lat='59.27215809190392' lon='15.224884897298383' >
 		<tag k='name' v='Bussparkering Floragatan' />
-	</node>
-	<node  id='-27033' lat='59.28805795078614' lon='15.227324624654356' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1735' />
+	</node>
+	<node  id='-32987' lat='59.28805795078614' lon='15.227324624654356' >
 		<tag k='name' v='Bussparkering Svampen, Dalbygatan' />
-	</node>
-	<node  id='-27034' lat='59.27243887724605' lon='15.220569101461194' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1738' />
+	</node>
+	<node  id='-32988' lat='59.27243887724605' lon='15.220569101461194' >
 		<tag k='name' v='Bussparkering Kanalvägen' />
-	</node>
-	<node  id='-27035' lat='59.27665243569508' lon='15.221329911303004' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1742' />
+	</node>
+	<node  id='-32989' lat='59.27665243569508' lon='15.221329911303004' >
 		<tag k='name' v='Bussparkering Järnvägsgatan' />
-	</node>
-	<node  id='-27036' lat='59.274620459325234' lon='15.217628953304807' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1740' />
+	</node>
+	<node  id='-32990' lat='59.274620459325234' lon='15.217628953304807' >
 		<tag k='name' v='Bussparkering Olaigatan' />
-	</node>
-	<node  id='-27037' lat='59.269143542881366' lon='15.20450662554701' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1741' />
+	</node>
+	<node  id='-32991' lat='59.269143542881366' lon='15.20450662554701' >
 		<tag k='name' v='Bussparkering Änggatan' />
-	</node>
-	<node  id='-27038' lat='59.27275760703576' lon='15.23663391352924' >
 		<tag k='amenity' v='parking' />
 		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1733' />
+	</node>
+	<node  id='-32992' lat='59.27275760703576' lon='15.23663391352924' >
 		<tag k='name' v='Bussparkering Slussgatan' />
+		<tag k='amenity' v='parking' />
+		<tag k='note' v='bussparkering' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1736' />
 	</node>
 </osm>

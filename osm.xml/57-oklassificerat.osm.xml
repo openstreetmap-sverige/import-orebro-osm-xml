@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-27087' lat='59.28172902849254' lon='15.318389428454578' >
-		<tag k='note' v='Todo: oklassficierad' />
+	<node  id='-33100' lat='59.28172902849254' lon='15.318389428454578' >
 		<tag k='name' v='Hela området' />
-	</node>
-	<node  id='-27088' lat='59.2880122119479' lon='15.22540848019071' >
 		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33101' lat='59.2880122119479' lon='15.22540848019071' >
 		<tag k='name' v='Svampen' />
-	</node>
-	<node  id='-27089' lat='59.26045114036583' lon='15.193476416467' >
 		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33102' lat='59.26045114036583' lon='15.193476416467' >
 		<tag k='name' v='Gustavsvik' />
+		<tag k='note' v='Todo: oklassficierad' />
 	</node>
 </osm>

@@ -1,39 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-26885' lat='59.2732110607109' lon='15.21475118440348' >
+	<node  id='-32820' lat='59.27208797877136' lon='15.228648118902077' >
+		<tag k='name' v='Stadsparken' />
 		<tag k='leisure' v='park' />
-		<tag k='name' v='Kvarnplatsen' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/766' />
 	</node>
-	<node  id='-26886' lat='59.27484338372112' lon='15.214515588528135' >
-		<tag k='leisure' v='park' />
-		<tag k='name' v='Henry Allards park' />
-	</node>
-	<node  id='-26887' lat='59.27291088536889' lon='15.240175685290236' >
-		<tag k='leisure' v='park' />
-		<tag k='name' v='Skebäcksparken' />
-	</node>
-	<node  id='-26888' lat='59.287591002330444' lon='15.172441716127286' >
-		<tag k='leisure' v='park' />
+	<node  id='-32821' lat='59.287591002330444' lon='15.172441716127286' >
 		<tag k='name' v='Varbergaparken' />
-	</node>
-	<node  id='-26889' lat='59.271035248945964' lon='15.232173881784412' >
 		<tag k='leisure' v='park' />
-		<tag k='name' v='Skytteparken' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/709' />
 	</node>
-	<node  id='-26890' lat='59.283447438806306' lon='15.165991916694164' >
-		<tag k='leisure' v='park' />
+	<node  id='-32822' lat='59.283447438806306' lon='15.165991916694164' >
 		<tag k='name' v='Varbergaskogen' />
-	</node>
-	<node  id='-26891' lat='59.272614249543246' lon='15.202258683087999' >
 		<tag k='leisure' v='park' />
-		<tag k='name' v='Hagaparken' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/710' />
 	</node>
-	<node  id='-26892' lat='59.26979354060922' lon='15.150022220819489' >
-		<tag k='leisure' v='park' />
+	<node  id='-32823' lat='59.26979354060922' lon='15.150022220819489' >
 		<tag k='name' v='Karlslunds trädgård och park' />
-	</node>
-	<node  id='-26893' lat='59.27146050891667' lon='15.20320877867688' >
 		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/890' />
+	</node>
+	<node  id='-32824' lat='59.272614249543246' lon='15.202258683087999' >
+		<tag k='name' v='Hagaparken' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/772' />
+	</node>
+	<node  id='-32825' lat='59.27146050891667' lon='15.20320877867688' >
 		<tag k='name' v='Väståparken' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/771' />
+	</node>
+	<node  id='-32826' lat='59.2732110607109' lon='15.21475118440348' >
+		<tag k='name' v='Kvarnplatsen' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/889' />
+	</node>
+	<node  id='-32827' lat='59.27291088536889' lon='15.240175685290236' >
+		<tag k='name' v='Skebäcksparken' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/702' />
+	</node>
+	<node  id='-32828' lat='59.27484338372112' lon='15.214515588528135' >
+		<tag k='name' v='Henry Allards park' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/780' />
+	</node>
+	<node  id='-32829' lat='59.271035248945964' lon='15.232173881784412' >
+		<tag k='name' v='Skytteparken' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/767' />
+	</node>
+	<node  id='-32830' lat='59.27334550210605' lon='15.216804396775347' >
+		<tag k='name' v='Slottsparken' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/779' />
+	</node>
+	<node  id='-32831' lat='59.27402634796123' lon='15.226440108373069' >
+		<tag k='name' v='Stora Holmen' />
+		<tag k='leisure' v='park' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/768' />
 	</node>
 </osm>

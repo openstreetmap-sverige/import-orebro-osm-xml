@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-33103' lat='59.31958330201978' lon='15.245826981309525' >
+		<tag k='name' v='Lillåspåret' />
+		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33104' lat='59.28753917528536' lon='15.239621716595241' >
+		<tag k='name' v='Venaspåret' />
+		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33105' lat='59.27510697479513' lon='15.147060344571484' >
+		<tag k='name' v='Karlslunds motionscentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33106' lat='59.246008580474985' lon='15.160691346943121' >
+		<tag k='name' v='Sanatoriespåret i Adolfsberg' />
+		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+</osm>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-27083' lat='59.26386843958615' lon='15.19610659332376' >
-		<tag k='note' v='Todo: oklassficierad' />
+	<node  id='-33096' lat='59.26386843958615' lon='15.19610659332376' >
 		<tag k='name' v='Tappstället' />
-	</node>
-	<node  id='-27084' lat='59.26205338843768' lon='15.195788453344136' >
 		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33097' lat='59.26205338843768' lon='15.195788453344136' >
 		<tag k='name' v='Södra vattentornet' />
-	</node>
-	<node  id='-27085' lat='59.26554878888234' lon='15.204108218463634' >
 		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33098' lat='59.26554878888234' lon='15.204108218463634' >
 		<tag k='name' v='Drottningparken' />
-	</node>
-	<node  id='-27086' lat='59.2671929294705' lon='15.200501466738398' >
 		<tag k='note' v='Todo: oklassficierad' />
+	</node>
+	<node  id='-33099' lat='59.2671929294705' lon='15.200501466738398' >
 		<tag k='name' v='Kvarteret tågmästaren' />
+		<tag k='note' v='Todo: oklassficierad' />
 	</node>
 </osm>

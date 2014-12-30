@@ -1,33 +1,59 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-26779' lat='59.24481703524773' lon='15.190420239346977' >
-		<tag k='amenity' v='toilets' />
-		<tag k='access' v='public' />
-		<tag k='operator' v='Örebro kommun' />
+	<node  id='-32711' lat='59.24481703524773' lon='15.190420239346977' >
 		<tag k='name' v='Sommarro' />
-	</node>
-	<node  id='-26780' lat='59.27438688905096' lon='15.225586838973829' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
 		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1878' />
+	</node>
+	<node  id='-32712' lat='59.27438688905096' lon='15.225586838973829' >
 		<tag k='name' v='Stora holmen' />
-	</node>
-	<node  id='-26781' lat='59.27191069332479' lon='15.231977599729692' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
 		<tag k='operator' v='Örebro kommun' />
-		<tag k='name' v='Wadköping' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1882' />
 	</node>
-	<node  id='-26782' lat='59.27632689309168' lon='15.209790951533973' >
+	<node  id='-32713' lat='59.27703521869469' lon='15.25241332721478' >
+		<tag k='name' v='Alnängsbadet' />
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
 		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1883' />
+	</node>
+	<node  id='-32714' lat='59.27632689309168' lon='15.209790951533973' >
 		<tag k='name' v='Resecentrum' />
-	</node>
-	<node  id='-26783' lat='59.27222577567227' lon='15.213154303683384' >
 		<tag k='amenity' v='toilets' />
 		<tag k='access' v='public' />
 		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1885' />
+	</node>
+	<node  id='-32715' lat='59.27191069332479' lon='15.231977599729692' >
+		<tag k='name' v='Wadköping' />
+		<tag k='amenity' v='toilets' />
+		<tag k='access' v='public' />
+		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1881' />
+	</node>
+	<node  id='-32716' lat='59.27263178605909' lon='15.220548251175343' >
+		<tag k='name' v='Hamnplan' />
+		<tag k='amenity' v='toilets' />
+		<tag k='access' v='public' />
+		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1879' />
+	</node>
+	<node  id='-32717' lat='59.27222577567227' lon='15.213154303683384' >
 		<tag k='name' v='Rådhuset' />
+		<tag k='amenity' v='toilets' />
+		<tag k='access' v='public' />
+		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1877' />
+	</node>
+	<node  id='-32718' lat='59.272132660280576' lon='15.226361801579916' >
+		<tag k='name' v='Stadsparken' />
+		<tag k='amenity' v='toilets' />
+		<tag k='access' v='public' />
+		<tag k='operator' v='Örebro kommun' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1880' />
 	</node>
 </osm>

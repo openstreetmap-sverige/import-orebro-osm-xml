@@ -1,11 +1,248 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-27057' lat='59.26847599854124' lon='15.210154180964834' >
+	<node  id='-33022' lat='59.28614027104587' lon='15.231076421871174' >
+		<tag k='name' v='Återvinningsstation' />
 		<tag k='amenity' v='recycling' />
-		<tag k='name' v='Återvinningsstation: Krämaren, Köpmangatan (endast glas och batteri)' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/845' />
 	</node>
-	<node  id='-27058' lat='59.26570009302918' lon='15.209781956712224' >
+	<node  id='-33023' lat='59.28091655740089' lon='15.197918019339664' >
+		<tag k='name' v='Återvinningsstation' />
 		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/866' />
+	</node>
+	<node  id='-33024' lat='59.14335283113864' lon='15.672301081967667' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/843' />
+	</node>
+	<node  id='-33025' lat='59.3024673998157' lon='15.15595695406078' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/887' />
+	</node>
+	<node  id='-33026' lat='59.26973278073064' lon='15.225969628493168' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/846' />
+	</node>
+	<node  id='-33027' lat='59.22459880881511' lon='15.155642852620822' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/854' />
+	</node>
+	<node  id='-33028' lat='59.289799986051264' lon='15.174366019723657' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/863' />
+	</node>
+	<node  id='-33029' lat='59.21167585259904' lon='15.132112175880954' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/847' />
+	</node>
+	<node  id='-33030' lat='59.21927354815464' lon='15.221330284217704' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/831' />
+	</node>
+	<node  id='-33031' lat='59.195401598362274' lon='15.241725480578243' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/841' />
+	</node>
+	<node  id='-33032' lat='59.26564399852304' lon='15.23522858881703' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/868' />
+	</node>
+	<node  id='-33033' lat='59.25881842891563' lon='15.240848575477845' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/836' />
+	</node>
+	<node  id='-33034' lat='59.31449629614367' lon='15.40658120114331' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/839' />
+	</node>
+	<node  id='-33035' lat='59.294771344879855' lon='15.168358644083728' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/856' />
+	</node>
+	<node  id='-33036' lat='59.30463238723285' lon='14.946182989625985' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/838' />
+	</node>
+	<node  id='-33037' lat='59.439284835393' lon='15.241496035196342' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/837' />
+	</node>
+	<node  id='-33038' lat='59.28076792213768' lon='15.204552476812506' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/872' />
+	</node>
+	<node  id='-33039' lat='59.3158136738308' lon='15.411479779203557' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/886' />
+	</node>
+	<node  id='-33040' lat='59.29167414749226' lon='15.231860224832843' >
+		<tag k='name' v='Återvinningsstation: Pettersbergs idrottsplats' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/859' />
+	</node>
+	<node  id='-33041' lat='59.346762167899065' lon='15.235866493970113' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/844' />
+	</node>
+	<node  id='-33042' lat='59.28213892765962' lon='15.237828828877873' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/848' />
+	</node>
+	<node  id='-33043' lat='59.38775336515548' lon='15.241687554458082' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/867' />
+	</node>
+	<node  id='-33044' lat='59.25498383258913' lon='15.2243804493378' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/862' />
+	</node>
+	<node  id='-33045' lat='59.163857253655436' lon='15.534811979664875' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/858' />
+	</node>
+	<node  id='-33046' lat='59.34668927495921' lon='15.239726173441317' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/885' />
+	</node>
+	<node  id='-33047' lat='59.32812696616814' lon='15.50355676245109' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/851' />
+	</node>
+	<node  id='-33048' lat='59.27944349144554' lon='15.215260060798782' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/826' />
+	</node>
+	<node  id='-33049' lat='59.26847599854124' lon='15.210154180964834' >
+		<tag k='name' v='Återvinningsstation: Krämaren, Köpmangatan (endast glas och batteri)' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/825' />
+	</node>
+	<node  id='-33050' lat='59.0163366820227' lon='15.579924370059157' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/833' />
+	</node>
+	<node  id='-33051' lat='59.26570565876982' lon='15.23089600211659' >
+		<tag k='name' v='Återvinningsstation: Vinterstadion, grusplan' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/864' />
+	</node>
+	<node  id='-33052' lat='59.308507705239165' lon='15.185044834727776' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/853' />
+	</node>
+	<node  id='-33053' lat='59.270414037560805' lon='15.18877510186283' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/861' />
+	</node>
+	<node  id='-33054' lat='59.20978335613352' lon='15.500497521360044' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/860' />
+	</node>
+	<node  id='-33055' lat='59.32497695450044' lon='15.23068160465073' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/852' />
+	</node>
+	<node  id='-33056' lat='59.2753922018736' lon='14.995320762853202' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/850' />
+	</node>
+	<node  id='-33057' lat='59.153075758864624' lon='15.434325535324623' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/830' />
+	</node>
+	<node  id='-33058' lat='59.251623353964604' lon='15.244123445446869' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/834' />
+	</node>
+	<node  id='-33059' lat='59.2512166403658' lon='14.960556670686278' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/865' />
+	</node>
+	<node  id='-33060' lat='59.28079361518299' lon='15.212078586618366' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/840' />
+	</node>
+	<node  id='-33061' lat='59.24811505505708' lon='15.168847563338408' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/827' />
+	</node>
+	<node  id='-33062' lat='59.29806464067147' lon='15.205672306857224' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/888' />
+	</node>
+	<node  id='-33063' lat='59.24183549698767' lon='15.188452335377672' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/828' />
+	</node>
+	<node  id='-33064' lat='59.07020503216857' lon='15.537806343415598' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/849' />
+	</node>
+	<node  id='-33065' lat='59.28804209624692' lon='15.203054915558623' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/832' />
+	</node>
+	<node  id='-33066' lat='59.26570009302918' lon='15.209781956712224' >
 		<tag k='name' v='Återvinningsstation: Kungsg./Ängg., Servus  (endast glas och batteri)' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/870' />
+	</node>
+	<node  id='-33067' lat='59.36971983740506' lon='15.081123981376654' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/857' />
+	</node>
+	<node  id='-33068' lat='59.2610193471021' lon='15.239093631254836' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/829' />
+	</node>
+	<node  id='-33069' lat='59.215757961923124' lon='15.135008352128006' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/855' />
+	</node>
+	<node  id='-33070' lat='59.27592926999424' lon='15.163449559608678' >
+		<tag k='name' v='Återvinningsstation' />
+		<tag k='amenity' v='recycling' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/842' />
 	</node>
 </osm>

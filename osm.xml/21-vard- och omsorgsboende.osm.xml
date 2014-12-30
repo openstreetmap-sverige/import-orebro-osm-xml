@@ -1,98 +1,141 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-26760' lat='59.27957269166598' lon='15.225985843721913' >
-		<tag k='social_facility' v='assisted_living' />
-		<tag k='amenity' v='social_facility' />
+	<node  id='-32688' lat='59.27957269166598' lon='15.225985843721913' >
 		<tag k='name' v='Berggården' />
-	</node>
-	<node  id='-26761' lat='59.280506898188044' lon='15.21811883187021' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/884' />
+	</node>
+	<node  id='-32689' lat='59.280506898188044' lon='15.21811883187021' >
 		<tag k='name' v='Klosterbacken' />
-	</node>
-	<node  id='-26762' lat='59.254401385646474' lon='14.95467471646069' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/527' />
+	</node>
+	<node  id='-32690' lat='59.254401385646474' lon='14.95467471646069' >
 		<tag k='name' v='Vintrosahemmet' />
-	</node>
-	<node  id='-26763' lat='59.27169725528797' lon='15.233671119224853' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/538' />
+	</node>
+	<node  id='-32691' lat='59.389533524004634' lon='15.244350733949226' >
+		<tag k='name' v='Ölmbrogården' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/540' />
+	</node>
+	<node  id='-32692' lat='59.299492863805945' lon='15.190493491053296' >
+		<tag k='name' v='Rosenlund' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/531' />
+	</node>
+	<node  id='-32693' lat='59.27169725528797' lon='15.233671119224853' >
 		<tag k='name' v='Skebäcksgården' />
-	</node>
-	<node  id='-26764' lat='59.23896777840613' lon='15.161851877604958' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
-		<tag k='name' v='Adolfsbergshemmet' />
-	</node>
-	<node  id='-26765' lat='59.25714063092977' lon='15.205145720294409' >
 		<tag k='social_facility' v='assisted_living' />
-		<tag k='amenity' v='social_facility' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/534' />
+	</node>
+	<node  id='-32694' lat='59.25714063092977' lon='15.205145720294409' >
 		<tag k='name' v='Ängen' />
-	</node>
-	<node  id='-26766' lat='59.274498668718394' lon='15.18870092401442' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/541' />
+	</node>
+	<node  id='-32695' lat='59.23896777840613' lon='15.161851877604958' >
+		<tag k='name' v='Adolfsbergshemmet' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/521' />
+	</node>
+	<node  id='-32696' lat='59.274498668718394' lon='15.18870092401442' >
 		<tag k='name' v='Rostahemmet' />
-	</node>
-	<node  id='-26767' lat='59.16032627345977' lon='15.52518989155018' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/532' />
+	</node>
+	<node  id='-32697' lat='59.16032627345977' lon='15.52518989155018' >
 		<tag k='name' v='Askenäs' />
-	</node>
-	<node  id='-26768' lat='59.286128003606564' lon='15.179926573378282' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
-		<tag k='name' v='Ädelgården' />
-	</node>
-	<node  id='-26769' lat='59.25638857165838' lon='15.201731520712812' >
 		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/522' />
+	</node>
+	<node  id='-32698' lat='59.265165029091214' lon='15.208616401846678' >
+		<tag k='name' v='Södermalmshemmet' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/536' />
+	</node>
+	<node  id='-32699' lat='59.25638857165838' lon='15.201731520712812' >
 		<tag k='name' v='Backagården' />
-	</node>
-	<node  id='-26770' lat='59.2390517136722' lon='15.160676243507469' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/883' />
+	</node>
+	<node  id='-32700' lat='59.286128003606564' lon='15.179926573378282' >
+		<tag k='name' v='Ädelgården' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/539' />
+	</node>
+	<node  id='-32701' lat='59.2390517136722' lon='15.160676243507469' >
 		<tag k='name' v='Lindhultsgården' />
-	</node>
-	<node  id='-26771' lat='59.2706770412384' lon='15.226321835725525' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/528' />
+	</node>
+	<node  id='-32702' lat='59.2706770412384' lon='15.226321835725525' >
 		<tag k='name' v='Sirishof' />
-	</node>
-	<node  id='-26772' lat='59.297120779211596' lon='15.155132289875056' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/533' />
+	</node>
+	<node  id='-32703' lat='59.27782015369854' lon='15.219586294748739' >
+		<tag k='name' v='Tullhuset' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/537' />
+	</node>
+	<node  id='-32704' lat='59.297120779211596' lon='15.155132289875056' >
 		<tag k='name' v='Löwenhjelmska huset' />
-	</node>
-	<node  id='-26773' lat='59.28694425253886' lon='15.200582641990042' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/529' />
+	</node>
+	<node  id='-32705' lat='59.28694425253886' lon='15.200582641990042' >
 		<tag k='name' v='Mikaeligården' />
-	</node>
-	<node  id='-26774' lat='59.2992125355193' lon='15.155109754142572' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/530' />
+	</node>
+	<node  id='-32706' lat='59.2992125355193' lon='15.155109754142572' >
 		<tag k='name' v='Demenscentrum' />
-	</node>
-	<node  id='-26775' lat='59.25491292207116' lon='15.236723559387446' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/523' />
+	</node>
+	<node  id='-32707' lat='59.25491292207116' lon='15.236723559387446' >
 		<tag k='name' v='Jeremiasgården' />
-	</node>
-	<node  id='-26776' lat='59.27440122466306' lon='15.166723570289955' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/526' />
+	</node>
+	<node  id='-32708' lat='59.27440122466306' lon='15.166723570289955' >
 		<tag k='name' v='Skäpplandsgården' />
-	</node>
-	<node  id='-26777' lat='59.31803002001911' lon='15.399672240886224' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/535' />
+	</node>
+	<node  id='-32709' lat='59.31803002001911' lon='15.399672240886224' >
 		<tag k='name' v='Hagagården' />
-	</node>
-	<node  id='-26778' lat='59.29831488223547' lon='15.16234146262864' >
-		<tag k='social_facility' v='assisted_living' />
 		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/525' />
+	</node>
+	<node  id='-32710' lat='59.29831488223547' lon='15.16234146262864' >
 		<tag k='name' v='Elgströmska huset' />
+		<tag k='amenity' v='social_facility' />
+		<tag k='social_facility' v='assisted_living' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/524' />
 	</node>
 </osm>

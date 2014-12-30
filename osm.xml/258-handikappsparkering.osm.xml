@@ -1,8 +1,519 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
-	<node  id='-26719' lat='59.272405421614394' lon='15.218130431999432' >
+	<node  id='-32553' lat='59.27490190922367' lon='15.213675214013845' >
+		<tag k='name' v='Handikapplats' />
 		<tag k='amenity' v='parking' />
 		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2354' />
+	</node>
+	<node  id='-32554' lat='59.266094204803636' lon='15.218182060239902' >
 		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2351' />
+	</node>
+	<node  id='-32555' lat='59.280947398582654' lon='15.20485530091626' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2305' />
+	</node>
+	<node  id='-32556' lat='59.27564346091578' lon='15.207671715316462' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2323' />
+	</node>
+	<node  id='-32557' lat='59.27666062584449' lon='15.214673110917536' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2313' />
+	</node>
+	<node  id='-32558' lat='59.27050002489175' lon='15.226256447743708' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2301' />
+	</node>
+	<node  id='-32559' lat='59.26914354395902' lon='15.210649848371222' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2315' />
+	</node>
+	<node  id='-32560' lat='59.27156775185144' lon='15.215906775617126' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2319' />
+	</node>
+	<node  id='-32561' lat='59.2719336173332' lon='15.215023956810349' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2317' />
+	</node>
+	<node  id='-32562' lat='59.275241127626295' lon='15.211370896328763' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2320' />
+	</node>
+	<node  id='-32563' lat='59.26837605161195' lon='15.207295370837416' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2324' />
+	</node>
+	<node  id='-32564' lat='59.27119070933162' lon='15.223994899905124' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2275' />
+	</node>
+	<node  id='-32565' lat='59.272405421614394' lon='15.218130431999432' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2273' />
+	</node>
+	<node  id='-32566' lat='59.27087290480492' lon='15.216977591973803' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2287' />
+	</node>
+	<node  id='-32567' lat='59.27532679194822' lon='15.212450668348394' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2298' />
+	</node>
+	<node  id='-32568' lat='59.27123120541789' lon='15.215833175676522' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2331' />
+	</node>
+	<node  id='-32569' lat='59.27679438543695' lon='15.217904808372204' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2349' />
+	</node>
+	<node  id='-32570' lat='59.2724941277178' lon='15.218155921079838' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2274' />
+	</node>
+	<node  id='-32571' lat='59.272190905188396' lon='15.212534508774663' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2350' />
+	</node>
+	<node  id='-32572' lat='59.27723634567012' lon='15.215832820225016' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2312' />
+	</node>
+	<node  id='-32573' lat='59.271405164267605' lon='15.216091782790985' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2310' />
+	</node>
+	<node  id='-32574' lat='59.26622673023166' lon='15.204775537225778' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2356' />
+	</node>
+	<node  id='-32575' lat='59.28116076510799' lon='15.228309421974078' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2333' />
+	</node>
+	<node  id='-32576' lat='59.254645215720004' lon='15.25122894133598' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2344' />
+	</node>
+	<node  id='-32577' lat='59.27872565080362' lon='15.210600511327042' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2311' />
+	</node>
+	<node  id='-32578' lat='59.268476102201895' lon='15.212293160869748' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2335' />
+	</node>
+	<node  id='-32579' lat='59.275392431838945' lon='15.21246245018812' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2297' />
+	</node>
+	<node  id='-32580' lat='59.28784283621846' lon='15.22635397681164' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2306' />
+	</node>
+	<node  id='-32581' lat='59.24725537075813' lon='15.167937250861721' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2294' />
+	</node>
+	<node  id='-32582' lat='59.266652016867276' lon='15.194380930915722' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2339' />
+	</node>
+	<node  id='-32583' lat='59.276443460822925' lon='15.212896397077277' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2352' />
+	</node>
+	<node  id='-32584' lat='59.27924422631142' lon='15.211880165584388' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2279' />
+	</node>
+	<node  id='-32585' lat='59.27643238723818' lon='15.205335939606947' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2355' />
+	</node>
+	<node  id='-32586' lat='59.27931499621937' lon='15.222132960538849' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2308' />
+	</node>
+	<node  id='-32587' lat='59.27212985667874' lon='15.2250041436644' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2285' />
+	</node>
+	<node  id='-32588' lat='59.26712500001423' lon='15.192637315165523' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2358' />
+	</node>
+	<node  id='-32589' lat='59.266070690348954' lon='15.217968422017943' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2353' />
+	</node>
+	<node  id='-32590' lat='59.26852461176415' lon='15.210484389541257' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2329' />
+	</node>
+	<node  id='-32591' lat='59.27733702239033' lon='15.217677679197791' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2338' />
+	</node>
+	<node  id='-32592' lat='59.268530653371286' lon='15.209167476021262' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2277' />
+	</node>
+	<node  id='-32593' lat='59.27586309671118' lon='15.206189680179273' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2342' />
+	</node>
+	<node  id='-32594' lat='59.26882169587783' lon='15.210390883791328' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2316' />
+	</node>
+	<node  id='-32595' lat='59.275124257322965' lon='15.216123861899979' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2340' />
+	</node>
+	<node  id='-32596' lat='59.26978523847077' lon='15.206479016267217' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2283' />
+	</node>
+	<node  id='-32597' lat='59.26861571155027' lon='15.207875847383459' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2326' />
+	</node>
+	<node  id='-32598' lat='59.27097969326117' lon='15.217003778428667' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2289' />
+	</node>
+	<node  id='-32599' lat='59.26669435763971' lon='15.205498728004445' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2345' />
+	</node>
+	<node  id='-32600' lat='59.27707423256943' lon='15.207763990139926' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2336' />
+	</node>
+	<node  id='-32601' lat='59.278521605509916' lon='15.218768114720545' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2307' />
+	</node>
+	<node  id='-32602' lat='59.27022008258708' lon='15.213178597113258' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2286' />
+	</node>
+	<node  id='-32603' lat='59.27908201637065' lon='15.211974591968735' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2278' />
+	</node>
+	<node  id='-32604' lat='59.26937443731267' lon='15.209434507562609' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2280' />
+	</node>
+	<node  id='-32605' lat='59.27057392655141' lon='15.214268548981375' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2276' />
+	</node>
+	<node  id='-32606' lat='59.27538948468616' lon='15.212410702125128' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2299' />
+	</node>
+	<node  id='-32607' lat='59.27538862556782' lon='15.213556957629308' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2293' />
+	</node>
+	<node  id='-32608' lat='59.266267439590706' lon='15.20473702667317' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2357' />
+	</node>
+	<node  id='-32609' lat='59.27329460816179' lon='15.215230712045322' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2341' />
+	</node>
+	<node  id='-32610' lat='59.270930874527274' lon='15.217224810518374' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2328' />
+	</node>
+	<node  id='-32611' lat='59.2718182430664' lon='15.219504529962954' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2292' />
+	</node>
+	<node  id='-32612' lat='59.28004818904843' lon='15.218725859402854' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2309' />
+	</node>
+	<node  id='-32613' lat='59.26968211796877' lon='15.213301515411578' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2302' />
+	</node>
+	<node  id='-32614' lat='59.26627577061505' lon='15.220823516012961' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2290' />
+	</node>
+	<node  id='-32615' lat='59.272093385679185' lon='15.209493394673263' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2334' />
+	</node>
+	<node  id='-32616' lat='59.267047678343204' lon='15.205874289044694' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2296' />
+	</node>
+	<node  id='-32617' lat='59.287388906806946' lon='15.210711604467727' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2304' />
+	</node>
+	<node  id='-32618' lat='59.276109669616886' lon='15.214907234528' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2300' />
+	</node>
+	<node  id='-32619' lat='59.268093043643866' lon='15.208198587900679' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2322' />
+	</node>
+	<node  id='-32620' lat='59.27165166702441' lon='15.206405171476218' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2314' />
+	</node>
+	<node  id='-32621' lat='59.2711666071701' lon='15.215784151687533' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2288' />
+	</node>
+	<node  id='-32622' lat='59.27689926590071' lon='15.217990197252579' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2348' />
+	</node>
+	<node  id='-32623' lat='59.26970907070469' lon='15.206414419400716' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2282' />
+	</node>
+	<node  id='-32624' lat='59.27025909368526' lon='15.212889578764406' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2318' />
+	</node>
+	<node  id='-32625' lat='59.26619341104024' lon='15.220107752847088' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2291' />
+	</node>
+	<node  id='-32626' lat='59.25671577197545' lon='15.207706522722628' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2343' />
+	</node>
+	<node  id='-32627' lat='59.26925719905129' lon='15.205729766153455' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2337' />
+	</node>
+	<node  id='-32628' lat='59.27140692073391' lon='15.220135629662545' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2281' />
+	</node>
+	<node  id='-32629' lat='59.3157259900185' lon='15.225415433549907' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2303' />
+	</node>
+	<node  id='-32630' lat='59.2777466480927' lon='15.215845120945346' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2332' />
+	</node>
+	<node  id='-32631' lat='59.268343045459005' lon='15.207232783445608' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2325' />
+	</node>
+	<node  id='-32632' lat='59.26607597640646' lon='15.206042072688707' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2346' />
+	</node>
+	<node  id='-32633' lat='59.27789444988007' lon='15.213996049059311' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2321' />
+	</node>
+	<node  id='-32634' lat='59.26723960591512' lon='15.206911756836703' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2347' />
+	</node>
+	<node  id='-32635' lat='59.26618028802706' lon='15.193159470105098' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2295' />
+	</node>
+	<node  id='-32636' lat='59.277743975895454' lon='15.218700916459879' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2330' />
+	</node>
+	<node  id='-32637' lat='59.272911314972006' lon='15.214383236294424' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2284' />
+	</node>
+	<node  id='-32638' lat='59.27275481087947' lon='15.209514003855642' >
+		<tag k='name' v='Handikapplats' />
+		<tag k='amenity' v='parking' />
+		<tag k='capacity:disabled' v='yes' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/2327' />
 	</node>
 </osm>

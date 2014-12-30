@@ -1,0 +1,4243 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-37' lat='59.25875799036845' lon='15.266231744877587' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Edlaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-47' lat='59.443483037401684' lon='15.295492888960151' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Österrastavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-116' lat='59.30541847040907' lon='14.95377864525059' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mossvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-139' lat='59.14207259817978' lon='15.67628583549126' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Derbolsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-166' lat='59.28325091186822' lon='15.231520898501728' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Venaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-189' lat='59.20625069406886' lon='15.348773741606838' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Banvallsgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hidingsta' />
+	</node>
+	<node  id='-191' lat='59.43930551171618' lon='15.240386624220605' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hembygdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-260' lat='59.287075933485234' lon='15.234795856662188' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norrbyparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-275' lat='59.23890619210653' lon='15.181268619136976' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tempelkärrsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-499' lat='59.23746907058491' lon='15.173220530726804' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vårboparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-552' lat='59.29757833335326' lon='15.19683323190831' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Epiloggatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-616' lat='59.27041771632507' lon='15.19733210744304' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åbackebron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-649' lat='59.1941931175688' lon='15.24641414565822' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Klockare Winqvists väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Almbro' />
+	</node>
+	<node  id='-708' lat='59.155044298833694' lon='15.524843050810802' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fanérvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-777' lat='59.23945476377423' lon='15.141141109400296' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mossbergarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-786' lat='59.3265708547056' lon='15.56428468646519' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Johan Karls väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Götarsvik' />
+	</node>
+	<node  id='-917' lat='59.29308620984323' lon='15.17150601128454' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Wallerska parken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-946' lat='59.249452199093525' lon='14.952872612931941' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Violvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-975' lat='59.200348275433655' lon='15.161330182672282' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Moréns väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-1057' lat='59.3030423324419' lon='15.159964605424312' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mandaringatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1063' lat='59.30165103051187' lon='15.160273090494087' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Aprikosgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1208' lat='59.267265558199675' lon='15.225917899861493' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Margaretalunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1363' lat='59.27013077756736' lon='15.203668148418204' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Eugenparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1415' lat='59.24870606496622' lon='15.160846980662887' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Parkholmsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1447' lat='59.208810755931644' lon='15.501306687075799' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tingstadsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-1578' lat='59.38310277063513' lon='15.036766721474958' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vandrarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-1598' lat='59.23722164582617' lon='15.179472905025898' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nätvingevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1604' lat='59.261481107280694' lon='14.956688405604053' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rastorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-1623' lat='59.25225351819284' lon='14.959554565153553' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Latorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-1682' lat='59.14772467084619' lon='15.478128889380066' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fridstavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-1726' lat='59.26543442976795' lon='15.200419480413006' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Oscariarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1840' lat='59.27003993934377' lon='15.222286254354747' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Oskarsplatsen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1947' lat='59.23968246091284' lon='15.174574262715621' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ollonborrstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2008' lat='59.16311405080184' lon='15.523018734137148' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekenäsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-2021' lat='59.25305484774396' lon='15.142469687660254' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Transportgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2072' lat='59.297921767661975' lon='15.171081976986303' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björnbärsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2084' lat='59.28601744096047' lon='15.233565992273336' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norrbygatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2186' lat='59.250592159611045' lon='15.196735549522666' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlsdalsrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2251' lat='59.24378720739823' lon='15.14195409258264' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pallgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2276' lat='59.38944461130232' lon='15.23878912776005' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åsbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-2322' lat='59.23874470843752' lon='15.170954709529779' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Myravägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2344' lat='59.15932060658196' lon='15.53103384619547' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rektorsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-2396' lat='59.24322642890179' lon='15.175836669633567' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fågelvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2421' lat='59.235864407935345' lon='15.18127896927868' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekoxevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2455' lat='59.21045066269437' lon='15.495548288844036' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kaplansvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-2456' lat='59.299977149153456' lon='15.438266366981363' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Valsta' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-2556' lat='59.170195373597046' lon='15.529332031949702' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Segersjövägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-2693' lat='59.44158042794966' lon='15.242190769871629' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Myrevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-2719' lat='59.291808531322175' lon='15.161210422866402' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Begoniagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2743' lat='59.22283078456247' lon='15.157072033796064' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nytorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-2869' lat='59.23491316841087' lon='15.17264544607295' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Odensbergsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2905' lat='59.06908146629817' lon='15.537001579919725' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Dammgravsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-2912' lat='59.26550096005356' lon='15.255356469671307' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Holländaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2939' lat='59.160614046941554' lon='15.527866580556221' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lyckevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-2961' lat='59.26447440686098' lon='15.27562524363437' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Notstugegatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2984' lat='59.27298904182958' lon='15.2338177444784' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Markurells torg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2991' lat='59.28266652313593' lon='15.238062359633098' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Förrådsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3014' lat='59.27580712166025' lon='15.192217183664992' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallmoplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3020' lat='59.262026714520644' lon='15.235092150213488' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nämndemansgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3050' lat='59.299147246424276' lon='15.12845840632014' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mossbacken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3105' lat='59.26739669384445' lon='15.217802506525777' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Baggesgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3151' lat='59.31251059160821' lon='15.179762248494033' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rökstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3173' lat='59.27868662568957' lon='15.201007588205439' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hertig Karls plan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3191' lat='59.29025331635961' lon='15.191070057314644' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hjärstaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3253' lat='59.19482815388146' lon='15.14858780380514' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ryttarstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-3328' lat='59.28218348002017' lon='15.158138848353397' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pilfinkstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3359' lat='59.16397740087447' lon='15.523855504646864' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tingsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-3399' lat='59.276951799488856' lon='15.156339085248955' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rapphönsstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3405' lat='59.255272115445905' lon='14.955384347351767' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Dalstadsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-3415' lat='59.259887611794056' lon='15.175471765416653' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Aspholmsrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3562' lat='59.21357051818494' lon='15.502827547598491' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nämndvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-3669' lat='59.30929851142479' lon='15.238809829906046' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tujavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-3706' lat='59.22828930685289' lon='15.153088119878221' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogaholmsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-3726' lat='59.26444231791866' lon='15.271561314974964' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ulsavilagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3764' lat='59.23987087983631' lon='15.162724539691693' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Eriksbergsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3809' lat='59.26058680175205' lon='15.166607455048275' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Bistarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3844' lat='59.2486270176645' lon='15.201524067060125' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hjortsbergstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3877' lat='59.26303708931077' lon='15.234450170031925' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fögderigatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3894' lat='59.243119204816814' lon='15.19711103024856' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Adolfsbergsrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3961' lat='59.38454429227729' lon='15.022284479106172' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Semestervägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-3966' lat='59.245272563650595' lon='15.102989656985576' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pilängsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3981' lat='59.29997327599911' lon='15.232036358162148' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skottvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3982' lat='59.2073683802523' lon='15.499383722818642' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Råstavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-3996' lat='59.19867311941755' lon='15.152657890803676' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hellbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-4222' lat='59.312682208855676' lon='15.181012530650815' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skiffergatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4349' lat='59.29484711640957' lon='15.170384552489995' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vinbärsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4360' lat='59.30022783131095' lon='14.950011132149559' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trådvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-4398' lat='59.23525062010716' lon='15.15665612732593' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gränsrösevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4425' lat='59.201221761053326' lon='15.717350775915222' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Erkers Karls väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vinön' />
+	</node>
+	<node  id='-4496' lat='59.25184848918498' lon='15.17183570233353' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Båtyxvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4597' lat='59.256535690506176' lon='15.350437472121738' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Taggsvampsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-4625' lat='59.29247810800266' lon='15.161450941606134' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Amaryllisgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4665' lat='59.14991306031628' lon='15.475282364061595' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tångsättersvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-4696' lat='59.26330274662061' lon='15.278379810817396' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granholmsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4708' lat='59.26118249245712' lon='15.15062169240503' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skråmstagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4752' lat='59.39556352532709' lon='15.244774876906158' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hasselvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-4844' lat='59.32338416920906' lon='15.602176833973669' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Babordsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Grythem' />
+	</node>
+	<node  id='-4866' lat='59.224986296118125' lon='15.161598907053328' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Torells väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-4886' lat='59.24753304126895' lon='15.287249829996815' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ormestaskogen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5006' lat='59.272726890177516' lon='15.208766410305659' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vasaplatsen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5015' lat='59.25901836657375' lon='15.3416036259933' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rörsoppsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-5021' lat='59.01415825635984' lon='15.575540870888714' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Knipphammarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-5033' lat='59.25178526774475' lon='15.159593639480098' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Seved Bååts väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5054' lat='59.31490456075902' lon='15.238730452015389' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vinterhagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-5085' lat='59.24566660345843' lon='15.279347234574395' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sandmovägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5108' lat='59.30472362068052' lon='14.954223040336048' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Klippvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-5153' lat='59.143653561785186' lon='15.670064141684385' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granövägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-5234' lat='59.29640455222647' lon='15.136178715800721' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tallmovägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5242' lat='59.392622439704795' lon='15.244670374952946' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-5249' lat='59.26948517004037' lon='15.210355315670679' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rudbeckstunneln' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5305' lat='59.21569600860968' lon='15.509116668511783' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Råbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-5335' lat='59.30524393977881' lon='14.940861300226773' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kilsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-5386' lat='59.29864546672124' lon='15.252554053728304' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Venarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5416' lat='59.27301277648482' lon='15.214152951502218' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fisktorget' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5507' lat='59.276318098453466' lon='14.98692592653062' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-5571' lat='59.28548978593924' lon='15.206500241874403' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Holmgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5575' lat='59.26699303105514' lon='15.202541240794737' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Drottningparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5577' lat='59.30191929346144' lon='14.949624317228924' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Metallvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-5637' lat='59.15912101146792' lon='15.524204891720661' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åkarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-5670' lat='59.254057569592476' lon='15.403134884579252' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ulrikavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-5671' lat='59.26598834032171' lon='15.252193477850325' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ingenjörsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5734' lat='59.30848845505328' lon='15.223304715152171' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kabelvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-5745' lat='59.214289280272595' lon='15.138921963218413' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mariebergsrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5756' lat='59.46505190794481' lon='15.151680113721643' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Bergsstig' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-5849' lat='59.25158774961994' lon='14.961379280923074' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Holmsätersvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-5871' lat='59.2707270349429' lon='15.238970941614815' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norensbergsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5887' lat='59.30386767068176' lon='14.952661859057509' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nygatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-5915' lat='59.30330090768431' lon='15.161229490712548' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Citrongatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5927' lat='59.27117470515857' lon='15.233031493246408' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skytteparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5961' lat='59.202918234803576' lon='15.716414767138687' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hermans väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vinön' />
+	</node>
+	<node  id='-6012' lat='59.26200749781814' lon='15.23815303942149' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almbyplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6053' lat='59.304734022990644' lon='15.233429492187422' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Markörvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6133' lat='59.392476218884596' lon='15.413232737502247' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Opphammarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-6208' lat='59.371409923582' lon='15.084429314336663' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hammarbygatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kil' />
+	</node>
+	<node  id='-6229' lat='59.280952476281236' lon='15.21124019678704' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Bangatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6248' lat='59.38208050321846' lon='15.026482484283424' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ränselvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-6290' lat='59.24139367447634' lon='15.155815612784057' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sanatorierondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6291' lat='59.3028614906529' lon='15.161215879136735' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Persikogatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6338' lat='59.38517118197029' lon='15.02925669073139' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gubbahagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-6380' lat='59.24034084713672' lon='15.182302371251359' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Asplunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6455' lat='59.28458630762936' lon='15.198316247770816' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Murarestigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6464' lat='59.26752958690753' lon='15.255111850703223' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Östanbogatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6504' lat='59.42442932967349' lon='15.440105828374852' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Dunderbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ödeby' />
+	</node>
+	<node  id='-6533' lat='59.27633318399772' lon='15.162020327045138' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6563' lat='59.249832695445264' lon='14.951337484340282' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vitsippevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-6564' lat='59.3943364903647' lon='15.39350665717997' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skansenvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-6565' lat='59.28883428100794' lon='15.224831950327946' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mejerivägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6568' lat='59.22529498633654' lon='15.150144707844332' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tredje Tvärgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-6671' lat='59.280997133227785' lon='15.161335682830977' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hackspettstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6773' lat='59.366844190701194' lon='15.224449356599639' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granbackevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Axberg' />
+	</node>
+	<node  id='-6845' lat='59.268880802508995' lon='15.194290062915972' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Torsten Ehrenmarks park' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6899' lat='59.01530507386751' lon='15.58387844097474' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ladugårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-6921' lat='59.22471033372717' lon='15.169540544009513' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Manhemsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-6951' lat='59.29649338530343' lon='15.165394650600621' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mellringerondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6959' lat='59.46729489017189' lon='15.151758212433728' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Rönnbärsväg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-6988' lat='59.25802690606992' lon='15.264788408848666' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Magdalenagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7038' lat='59.25870556391096' lon='15.322452382475458' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Flugsvampsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-7117' lat='59.27442553101437' lon='15.217843241590906' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Olaiplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7220' lat='59.239843357132315' lon='15.177021814646526' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Blåvingestigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7245' lat='59.26426989526356' lon='15.21386186013064' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tennisgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7302' lat='59.463586333797494' lon='15.149837945633406' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Byväg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-7314' lat='59.19816828092732' lon='15.15660733282784' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Metallvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-7395' lat='59.2925922150844' lon='15.173775069168386' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Konvaljgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7444' lat='59.26424849394871' lon='15.204892008500998' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekängsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7552' lat='59.069997170535515' lon='15.539703289972337' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fabriksvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-7625' lat='59.27645955394828' lon='15.156047267705354' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Dahlandergatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7676' lat='59.20572270301784' lon='15.145351044555557' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nordanåsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-7749' lat='59.42321659996245' lon='15.439212934420304' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grävlingstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ödeby' />
+	</node>
+	<node  id='-7806' lat='59.27997427365549' lon='15.163254086024777' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ärlestigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7819' lat='59.29975437218608' lon='15.459671325978452' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Österbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Sticksjö' />
+	</node>
+	<node  id='-7823' lat='59.270991425753394' lon='15.203577745316538' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagatunneln' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7846' lat='59.25119121136154' lon='14.964726925033137' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åkervägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-7856' lat='59.196325570893556' lon='15.147644048496195' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hammarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-7868' lat='59.20025588789727' lon='15.162669185580356' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlsrovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-7880' lat='59.14820406951407' lon='15.477161981538849' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogsslingan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-7908' lat='59.299423747804425' lon='15.20718424034265' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Neongatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7964' lat='59.28142503946701' lon='15.22798120475512' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rynningsbergsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7979' lat='59.27750773641093' lon='14.992902389803215' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rödfyrsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-7995' lat='59.30586910409833' lon='14.91785485158988' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trollhöjden' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-7999' lat='59.285245763656356' lon='15.151192555587876' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkhagaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8022' lat='59.24378066709185' lon='15.172315662815816' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fågelsångsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8072' lat='59.390542010575864' lon='15.239094066744356' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Seltorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-8076' lat='59.27293018734396' lon='15.233148640904885' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lars Bohms udde' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8108' lat='59.161775619371575' lon='15.52827271407535' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Östra Vägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-8110' lat='59.26347364507044' lon='15.273825446155604' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vilansgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8176' lat='59.272507731334116' lon='15.189649802599263' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Harald Aronssons park' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8221' lat='59.27280541279947' lon='15.231674001465269' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Wadköping' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8281' lat='59.290002624683275' lon='15.217395733132562' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mannatorpsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8345' lat='59.279000621253054' lon='15.1562553514927' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Domherregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8475' lat='59.25290708453204' lon='15.235900123248651' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tybblerondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8504' lat='59.26436278319053' lon='15.25703056830082' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Barkaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8662' lat='59.23387541369054' lon='15.243472779664971' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Saxons park' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8679' lat='59.262347245501815' lon='15.258649515693635' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Valsaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8696' lat='59.271034725425956' lon='15.238718812145763' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norensbergsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8713' lat='59.25441840161586' lon='15.203105369266435' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8754' lat='59.263820888357714' lon='15.202302970121767' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grubbensgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8795' lat='59.20905581220061' lon='15.350357521594695' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trumstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hidingsta' />
+	</node>
+	<node  id='-8834' lat='59.252559154070376' lon='15.204879032458331' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rotorgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8840' lat='59.27554411097341' lon='14.989830665049938' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ingelstavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-8841' lat='59.237054478101086' lon='15.149490335594654' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Långmossevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8905' lat='59.311958813779555' lon='15.240426937071405' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ligustervägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-8975' lat='59.28242012442552' lon='15.231497522715237' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kaptensgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8986' lat='59.261565428532755' lon='15.32665669470059' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekhagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9039' lat='59.25108710135112' lon='15.166959129708365' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Dalhemsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9052' lat='59.2909950233627' lon='15.21367408815209' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagaby Tvärgata' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9057' lat='59.25141330845228' lon='15.159966552724756' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Anells gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9100' lat='59.30374772989565' lon='15.157827055118325' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kiwigatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9109' lat='59.254668534695' lon='15.232226217475125' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tybblekullen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9145' lat='59.31339396699094' lon='15.183202785292758' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Alabastervägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9148' lat='59.30713964177792' lon='15.24019223375003' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ginstvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9171' lat='59.46334959200593' lon='15.15183479461814' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Stickspår' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-9198' lat='59.241298289732995' lon='15.129005084493114' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Östra Vagngatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9291' lat='59.295474691876116' lon='15.17115905604541' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nybyggarvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9292' lat='59.29634235800107' lon='15.23546189372966' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Genvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9308' lat='59.259627520042066' lon='15.234212189087609' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Esbjörnsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9314' lat='59.23796071038194' lon='15.120235350387661' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Berglundarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9322' lat='59.27273612459272' lon='15.215778172337451' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='S Strömbron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9351' lat='59.196785123889114' lon='15.14937756815059' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Prästgårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-9357' lat='59.24932977455651' lon='15.157226712359874' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Bergstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9441' lat='59.311677368565235' lon='15.192022489125538' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tjusebovägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9459' lat='59.296819178152006' lon='15.228353139081753' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norrplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9538' lat='59.26064386005481' lon='15.342601769026684' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karpvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-9543' lat='59.228990256089354' lon='15.153492201166632' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekebergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-9624' lat='59.3079801978478' lon='15.235605155419677' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Buxbomsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-9628' lat='59.270621271591885' lon='15.148836815197296' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Diedens allé' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9637' lat='59.234972234986394' lon='15.170103346023566' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Backebergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9677' lat='59.3926228077043' lon='15.394711738820453' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ödebyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-9694' lat='59.301953511294954' lon='15.204327375572744' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Argongatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9705' lat='59.25707411163544' lon='15.267411737358122' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tyraparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9711' lat='59.3898161816984' lon='15.394987207977524' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ivar Munks väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-9811' lat='59.266869415665596' lon='15.224839276795217' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Orvar Bergmarks plats' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9816' lat='59.07013871436272' lon='15.541079986354317' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norrvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-9826' lat='59.25355898287688' lon='15.406309825743138' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Märtavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-9842' lat='59.29243214186395' lon='15.232076099620787' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Berghällslunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9853' lat='59.28379371002276' lon='15.204819435227197' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gesällvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9871' lat='59.29534570775482' lon='15.161714444165426' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Anna Lenah Elgströms väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9876' lat='59.300438843292916' lon='15.124734259275396' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Barrskogsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9891' lat='59.248765280690094' lon='15.156139326914051' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9931' lat='59.201867591103806' lon='15.716634572848298' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ol-Jans väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vinön' />
+	</node>
+	<node  id='-9990' lat='59.15581133938307' lon='15.5347522233739' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Talbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-9995' lat='59.27773036433678' lon='15.24186558699003' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Blomvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10009' lat='59.26171500380935' lon='15.260948967225511' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ormestarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10048' lat='59.444081667225' lon='15.297006699063212' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Knutsbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odefinierad' />
+	</node>
+	<node  id='-10074' lat='59.27208546173286' lon='15.24019621972216' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Aspnäsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10082' lat='59.2569164998256' lon='15.266259051374675' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Idaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10111' lat='59.373568198343406' lon='15.083662278414327' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Prästtorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kil' />
+	</node>
+	<node  id='-10197' lat='59.279489737511035' lon='15.211735078441608' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nobeltunneln' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10229' lat='59.28206358866267' lon='15.22761111579582' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Knagglegränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10244' lat='59.19873506646222' lon='15.157506806932297' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lundvalls väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-10344' lat='59.251142746614065' lon='14.953246943413143' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gullvivevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-10359' lat='59.21436220774392' lon='15.158157376148806' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Östra Sättertorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10369' lat='59.256720365126235' lon='14.958939949767839' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Villagatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-10413' lat='59.291218835205875' lon='15.167598433469959' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallåkraparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10433' lat='59.29846232437018' lon='14.95093291540966' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogsrundan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-10444' lat='59.38408015349106' lon='15.040055868993424' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Utflyktsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-10449' lat='59.13981184747583' lon='15.66963735393399' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vinögatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-10470' lat='59.015238782297544' lon='15.576014156303518' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gjutarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-10515' lat='59.009616650468715' lon='15.584482607709674' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Regnavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-10526' lat='59.27286584980648' lon='15.207603943933504' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vasastrand' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10605' lat='59.44163604605864' lon='15.25966959204803' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekeberga' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Axberg' />
+	</node>
+	<node  id='-10625' lat='59.19365731849167' lon='15.150057958233063' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Berglings väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-10674' lat='59.30161837106663' lon='14.944607300113205' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hinnerssons väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-10708' lat='59.228361073396684' lon='15.150598152293533' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlsbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-10722' lat='59.37247096514975' lon='15.085714971630225' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Axbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kil' />
+	</node>
+	<node  id='-10729' lat='59.13764462289396' lon='15.67044243313565' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Seglarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-10746' lat='59.25263515261865' lon='15.408154807113572' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mariavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-10810' lat='59.23933111187115' lon='15.157401380895628' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Liljendalsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10834' lat='59.28185927676471' lon='15.232913284061684' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kaserngården' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10896' lat='59.21463370937979' lon='15.510840028186701' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Linfrövägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-10918' lat='59.24989006443127' lon='15.17830947550439' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagalundstunneln' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10943' lat='59.258294356403916' lon='15.26867587265578' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jakobigatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11092' lat='59.31175954677499' lon='15.236662449050687' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Avenboksvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-11109' lat='59.283183244076476' lon='15.210865014088263' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Viktoriaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11129' lat='59.29783878915446' lon='15.15887366622979' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mellringevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11171' lat='59.385686776134555' lon='15.032478585557772' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pjäxvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-11240' lat='59.23531698172303' lon='15.155386218530118' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11306' lat='59.23371692103154' lon='15.156838812110518' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lindtorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11367' lat='59.16363722150911' lon='15.527666288962594' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Marknadsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-11376' lat='59.234831077426946' lon='15.16158655206663' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almtorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11471' lat='59.294362845703716' lon='15.45701839560763' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sjöholmsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Sticksjö' />
+	</node>
+	<node  id='-11566' lat='59.31673012143215' lon='15.61088878898271' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hemängsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-11582' lat='59.24469165885981' lon='15.205736951132348' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åkersbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11593' lat='59.3009738604765' lon='15.133300700166894' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Runnaby kvarnväg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11616' lat='59.330044130955635' lon='15.598359326349488' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Grythem' />
+	</node>
+	<node  id='-11628' lat='59.199442235408405' lon='15.156507060462127' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gullbergs väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-11634' lat='59.2386697514858' lon='15.153226386841693' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lindhultsrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11648' lat='59.262265892133435' lon='14.954088247651702' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lannaforsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-11673' lat='59.239635618902376' lon='15.178191524733275' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sandjägarstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11698' lat='59.325373725840954' lon='15.560080273049506' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fiskarhagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Götarsvik' />
+	</node>
+	<node  id='-11867' lat='59.321046633780064' lon='15.243255809178235' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ängsstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11981' lat='59.01565618694014' lon='15.574969378246747' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-12022' lat='59.30421949923031' lon='15.237541699405863' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kornellvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12029' lat='59.461113341976386' lon='15.15126010654553' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Torvmosseväg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-12031' lat='59.29005359621415' lon='15.172525215935295' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Varbergagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12113' lat='59.26056792651694' lon='15.34805677814388' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Forellvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-12135' lat='59.27772526807412' lon='15.156800641759' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tjäderleken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12154' lat='59.3084016145387' lon='15.22862645023433' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Faluvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12183' lat='59.300618151356225' lon='15.161029219380131' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nyponstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12218' lat='59.208536942359814' lon='15.147890044325676' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lådvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12310' lat='59.27960937918454' lon='15.242376189323195' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Odenplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12360' lat='59.38886465072426' lon='15.235868850473354' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkhultsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-12382' lat='59.28147808637229' lon='15.228905473535994' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ulla Billquists park' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12388' lat='59.24337778164288' lon='15.124613290823868' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lastgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12402' lat='59.42973760455616' lon='15.319674667850467' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Furunäsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Furunäs' />
+	</node>
+	<node  id='-12411' lat='59.25311343477601' lon='15.218334107429879' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pomeransgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12437' lat='59.20052483303506' lon='15.158319271899398' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Landins väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-12466' lat='59.21089275930977' lon='15.151357468481491' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kartongvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12477' lat='59.24868301416397' lon='15.164181805543286' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlshällsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12484' lat='59.213193382732925' lon='15.512325080996543' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Johannes Palmqvists väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-12516' lat='59.26018614253994' lon='15.232569360762989' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Herdevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12574' lat='59.27846049955182' lon='15.154407040264191' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fasanstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12594' lat='59.306794260614986' lon='14.936591624420062' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järnbodsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-12611' lat='59.37014540989462' lon='15.081531658499449' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kil' />
+	</node>
+	<node  id='-12626' lat='59.285273291866005' lon='15.221995629954336' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Agreliusvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12632' lat='59.275905051960954' lon='15.213857785646185' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gamla Gatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12634' lat='59.25358150532644' lon='15.177668478905012' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nastaallén' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12658' lat='59.28942565536997' lon='15.179380427715355' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gläntan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12733' lat='59.1358964455564' lon='15.655405551289244' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-12821' lat='59.31001843031701' lon='15.239660752107493' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Berberisvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-12896' lat='59.27219561119606' lon='15.178714880659387' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Rostaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12917' lat='59.25041997929366' lon='15.275309782348947' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Loviselundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12968' lat='59.219485973447995' lon='15.2190534126604' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Atleverket' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Gällersta' />
+	</node>
+	<node  id='-13059' lat='59.22394485281909' lon='15.169957699296932' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vassvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-13114' lat='59.19723356206079' lon='15.153567628087297' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Viktor Dahléns väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-13116' lat='59.28864960487824' lon='15.211474186253527' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Bessemervägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13152' lat='59.14209847823335' lon='15.674504316451971' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fritidsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-13158' lat='59.31155893585272' lon='15.1811152261747' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gråbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13233' lat='59.29369164699678' lon='15.231917015954942' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nolhagalunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13254' lat='59.15081034412824' lon='15.471565646504704' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Askers kyrkväg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-13269' lat='59.37188432512857' lon='15.080144818809943' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Klockhammarsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kil' />
+	</node>
+	<node  id='-13370' lat='59.26780003851392' lon='15.228552752621127' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sancta Birgittagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13377' lat='59.29602892642229' lon='15.198241282296333' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Prologgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13388' lat='59.235016820546626' lon='15.17825306585996' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Getingvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13409' lat='59.2544000568854' lon='15.406585496616266' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Katarinavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-13690' lat='59.26062861068153' lon='15.239205285126308' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Universitetsallén' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13720' lat='59.46481457553662' lon='15.149753732136293' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Stationsväg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-13727' lat='59.31606064904803' lon='15.389657408808455' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Långmarkavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-13738' lat='59.241298208721744' lon='15.16562700449349' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Loka gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13757' lat='59.30999395202912' lon='15.190572843181783' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mandelstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13780' lat='59.156800134159006' lon='15.523393533861698' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Valstavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-13812' lat='59.21242014300153' lon='15.493724057862943' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Wallinvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-13867' lat='59.14078813992399' lon='15.701935654818314' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skramlaviksvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Notboda' />
+	</node>
+	<node  id='-13953' lat='59.13918609282956' lon='15.678207296540437' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rösvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-13973' lat='59.25332794235582' lon='15.405257294798716' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lovisavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-13998' lat='59.26170842480203' lon='15.248604488669198' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almbyrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14162' lat='59.26183802057597' lon='15.2364718746314' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kortévägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14203' lat='59.250662975987524' lon='14.956157076718206' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Blåsippevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-14208' lat='59.237243386621195' lon='15.159609377826738' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Edtorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14247' lat='59.259414775927915' lon='14.960188847972406' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trumslagarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-14254' lat='59.25923322172981' lon='15.249994220484927' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kantorstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14261' lat='59.277039474282034' lon='14.994506316399894' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Alunvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-14303' lat='59.24862718524506' lon='15.246250371973863' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kalvhagen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14436' lat='59.261190896850984' lon='15.240597499584396' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almbyparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14452' lat='59.068333406692105' lon='15.542042011174349' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-14483' lat='59.313048157917336' lon='15.180054659660966' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lerstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14526' lat='59.279260650574045' lon='14.990696399251787' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Garphyttevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-14667' lat='59.27519596564383' lon='14.981870478477774' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Askelundavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-14675' lat='59.24088859314575' lon='15.181336223216093' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Asplundavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14732' lat='59.31446560113504' lon='15.408890604589965' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kemivägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-14803' lat='59.23587060309099' lon='15.178367906020846' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Barkborrevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14818' lat='59.297002370536894' lon='15.199179368913967' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Monologgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14823' lat='59.227929416547504' lon='15.144730017198908' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sandtagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14837' lat='59.3869127160403' lon='15.204632156602853' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trapphällsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Långbyn' />
+	</node>
+	<node  id='-14863' lat='59.30678678805039' lon='14.958446189977503' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norrvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-14878' lat='59.24286795141994' lon='15.151734721754602' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sanatorieskogen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14906' lat='59.268080730145286' lon='15.241818000224443' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Triangelgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14930' lat='59.16840244220392' lon='15.530520905398543' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mellanvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-14948' lat='59.4395329126702' lon='15.243816084378132' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Frövivägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-14957' lat='59.30317599576944' lon='15.201219594548252' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Heliumgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14987' lat='59.23943833703908' lon='15.138001736188162' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlskogavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15022' lat='59.15906699571904' lon='15.527782113571764' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Per Anders väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-15029' lat='59.21978114282409' lon='15.223567897407795' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tippvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Gällersta' />
+	</node>
+	<node  id='-15118' lat='59.29902114228839' lon='15.459780136701085' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sjödalsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Sticksjö' />
+	</node>
+	<node  id='-15164' lat='59.264450500531964' lon='15.231500701894507' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sidvallslunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15185' lat='59.29447445276152' lon='15.231713299184577' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nolstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15234' lat='59.22172598838611' lon='15.17049085618401' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rosenlundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-15236' lat='59.29388163143364' lon='15.18266657961574' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Päronstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15266' lat='59.25012753154452' lon='15.187908953218498' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skrubbvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15377' lat='59.27223614506172' lon='15.21988040952332' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hamngatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15414' lat='59.25424992278037' lon='15.2592724548324' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Domarringens koloniområde' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15453' lat='59.20729829773575' lon='15.34929334233389' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almbrovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hidingsta' />
+	</node>
+	<node  id='-15539' lat='59.273964075787646' lon='15.237389065899237' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Slussgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15550' lat='59.21434883193601' lon='15.508708509998517' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Linblommevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-15581' lat='59.22331745703828' lon='15.14921963633198' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Första Tvärgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-15615' lat='59.06969063891054' lon='15.558152475565754' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trädgårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-15664' lat='59.284120564292074' lon='15.179342573505242' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Meijerhelmsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15704' lat='59.2607472683093' lon='15.337800869035917' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lakevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-15710' lat='59.28068064525756' lon='15.154394111703557' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Beckasingatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15780' lat='59.28504662575932' lon='15.223064991249856' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Bergslagsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15815' lat='59.06802361077328' lon='15.557042833234995' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-15977' lat='59.265889912285616' lon='15.220530207912883' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Idrottshuset' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15994' lat='59.22278281831792' lon='15.157979323656692' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Johansrovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-16027' lat='59.01559517701678' lon='15.57107774355084' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Påltorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-16065' lat='59.287096432208536' lon='15.179869296767329' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Varberga Torg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16085' lat='59.282484530614' lon='15.182910597740385' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Örnsköldsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16095' lat='59.25674930030169' lon='15.19919983202462' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hangarvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16185' lat='59.27352460954393' lon='15.22098219910958' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Olaigränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16203' lat='59.25842820963384' lon='14.957461912775825' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tomtavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-16242' lat='59.23788675708885' lon='15.157087516528241' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lindhultsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16308' lat='59.16435346989809' lon='15.527714906865533' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Industrivägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-16372' lat='59.29179923706243' lon='15.226756886377556' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Åsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16405' lat='59.235150662295204' lon='15.158193574675973' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ulrikelundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16443' lat='59.268077944927654' lon='15.16456479801695' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åbyparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16479' lat='59.281525341868715' lon='15.217834121488561' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norrbackavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16496' lat='59.31222661962011' lon='15.185555359213216' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Droppstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16603' lat='59.25059530160966' lon='15.160966716301834' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norstedts gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16644' lat='59.21064962018347' lon='15.493940642595046' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ängsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-16650' lat='59.2947141113045' lon='15.237096799234862' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallaholmsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16840' lat='59.15220428883331' lon='15.473545482184692' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Annelundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-16849' lat='59.25477305242467' lon='14.95345189275458' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skolgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-16889' lat='59.27857962284596' lon='15.155566371016652' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Orrstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16928' lat='59.221100232925835' lon='15.1513416844031' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åsgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-16962' lat='59.32289375363895' lon='15.604357227154077' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Henslättsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Grythem' />
+	</node>
+	<node  id='-16988' lat='59.14230730140633' lon='15.697337509038391' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Notstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Notboda' />
+	</node>
+	<node  id='-17020' lat='59.166386299414334' lon='15.524707455217664' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Kanalvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-17033' lat='59.2643960115744' lon='15.255037491430377' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kollergångsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17047' lat='59.28112041246063' lon='15.232089375287895' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grenadjärparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17229' lat='59.068903821023916' lon='15.557164081878874' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Anstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-17275' lat='59.26397161728788' lon='15.252533009507236' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Repslagaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17352' lat='59.31637504702273' lon='15.223470845877866' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Halmvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-17392' lat='59.256888306997375' lon='15.168656963766415' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nasta gård' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17416' lat='59.30946195861711' lon='15.232762168120624' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tibastvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-17437' lat='59.22720602738049' lon='15.151963366465944' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kristinebergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-17478' lat='59.212841622640845' lon='15.500004340927495' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Allévägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-17578' lat='59.30548818904841' lon='14.954871706133876' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ljungtorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-17617' lat='59.194583648255666' lon='15.247079542219502' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Forngårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Almbro' />
+	</node>
+	<node  id='-17669' lat='59.250141238009824' lon='15.16669613524852' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fläderstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17695' lat='59.21565251211686' lon='15.498092418339546' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-17814' lat='59.30304723277496' lon='15.165082117481068' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Melongatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17898' lat='59.37788123974851' lon='15.348941658775589' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Balsnavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Gropvik' />
+	</node>
+	<node  id='-17922' lat='59.29936207294476' lon='15.13089610363643' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Furuvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17991' lat='59.27349182988104' lon='15.234565017480012' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekholmen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18030' lat='59.256765493054324' lon='15.236897868603613' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tybbleparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18056' lat='59.32540566121168' lon='15.565211698243273' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Signes väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Götarsvik' />
+	</node>
+	<node  id='-18059' lat='59.42464489648163' lon='15.438917985228665' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rävstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ödeby' />
+	</node>
+	<node  id='-18105' lat='59.15452675616929' lon='15.531487675052933' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Midgårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-18176' lat='59.23795503621861' lon='15.176354492583688' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Magister Nilssons väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18238' lat='59.27136272451532' lon='15.23689083695376' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Villagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18259' lat='59.296143996067116' lon='15.158999039225893' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Greta Adrians väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18339' lat='59.25629144173' lon='15.24477245389303' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Organistvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18346' lat='59.28340079310395' lon='15.168154319721703' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Varbergaskogen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18408' lat='59.37605740809141' lon='15.350532445229916' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gropviksvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Gropvik' />
+	</node>
+	<node  id='-18414' lat='59.44017864773489' lon='15.241407396772937' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Klysnavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-18427' lat='59.24324368676413' lon='15.279998149495313' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Igelkottstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18487' lat='59.25290994390548' lon='15.208806990416917' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pilotgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18519' lat='59.31345503501484' lon='15.200676771262223' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallby' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18525' lat='59.22433162742427' lon='15.166112764332492' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Birats väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-18537' lat='59.2616985687432' lon='15.234236428977763' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hantverkaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18600' lat='59.2575000577951' lon='15.322263399209854' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Aspsoppsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-18683' lat='59.25214083737117' lon='15.159482321611407' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gröna gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18712' lat='59.24050722288858' lon='15.250882452521267' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogalundsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18803' lat='59.277283203133514' lon='15.222981279718262' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Alnängsplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18835' lat='59.2975474672506' lon='15.201811564443721' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Wivalliusrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18879' lat='59.1925434734315' lon='15.151739728264769' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tullstensbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-18888' lat='59.25927298874256' lon='15.154895475212703' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vattengatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18986' lat='59.250179068290514' lon='15.162211001198878' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fredsbergsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19071' lat='59.27320964766376' lon='14.987659764057149' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lundavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-19172' lat='59.212560034661344' lon='15.494981792422111' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlsdalsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-19258' lat='59.27657041174377' lon='15.153414070594735' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sandtorpsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19263' lat='59.238677123975755' lon='15.17793815858305' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Blombergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19266' lat='59.25286027709825' lon='15.405208433009115' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Evavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-19396' lat='59.30244856892273' lon='14.954903360035372' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skoghallsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-19468' lat='59.39012849171957' lon='15.243279154061375' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ölmbrovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-19475' lat='59.2733875344145' lon='14.992419583958048' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fabriksvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-19496' lat='59.30043858436253' lon='15.136361438482604' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grusmarksvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19606' lat='59.26115084214293' lon='14.965917397883311' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gränsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-19656' lat='59.30780669197639' lon='15.240190423392933' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ginstvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-19667' lat='59.137274803395236' lon='15.667931086663984' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sjömansvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-19670' lat='59.25227067912443' lon='15.16321716571577' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vadstens gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19678' lat='59.27473643133704' lon='14.983344832639647' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Milstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-19757' lat='59.30594758043442' lon='14.937231280748911' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hammarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-19763' lat='59.36603706181614' lon='15.222847143690213' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Faluvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Åby' />
+	</node>
+	<node  id='-19782' lat='59.26142146563349' lon='15.21247513808975' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Räntmästarparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19798' lat='59.23598241924279' lon='15.118472337318542' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Betongvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19819' lat='59.272228099992084' lon='15.205998664947364' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Badhusbron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19829' lat='59.26480502648879' lon='15.245377846508477' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagmarken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19857' lat='59.24191790034162' lon='15.251919861004147' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Alstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19901' lat='59.241734471969295' lon='15.126514785712459' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vagngatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19907' lat='59.46750226750169' lon='15.149715316631815' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järle Tallmo' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Järle' />
+	</node>
+	<node  id='-19931' lat='59.2867463434171' lon='15.238703478152319' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grenadjärrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20034' lat='59.286468175936164' lon='15.224516385257267' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Alkärrsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20048' lat='59.29369338422587' lon='15.161771166291127' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nejlikegatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20112' lat='59.26361160946529' lon='15.274838947915152' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vilansparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20122' lat='59.29083755241402' lon='15.158282429016326' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hedeparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20145' lat='59.31745391280577' lon='15.392055906044522' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jakobsbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-20152' lat='59.303051472028756' lon='14.951955157279835' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tysslingevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-20239' lat='59.296073384882355' lon='15.172049077519999' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hasselgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20268' lat='59.25345507469428' lon='15.20240127789809' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gyrogatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20362' lat='59.441277742050204' lon='15.244877230990673' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nylundavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-20412' lat='59.264149946845095' lon='15.274527121832373' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ladviksgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20458' lat='59.152391215348835' lon='15.469350194773874' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Askersvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-20528' lat='59.4292516682185' lon='15.317710640528357' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Furunäsbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Furunäs' />
+	</node>
+	<node  id='-20532' lat='59.13863603194742' lon='15.672670147626254' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vingåkersvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-20548' lat='59.285411589744506' lon='15.235577712658221' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hjortstorpsplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20557' lat='59.23968309012248' lon='15.17332449436877' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Guldvingestigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20598' lat='59.263197079030796' lon='15.247800072478292' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lillegårdslunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20670' lat='59.382867898370705' lon='15.034163185070641' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ferievägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-20691' lat='59.25839726752335' lon='15.201826449745674' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vinggatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20752' lat='59.294105817181595' lon='15.169887728692682' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Olvongatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20942' lat='59.26378454796638' lon='15.224933392075254' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Utjordsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20943' lat='59.26119968067094' lon='15.221489748747556' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Råstensgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20950' lat='59.296669782641935' lon='14.951494024224617' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Dragarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-21024' lat='59.06853056179974' lon='15.53792554691504' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gröngårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-21083' lat='59.26041510231683' lon='15.353373065392686' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Glashyttevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-21096' lat='59.271303411277174' lon='15.238883137356474' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Skyttegatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21202' lat='59.26207819066801' lon='15.215062743655528' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Landstormsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21223' lat='59.2660499583637' lon='15.232189112668014' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Österplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21289' lat='59.16827497601243' lon='15.529687245363949' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Backvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-21303' lat='59.26259218801401' lon='15.247797048221361' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lillegårdsgränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21592' lat='59.44504610813283' lon='15.297504933867902' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gustavsbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-21624' lat='59.06990906552792' lon='15.542990960241122' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fårhagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-21643' lat='59.289644861043065' lon='15.228748482958395' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Harsyrevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21649' lat='59.279586242702706' lon='15.155842658270316' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trastgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21652' lat='59.23648524982801' lon='15.15448215100801' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Belltorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21654' lat='59.29933635514202' lon='15.132494321000987' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Idegransvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21657' lat='59.23582791503918' lon='15.157414287909047' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21699' lat='59.285803169301076' lon='15.209871041354575' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Delägargatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21711' lat='59.29370487247906' lon='15.180670684148478' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Betesparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21780' lat='59.24665306929318' lon='15.220764191332298' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Frendebovägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21824' lat='59.396083445593526' lon='15.24253937250223' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skogsmullevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-21828' lat='59.36329068308308' lon='15.382480329007233' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tjugesta bygata' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-21834' lat='59.24388354018665' lon='15.139769512898207' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pilängsrondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21871' lat='59.2502625400628' lon='14.959586928115614' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Oskarsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-21934' lat='59.29057578464158' lon='15.160234882956152' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Balsamingatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22059' lat='59.16396091675079' lon='15.526556951325144' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Örebrovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-22072' lat='59.23793975309065' lon='15.182132195281525' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Guldbaggevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22143' lat='59.293255795370044' lon='15.169352745261486' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Irisgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22176' lat='59.26340749731542' lon='15.253237780438326' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vederlagsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22209' lat='59.29540766416558' lon='15.16994461902667' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trollbärsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22287' lat='59.243869067099695' lon='15.176894522634937' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Örtenlundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22321' lat='59.28091806809986' lon='15.157461827513076' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Oxhageparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22372' lat='59.23811379547004' lon='15.148085335603412' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Salamandervägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22410' lat='59.2930376410962' lon='15.228938571257592' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ringstorpsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22426' lat='59.279946643162326' lon='15.218816164585744' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Harald forss´park' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22445' lat='59.24954837448024' lon='15.278221756536759' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lillstugevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22525' lat='59.38122595135258' lon='15.027926555708722' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Orienterarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-22556' lat='59.2787389280677' lon='15.156737594236011' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Duvstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22641' lat='59.01189308535292' lon='15.590403331694754' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kapellvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-22687' lat='59.262328954933785' lon='15.220568071227248' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Eklunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22748' lat='59.152332243119005' lon='15.467949779727087' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Prästvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-22873' lat='59.25173556852252' lon='15.176328037139076' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gamla Vägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22891' lat='59.22284479923685' lon='15.2492838422052' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Silver-Anders väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Norra Bro' />
+	</node>
+	<node  id='-22904' lat='59.341807616554135' lon='15.169965136527589' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Senapsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22958' lat='59.28710355327183' lon='15.2268590355676' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Bergkällebacken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22970' lat='59.21314570982184' lon='15.495900077344785' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mällsavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-23051' lat='59.29442439993584' lon='15.154908943351531' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Emilie Risbergs väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23086' lat='59.24762205409448' lon='15.143379954957839' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Krangatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23230' lat='59.259219574507604' lon='15.251110324312394' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Diakonstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23235' lat='59.26013870449707' lon='15.211718340678244' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ekängsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23366' lat='59.13779203990667' lon='15.668832961169192' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skepparvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-23436' lat='59.27751799029974' lon='15.160803089890917' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Morkullstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23438' lat='59.30137005599794' lon='14.954472541772205' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-23485' lat='59.44592354798237' lon='15.30332716043036' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Östalundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-23569' lat='59.29506077695178' lon='15.46116151991512' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Östra Enbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Sticksjö' />
+	</node>
+	<node  id='-23640' lat='59.28805647116127' lon='15.16953408026925' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Varbergaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23661' lat='59.281409352039994' lon='15.203368375764994' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tegnérlunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23671' lat='59.31443923238406' lon='15.236617012482876' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åsbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-23692' lat='59.29845648382978' lon='15.171890793332214' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Enbärsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23696' lat='59.22722272999841' lon='15.195990657104796' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Guttersbodavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23752' lat='59.26751835114217' lon='15.228531191597938' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Birgittalunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23754' lat='59.29490230899998' lon='15.154348684078458' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Harriet Löwenhjelms väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23770' lat='59.27945821177832' lon='15.159172472282538' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skatlunden' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23934' lat='59.22415780608826' lon='15.161698560855891' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hjalmar Palms väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-23986' lat='59.3426312113437' lon='15.223839796127047' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Villa Solhems väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hovsta' />
+	</node>
+	<node  id='-24009' lat='59.068219269863555' lon='15.555596027023196' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vadsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-24082' lat='59.2749348636264' lon='15.215135845997583' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Henry Allards park' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24102' lat='59.290920784166296' lon='15.159694475967656' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Primulagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24135' lat='59.299472841753285' lon='15.124553612037136' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Drevkarlsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24175' lat='59.30619376928623' lon='15.191264791077081' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ädelstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24207' lat='59.30002478500988' lon='15.465796350404664' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Djurgårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Sticksjö' />
+	</node>
+	<node  id='-24227' lat='59.13864981772181' lon='15.661820823221499' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fiskarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-24229' lat='59.30955489130876' lon='15.235103829587327' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Måbärsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-24266' lat='59.29991836793913' lon='15.1298613399247' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Timmerbacken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24321' lat='59.29040327767231' lon='15.180342608939329' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mangårdsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24330' lat='59.28050945867486' lon='15.16233860295642' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Korsnäbbstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24536' lat='59.268938551604755' lon='15.19031356114182' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ånäsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24576' lat='59.39457762089973' lon='15.24468002962471' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Furuvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-24651' lat='59.25886299472358' lon='15.26848987804394' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mandisgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24652' lat='59.382181908764856' lon='15.024470831372389' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kompassvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-24656' lat='59.277407738302315' lon='14.985875455032888' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-24679' lat='59.24719251690078' lon='15.281161337635535' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Markavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24705' lat='59.2499439550321' lon='15.155513780657463' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagtorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24731' lat='59.24108747142373' lon='15.187556959334554' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Halltorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24759' lat='59.2962346733314' lon='15.238590231752802' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Arbogavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24763' lat='59.27700098936082' lon='15.206867246886663' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kilsplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24766' lat='59.068277487227824' lon='15.558960066238866' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Myrhagsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-24857' lat='59.247518555065355' lon='15.166939790485957' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Adolf Mörners plan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24859' lat='59.292621085896386' lon='15.214378705568564' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagabyparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24879' lat='59.208229971470736' lon='15.497905322670066' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åkerbyvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-24927' lat='59.317359126201595' lon='15.39265574675652' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grusbovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-24939' lat='59.39127738886836' lon='15.402062255812243' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gröna Udden' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-25009' lat='59.258281982858165' lon='15.269780133726515' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Johannigatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25041' lat='59.30083567273258' lon='14.952524284758125' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Radhusvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-25087' lat='59.13925039849341' lon='15.666028530155401' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gamla Vägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-25095' lat='59.223387665509264' lon='15.583365575405264' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lindövägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Åkesberg' />
+	</node>
+	<node  id='-25113' lat='59.224142505343586' lon='15.149529220883867' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Andra Tvärgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-25129' lat='59.26173988103668' lon='15.233235630304913' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jägaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25134' lat='59.25530388817919' lon='15.259845675111885' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tybblelundsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25151' lat='59.286093321527076' lon='15.226045683676217' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Stigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25167' lat='59.29128491610956' lon='15.162098065779915' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tulpangatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25197' lat='59.26879498369716' lon='15.172818600215924' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rostagårdsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25282' lat='59.37171170542416' lon='15.082223469938425' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Framnäsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kil' />
+	</node>
+	<node  id='-25386' lat='59.291915289455645' lon='15.212733725176141' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lillåkanten' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25426' lat='59.280853383946955' lon='15.25814521911839' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vattenparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25476' lat='59.26238679003836' lon='15.16088579930347' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skråmsta byväg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25510' lat='59.2979744817877' lon='14.9546800510375' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vajervägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-25528' lat='59.222608392674246' lon='15.24789954403201' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tallbacka-Majas väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Norra Bro' />
+	</node>
+	<node  id='-25534' lat='59.305845354356656' lon='15.236247274980407' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Markörgränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25566' lat='59.30385247708233' lon='14.935953492932168' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lannaforsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-25576' lat='59.39215604884336' lon='15.411180924396374' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lillhammarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-25591' lat='59.282560971858665' lon='15.241007356106786' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallare Walls gata' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25704' lat='59.29087263402337' lon='15.176036100806371' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Marklandsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25772' lat='59.26238647074484' lon='15.217906830049559' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Korsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25790' lat='59.24865505584916' lon='15.394850680200825' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hjälmarbadsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hjälmarbaden' />
+	</node>
+	<node  id='-25811' lat='59.27231517014731' lon='14.983476247777238' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Bergavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-25820' lat='59.16959550075018' lon='15.528739526499034' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Krokvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-25864' lat='59.24024886995956' lon='15.176541176701253' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Varggropsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25871' lat='59.31819864270141' lon='15.214299145840634' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lutabäcksvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25914' lat='59.240750598361544' lon='15.1621360555618' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Medevi gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25922' lat='59.391645235147436' lon='15.244080503278104' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rönnvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-25940' lat='59.27964050360594' lon='15.164544436764814' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Flugsnapparestigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26163' lat='59.239725320127874' lon='15.155756772404635' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lektorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26206' lat='59.243706739205635' lon='15.159341885068146' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ronnebygatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26230' lat='59.23778257230538' lon='15.178679455862824' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkdalsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26241' lat='59.2685952349434' lon='15.153481654762187' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Karlsnäsbron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26250' lat='59.155655551673846' lon='15.53173387944848' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Muninvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-26268' lat='59.2426996432233' lon='15.248571503386017' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Backaparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26314' lat='59.25375743057931' lon='14.963794645553165' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-26354' lat='59.292332471813154' lon='15.160213940453815' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gardeniagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26356' lat='59.25818070518577' lon='15.229147675250733' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Gulltofsavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26359' lat='59.3945965099641' lon='15.394929226357965' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tegeltorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-26379' lat='59.30798849927737' lon='15.179567551154408' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mineralgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26413' lat='59.25994082454415' lon='15.219978756865345' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fältvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26433' lat='59.27420828116936' lon='15.21281357087238' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Teaterplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26439' lat='59.42399028079059' lon='15.439082907324604' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Harstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ödeby' />
+	</node>
+	<node  id='-26443' lat='59.28592064971964' lon='15.20613696056149' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Holmplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26457' lat='59.27322584744983' lon='15.217177468344618' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ö Strömbron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26465' lat='59.26518685282918' lon='15.250337819365885' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Salsmästaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26547' lat='59.29851852497606' lon='15.124403731885385' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Viltstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26549' lat='59.375592952635' lon='15.348456783777655' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Danielsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Gropvik' />
+	</node>
+	<node  id='-26572' lat='59.2948658411393' lon='15.223959845775587' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagabergsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26582' lat='59.06919573827301' lon='15.538659606625368' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vallvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Kilsmo' />
+	</node>
+	<node  id='-26589' lat='59.23894018957108' lon='15.156578208349815' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Anstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26593' lat='59.24394926270156' lon='15.16499785504328' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ramlösa gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26635' lat='59.2372135530722' lon='15.181714373802748' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fjärilsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26745' lat='59.320879756811514' lon='15.24252422638768' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åstrandsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26748' lat='59.22985657707458' lon='15.151476095395047' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Drottningholmsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-26754' lat='59.272368570611555' lon='15.22268998800117' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kanalvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26784' lat='59.273082529191214' lon='15.215901181924437' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='N Strömbron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26808' lat='59.27450113743412' lon='14.982342530201317' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fridhultsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-26881' lat='59.25026141524905' lon='14.956460846867783' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mosippevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-26888' lat='59.27706917251237' lon='15.157476613921745' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ugglestigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26916' lat='59.32980185866911' lon='15.60077290298375' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Oxelvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Hasstorp' />
+	</node>
+	<node  id='-26934' lat='59.13515918358806' lon='15.657855109042282' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-27055' lat='59.21339913619632' lon='15.498134475843283' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skolvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-27061' lat='59.27974665883428' lon='15.218736910334021' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Olaus Petri kyrkogata' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27091' lat='59.27218021784743' lon='15.232114277807373' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Margit Palmaers gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27282' lat='59.23934240756634' lon='15.17933808273985' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lysmaskstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27427' lat='59.387794509103585' lon='15.031480965585581' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jaktvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-27443' lat='59.31460985078621' lon='15.212986063119939' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sixtens väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-27451' lat='59.2644264470725' lon='15.278089241701595' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Murargårdsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27483' lat='59.165855979967894' lon='15.528681779536905' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Madvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-27493' lat='59.294212467453' lon='15.163326079933439' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Krokusgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27543' lat='59.241411978675856' lon='15.158940255791988' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Porla gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27563' lat='59.31177017662145' lon='15.177571604675881' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Blyglansvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27632' lat='59.39110351353058' lon='15.39516356535759' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jakobshillsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-27802' lat='59.15224140980165' lon='15.4723590418838' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Askers byväg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-27852' lat='59.19161192975743' lon='15.15415380607915' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mosjöstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-27873' lat='59.27474473587242' lon='15.214636107719508' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jungfrutrappan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27876' lat='59.312343042352985' lon='15.184413768784763' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Blodstensvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27880' lat='59.21252808635929' lon='15.154456601774545' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Paketvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27883' lat='59.24323280554641' lon='15.14045578387248' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mossbergavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27885' lat='59.282220131790126' lon='15.218817699956878' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åkullen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27899' lat='59.2948866950689' lon='15.175009131659603' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Odlarstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27936' lat='59.382331318520535' lon='15.031034058530569' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Patrons väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-27997' lat='59.28172704302985' lon='15.220695164184782' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lillåplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28021' lat='59.1392729959962' lon='15.671435006927622' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lagerstigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-28089' lat='59.32403630245342' lon='15.564538533814739' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Almas väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Götarsvik' />
+	</node>
+	<node  id='-28145' lat='59.393647852945655' lon='15.244701524583583' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-28184' lat='59.30241944047252' lon='15.162325347540687' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mangogatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28263' lat='59.30050403148273' lon='14.945484848896964' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Garpvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-28401' lat='59.21123943766165' lon='15.496449867835123' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Parkvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-28411' lat='59.309099272717184' lon='14.935318604154096' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vretvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-28421' lat='59.25829197320873' lon='15.267588394408644' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Petrigatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28442' lat='59.0163328327742' lon='15.578500398027597' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kilsmovägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-28485' lat='59.28054233486792' lon='15.226669268484097' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Lilla Ågränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28492' lat='59.13797201751213' lon='15.664554489774014' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trastvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-28499' lat='59.29779772381719' lon='15.23811672348501' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skjutbanevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28500' lat='59.26009880713018' lon='15.23566969226723' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nyhemsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28505' lat='59.36667161848471' lon='15.226509756795414' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Enbackevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Åby' />
+	</node>
+	<node  id='-28623' lat='59.38543671891862' lon='15.200662061048904' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Jättestensvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Långbyn' />
+	</node>
+	<node  id='-28659' lat='59.272426187573494' lon='15.21949928022018' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hamnplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28681' lat='59.222412105976616' lon='15.168391276323646' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Tengstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-28699' lat='59.244817820431635' lon='15.247924464136018' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Barrstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28723' lat='59.34636939445354' lon='15.226340737400823' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granliden' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hovsta' />
+	</node>
+	<node  id='-28727' lat='59.298372338364274' lon='15.458717789570258' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Norra Sjöbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Sticksjö' />
+	</node>
+	<node  id='-28738' lat='59.38626597610686' lon='15.028608331852924' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Portörvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-28752' lat='59.28150920438623' lon='15.247008093363473' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vikingavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28892' lat='59.135768316767475' lon='15.671115141115584' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mosstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-28907' lat='59.212789018509206' lon='15.511624562971688' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Albert i Alms väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-28931' lat='59.27833105868446' lon='15.259619924304735' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Osetbron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28935' lat='59.269782980047715' lon='15.203211113122487' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Eugénplatsen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29007' lat='59.313989255851126' lon='15.23729550840466' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ryssängsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Lillån' />
+	</node>
+	<node  id='-29134' lat='59.1383089312823' lon='15.669528943860668' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ruddammsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-29180' lat='59.20237572028189' lon='15.714476549966513' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vinögatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vinön' />
+	</node>
+	<node  id='-29183' lat='59.28014323485658' lon='15.155160032038252' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Talgoxegatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29199' lat='59.276085123352935' lon='14.991979868333244' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Trädgårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-29259' lat='59.14157665734994' lon='15.700209552105546' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Järneksvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Notboda' />
+	</node>
+	<node  id='-29271' lat='59.229301470358855' lon='15.14981913002777' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Johansdalsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-29304' lat='59.24959449228778' lon='14.959960369474013' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Viavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Vintrosa' />
+	</node>
+	<node  id='-29312' lat='59.31510285373885' lon='15.610077497748675' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Furnäsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-29388' lat='59.274237191863165' lon='14.984120117591134' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Grytsättersvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-29393' lat='59.25607716626476' lon='15.345520925357226' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sandsoppsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ekeby-Almby' />
+	</node>
+	<node  id='-29457' lat='59.393708994058905' lon='15.392783984369283' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fiskartorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Opphammar' />
+	</node>
+	<node  id='-29526' lat='59.21221231842075' lon='15.509191677553824' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Linåkersvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-29614' lat='59.27468010972617' lon='14.985748885356967' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vintrosavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-29667' lat='59.22690103325633' lon='15.152806438779976' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Femte Tvärgatan' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-29783' lat='59.263877828274836' lon='15.275163948373134' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ålholmsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29798' lat='59.2502696427242' lon='15.196349745388783' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rosängsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29877' lat='59.44081240399085' lon='15.243555297858336' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Baggetorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ervalla' />
+	</node>
+	<node  id='-29885' lat='59.22680079336885' lon='15.048520256808544' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Flygfältsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Täby' />
+	</node>
+	<node  id='-30002' lat='59.27176443321212' lon='15.201786265724863' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hagabron' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30078' lat='59.38374207791159' lon='15.023960698883535' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fritidsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-30079' lat='59.256682737124216' lon='15.266364052988608' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Atlanticagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30219' lat='59.38647114178985' lon='15.02954211505712' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vargdalsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-30282' lat='59.14006129844016' lon='15.671511236970668' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Notbodavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-30316' lat='59.25280906608936' lon='15.206899540674026' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Kabingatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30339' lat='59.38189508724849' lon='15.03724168376213' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Ugglebergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+	<node  id='-30350' lat='59.27459195378415' lon='15.24806978399386' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Pråmkajen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30435' lat='59.215259434006796' lon='15.499381655880741' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Backagårdsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Mellösa' />
+	</node>
+	<node  id='-30591' lat='59.25237380404562' lon='15.20101471919764' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Klaffgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30599' lat='59.264175968415394' lon='15.273145211072162' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sjölandsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30614' lat='59.27856272078575' lon='15.205726924587573' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Malmplan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30658' lat='59.239083387968144' lon='15.176782857586042' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sjättedelsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30716' lat='59.197124770864974' lon='15.149673330311277' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sandtäppevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-30724' lat='59.28441848685259' lon='15.23689552765825' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Björkbacksgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30798' lat='59.16601781075787' lon='15.523282792503235' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Odenvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-30802' lat='59.25692080212489' lon='15.269867437453977' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Disagatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30838' lat='59.29896747020142' lon='15.195875499242737' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vivallarondellen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30881' lat='59.25069754115071' lon='15.15457979683331' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Nastabergsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30960' lat='59.29788468803935' lon='15.161392291720022' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Annalisa Forssbergers väg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30980' lat='59.015852942521946' lon='15.575969727192547' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mellanvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-30981' lat='59.22343590010204' lon='15.161144731220547' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Torkels väg' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-31005' lat='59.2230452976276' lon='15.168198661520348' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vittvångsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-31013' lat='59.295165176315216' lon='15.17995225399284' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hjärstaskogen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31034' lat='59.24867880169148' lon='15.15916091411375' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fredsbergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31156' lat='59.271650378193186' lon='14.984370067988548' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hacklyckevägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Latorpsbruk' />
+	</node>
+	<node  id='-31174' lat='59.37692893251985' lon='15.351508886112912' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Halvarbodavägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Gropvik' />
+	</node>
+	<node  id='-31201' lat='59.28690445251975' lon='15.207773330858299' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Långgateparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31215' lat='59.33057399756002' lon='15.60228128093641' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Hasstorpsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Stora Hasstorp' />
+	</node>
+	<node  id='-31227' lat='59.16634643206285' lon='15.529560866959446' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Idrottsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-31239' lat='59.237528225258856' lon='15.123148390725525' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Berglundavägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31307' lat='59.281252546139626' lon='15.231020836927756' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Fanjunkarevägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31357' lat='59.30058036160198' lon='15.131923504010604' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rullstensbacken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31438' lat='59.292846665868794' lon='15.184425543433665' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Plommonstigen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31494' lat='59.16466760635669' lon='15.522508825480902' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Torgvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-31503' lat='59.30821032115073' lon='15.188950332095436' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Diabasgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31509' lat='59.15046368148914' lon='15.473601126310074' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Askersbacken' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Asker' />
+	</node>
+	<node  id='-31559' lat='59.25096694099842' lon='15.162193536887399' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Wrangels gränd' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31598' lat='59.265271435997214' lon='15.2085439535856' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skomakaregatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31614' lat='59.23427462745758' lon='15.178302290885732' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Myggvägen' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31738' lat='59.22227694574914' lon='15.166891301859515' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Anhaltsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-31772' lat='59.26483021363776' lon='15.275779766274573' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Sjölandsparken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31815' lat='59.22773383069697' lon='15.15115657373228' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Moholmsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-31817' lat='59.389721688860455' lon='15.244314229879707' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skolvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Ölmbrotorp' />
+	</node>
+	<node  id='-31880' lat='59.281953867344185' lon='15.218666740215925' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Åkullegatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31887' lat='59.2203643924292' lon='15.142697378849025' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Rabattvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Marieberg' />
+	</node>
+	<node  id='-31966' lat='59.21000089257709' lon='15.156019600133785' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Returgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31980' lat='59.29926855550825' lon='14.950870184609586' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Linvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Garphyttan' />
+	</node>
+	<node  id='-32011' lat='59.33080491358327' lon='15.41070783613587' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Malmastigen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Glanshammar' />
+	</node>
+	<node  id='-32062' lat='59.2986600732608' lon='15.125522108543054' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Granfallsbacken' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32126' lat='59.169130509738174' lon='15.527904926572232' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Djurklouvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-32180' lat='59.14120670583048' lon='15.681165113550053' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vikabergsvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Hampetorp' />
+	</node>
+	<node  id='-32243' lat='59.010799153626515' lon='15.587149139334876' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Skolhusvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Brevens Bruk' />
+	</node>
+	<node  id='-32257' lat='59.272179944591606' lon='15.232740117434819' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Cajsa Wargs torg' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32270' lat='59.20046413016883' lon='15.16005869478217' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Droskvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Mosås' />
+	</node>
+	<node  id='-32274' lat='59.16240731236603' lon='15.522609647899776' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Vagnmakarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Odensbacken' />
+	</node>
+	<node  id='-32358' lat='59.25851965340165' lon='15.264538617990087' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Olofsgatan' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32383' lat='59.38357657406608' lon='15.025861267526556' >
+		<tag k='highway' v='road' />
+		<tag k='name' v='Mjölnarvägen' />
+		<tag k='addr:city' v='Örebro' />
+		<tag k='addr:place' v='Klockhammar' />
+	</node>
+</osm>

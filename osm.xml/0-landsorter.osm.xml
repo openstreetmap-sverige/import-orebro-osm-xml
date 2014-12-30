@@ -1,0 +1,1683 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-63' lat='59.29443606344764' lon='14.979609222705855' >
+		<tag k='name' v='Ingelsgård' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-113' lat='59.44990646537846' lon='15.244081703506057' >
+		<tag k='name' v='Björkbacken' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-225' lat='59.09470357702564' lon='15.654664090074162' >
+		<tag k='name' v='Ingvaldstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-254' lat='59.425402736837384' lon='15.339347684370487' >
+		<tag k='name' v='Oxholmarna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-367' lat='59.312941895133996' lon='15.35168825833939' >
+		<tag k='name' v='Nedergårda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-512' lat='59.20201098100861' lon='15.601288983126853' >
+		<tag k='name' v='Hjälmarsholm' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-525' lat='59.37656084148285' lon='15.217829309104435' >
+		<tag k='name' v='Axbergs Erstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-689' lat='59.236867248468194' lon='15.260775328457829' >
+		<tag k='name' v='Ässkog' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-788' lat='59.222365240050806' lon='15.145958241120114' >
+		<tag k='name' v='Marieberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-893' lat='59.15708187513953' lon='15.463161484167266' >
+		<tag k='name' v='Led' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1019' lat='59.322434695946384' lon='15.13280882673411' >
+		<tag k='name' v='Ekersby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1163' lat='59.18832326062957' lon='15.494549262786087' >
+		<tag k='name' v='Valnäs' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1167' lat='59.450017619822134' lon='15.034415230459528' >
+		<tag k='name' v='Ramshyttan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1171' lat='59.35150589405549' lon='15.390353490483276' >
+		<tag k='name' v='Tjugesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1192' lat='59.24361461019811' lon='15.207592012297527' >
+		<tag k='name' v='Glommans småstugeområde' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1212' lat='59.26097173585596' lon='14.955680545191003' >
+		<tag k='name' v='Rastorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1243' lat='59.199495277608946' lon='15.100542273560631' >
+		<tag k='name' v='Mosjö-Råby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1258' lat='59.32116571076681' lon='15.611946964481055' >
+		<tag k='name' v='Grythem' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1364' lat='59.30454116577449' lon='15.388023565945911' >
+		<tag k='name' v='Gäddeby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1568' lat='59.418764551431615' lon='15.161189785114521' >
+		<tag k='name' v='Hagalund' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1609' lat='59.26645521578062' lon='14.966698081612146' >
+		<tag k='name' v='Övratorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1686' lat='59.364846018612745' lon='15.417427413660985' >
+		<tag k='name' v='Laxmossen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1754' lat='59.43541461882632' lon='15.295023922941226' >
+		<tag k='name' v='Halvbacken' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1877' lat='59.27017923532465' lon='14.920529492657593' >
+		<tag k='name' v='Norra Korsgatan Kristinelund' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1911' lat='59.380077190801366' lon='15.178269608303559' >
+		<tag k='name' v='Axbergs-Grindtorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-1971' lat='59.239379116844894' lon='15.093743340745625' >
+		<tag k='name' v='Dyringe' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2017' lat='59.23860723153276' lon='15.404756793191954' >
+		<tag k='name' v='Resta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2098' lat='59.20239555530134' lon='15.53241856211722' >
+		<tag k='name' v='Ånkersta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2139' lat='59.1362851131165' lon='15.698802991611098' >
+		<tag k='name' v='Åsen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2153' lat='59.18942655602437' lon='15.149555971661192' >
+		<tag k='name' v='Mosjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2177' lat='59.34940754895239' lon='15.3473542539053' >
+		<tag k='name' v='Röne' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2345' lat='59.389894319044245' lon='15.008964122231' >
+		<tag k='name' v='Nybråten' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2385' lat='59.24504244364995' lon='15.46329184319414' >
+		<tag k='name' v='Linnäs' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2529' lat='59.343687889434406' lon='15.356473884100279' >
+		<tag k='name' v='Norrberga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2622' lat='59.1107705846743' lon='15.54853308019129' >
+		<tag k='name' v='Folketorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2779' lat='59.06806756160313' lon='15.546152248210467' >
+		<tag k='name' v='Kilsmo' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2819' lat='59.39435195927597' lon='15.420708590544752' >
+		<tag k='name' v='Opphammar' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2907' lat='59.15252072691992' lon='15.4534429428695' >
+		<tag k='name' v='Via' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-2947' lat='59.34823307981295' lon='14.998670032982977' >
+		<tag k='name' v='Frösvidal' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3176' lat='59.31875856261176' lon='15.411583850974079' >
+		<tag k='name' v='Skölv' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3271' lat='59.24122666658321' lon='15.501940665158658' >
+		<tag k='name' v='Östra Rynninge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3382' lat='59.30849792482903' lon='15.506821260171465' >
+		<tag k='name' v='Uddgarn' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3397' lat='59.433273357025456' lon='15.253307524978556' >
+		<tag k='name' v='Lycke' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3573' lat='59.31025842604529' lon='15.353331291350965' >
+		<tag k='name' v='Kolja' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3596' lat='59.261304728191476' lon='15.033254764130474' >
+		<tag k='name' v='Ängsholmen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3672' lat='59.181747080073194' lon='15.523165517535942' >
+		<tag k='name' v='Usta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-3969' lat='59.29399272964713' lon='15.399522527331762' >
+		<tag k='name' v='Skävesund' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4048' lat='59.206542914482284' lon='15.328243585286947' >
+		<tag k='name' v='Hidingsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4110' lat='59.24226342410356' lon='15.300151494209498' >
+		<tag k='name' v='Uggelboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4192' lat='59.11828113290155' lon='15.536010360160072' >
+		<tag k='name' v='Flingeboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4199' lat='59.39519999614531' lon='15.37703230386748' >
+		<tag k='name' v='Iljansjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4274' lat='59.23481822738314' lon='15.375774968331973' >
+		<tag k='name' v='Älmerud' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4366' lat='59.26017181276965' lon='15.140781260521981' >
+		<tag k='name' v='Skråmsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4452' lat='59.356786957517734' lon='15.128032422670886' >
+		<tag k='name' v='Frötorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4637' lat='59.36731966659502' lon='15.222839145010214' >
+		<tag k='name' v='Axbergs-Åby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-4756' lat='59.20016293157383' lon='14.986753100287231' >
+		<tag k='name' v='Östra Granhammar' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5198' lat='59.334217269039065' lon='15.475872661355947' >
+		<tag k='name' v='Blyberga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5244' lat='59.238432401888616' lon='15.117214429923585' >
+		<tag k='name' v='Björkemo' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5298' lat='59.14188080787222' lon='15.470296599324373' >
+		<tag k='name' v='Kilinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5408' lat='59.2329364723059' lon='15.024395100657902' >
+		<tag k='name' v='Ramsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5504' lat='59.43782081903519' lon='15.301855257205876' >
+		<tag k='name' v='Österrasta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5595' lat='59.3155347867017' lon='15.273195825942146' >
+		<tag k='name' v='Myrö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5621' lat='59.20514169027636' lon='15.100737784290338' >
+		<tag k='name' v='Dyringstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5622' lat='59.331909930478865' lon='15.3620982222811' >
+		<tag k='name' v='Gränsjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5765' lat='59.24118836608038' lon='15.293953162544309' >
+		<tag k='name' v='Mark' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5808' lat='59.19272013853548' lon='15.500336298231089' >
+		<tag k='name' v='Bo' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5900' lat='59.0950737681054' lon='15.694225132306793' >
+		<tag k='name' v='Villtungla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-5958' lat='59.337830282164646' lon='15.034528913408145' >
+		<tag k='name' v='Älgesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6030' lat='59.36839872910149' lon='15.518433928193993' >
+		<tag k='name' v='Lysinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6103' lat='59.328776681962694' lon='15.382265062103281' >
+		<tag k='name' v='Valla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6173' lat='59.39208009557763' lon='15.091636837811903' >
+		<tag k='name' v='Hillerstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6406' lat='59.188379405540154' lon='15.06576849975569' >
+		<tag k='name' v='Skeppsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6487' lat='59.2167077750119' lon='15.480064095722343' >
+		<tag k='name' v='Ekeby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6499' lat='59.152803523857145' lon='15.436635371325549' >
+		<tag k='name' v='Fiskinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6672' lat='59.28480770326061' lon='14.923260389875558' >
+		<tag k='name' v='Arvaby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6799' lat='59.376359898860414' lon='15.223394594684292' >
+		<tag k='name' v='Axbergs Häggen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6947' lat='59.334316056101976' lon='14.944660630585524' >
+		<tag k='name' v='Ånnaboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-6970' lat='59.22586266102725' lon='15.12908708837021' >
+		<tag k='name' v='Rävgräva' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7002' lat='59.19538697926355' lon='15.108881504012954' >
+		<tag k='name' v='Mosjö-Sörby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7007' lat='59.33977513851983' lon='15.221063073658124' >
+		<tag k='name' v='Yxsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7022' lat='59.115536848744846' lon='15.456941777025294' >
+		<tag k='name' v='Ässbron' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7061' lat='59.147558952839056' lon='15.406683503497371' >
+		<tag k='name' v='Askers-Kvinnersta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7274' lat='59.35591086190576' lon='15.091039601242107' >
+		<tag k='name' v='Kils-Vallby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7361' lat='59.37968511133374' lon='15.082524447047653' >
+		<tag k='name' v='Norrbacka' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-7494' lat='59.25526851479626' lon='15.380052540184037' >
+		<tag k='name' v='Östra Sundby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8065' lat='59.46499115106107' lon='15.261108689489735' >
+		<tag k='name' v='Skogsberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8203' lat='59.25905944130435' lon='15.414709903875595' >
+		<tag k='name' v='Äsön' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8286' lat='59.20217260185114' lon='15.037387457462664' >
+		<tag k='name' v='Vallbytorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8339' lat='59.360480732929965' lon='15.214747979363402' >
+		<tag k='name' v='Axbergs Kyrkby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8435' lat='59.33337562566628' lon='15.210193172084315' >
+		<tag k='name' v='Yxstabacken' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8447' lat='59.39618067602724' lon='15.093756677991305' >
+		<tag k='name' v='Prästtorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8483' lat='59.26830601904409' lon='14.920415088110781' >
+		<tag k='name' v='Norra Korsgatan Anneberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8769' lat='59.32973655856956' lon='15.233095647644882' >
+		<tag k='name' v='Förlunda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8794' lat='59.23820286147182' lon='15.31083469360913' >
+		<tag k='name' v='Österäng' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8838' lat='59.264330231760724' lon='15.016958552845312' >
+		<tag k='name' v='Osvalla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-8864' lat='59.217237969621735' lon='15.521853141607169' >
+		<tag k='name' v='Vallby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9054' lat='59.21492529819317' lon='15.480906309568029' >
+		<tag k='name' v='Dömmesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9143' lat='59.24916211011079' lon='15.11714237099968' >
+		<tag k='name' v='Ånsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9197' lat='59.32381563470918' lon='15.425364728844409' >
+		<tag k='name' v='Krogesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9230' lat='59.37514019821359' lon='15.31192572849618' >
+		<tag k='name' v='Dyltabruk' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9236' lat='59.26740484686419' lon='14.978228387344425' >
+		<tag k='name' v='Grytsätter' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9313' lat='59.38258914804682' lon='15.154845146995578' >
+		<tag k='name' v='Dreberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9323' lat='59.16813077385113' lon='15.548885344770387' >
+		<tag k='name' v='Segersjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9335' lat='59.208268377778886' lon='15.357435330434303' >
+		<tag k='name' v='Tegelbruket' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9397' lat='59.477870411408176' lon='15.156728517005952' >
+		<tag k='name' v='Åboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9502' lat='59.09914620295582' lon='15.48951293042774' >
+		<tag k='name' v='Karlsbygget' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9542' lat='59.42409101653227' lon='15.199298052527574' >
+		<tag k='name' v='Axbergshammar' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9571' lat='59.23745832454821' lon='14.99350425677609' >
+		<tag k='name' v='Vintrosa Prästgård' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9736' lat='59.41379654595913' lon='15.05185183137387' >
+		<tag k='name' v='Lockhyttan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-9759' lat='59.23094904762285' lon='15.449521473587968' >
+		<tag k='name' v='Knarstatorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10030' lat='59.22882968106205' lon='15.126187836991878' >
+		<tag k='name' v='Rangeltorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10064' lat='59.224251805193234' lon='15.587991887556472' >
+		<tag k='name' v='Åsbyviken' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10321' lat='59.13426459529239' lon='15.443870185209539' >
+		<tag k='name' v='Bernstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10326' lat='59.31121437327974' lon='15.12124269151478' >
+		<tag k='name' v='Averskogen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10363' lat='59.08516714813972' lon='15.652107340668657' >
+		<tag k='name' v='Ystorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10585' lat='59.27994601596727' lon='15.097568626123788' >
+		<tag k='name' v='Gräve' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10690' lat='59.476010162839955' lon='15.196468954904248' >
+		<tag k='name' v='Rörstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10764' lat='59.43974316289834' lon='15.145069667739756' >
+		<tag k='name' v='Mogetorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10893' lat='59.49256645623113' lon='15.221458998208641' >
+		<tag k='name' v='Nordansjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-10955' lat='59.363820749309134' lon='15.433321956956728' >
+		<tag k='name' v='Halvarstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11004' lat='59.38912437067478' lon='15.110316935965002' >
+		<tag k='name' v='Norra Billinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11055' lat='59.447293038857445' lon='15.242683870247628' >
+		<tag k='name' v='Fridsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11165' lat='59.34078242775548' lon='15.126624801968072' >
+		<tag k='name' v='Hjulberga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11257' lat='59.284688466269834' lon='14.924210901803344' >
+		<tag k='name' v='Lannafors' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11592' lat='59.14394410614673' lon='15.413605499855345' >
+		<tag k='name' v='Askers-Berga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11613' lat='59.20330576954836' lon='15.147509547164654' >
+		<tag k='name' v='Mosås' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11626' lat='59.280525332806135' lon='14.91661744807855' >
+		<tag k='name' v='Eskilstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11637' lat='59.32375079580325' lon='15.029062769111473' >
+		<tag k='name' v='Norra Svalnäs' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11751' lat='59.374444448724525' lon='15.098565207591362' >
+		<tag k='name' v='Hammarby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11772' lat='59.24661041837076' lon='14.99653990684303' >
+		<tag k='name' v='Vintrosa-Götavi' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11938' lat='59.27625470147617' lon='15.11213927831327' >
+		<tag k='name' v='Älgskogen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-11999' lat='59.44006786385794' lon='15.256534220200825' >
+		<tag k='name' v='Myre' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12015' lat='59.21124684969829' lon='15.593020665431041' >
+		<tag k='name' v='Råsjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12034' lat='59.1012559325841' lon='15.678890669329103' >
+		<tag k='name' v='Östantorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12357' lat='59.35563634536342' lon='15.398198063100281' >
+		<tag k='name' v='Nyttinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12376' lat='59.496057841343344' lon='15.196693712876256' >
+		<tag k='name' v='Lysfalla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12505' lat='59.41817984315079' lon='15.345312261726738' >
+		<tag k='name' v='Killingholmarna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12755' lat='59.13775127171005' lon='15.71982913685039' >
+		<tag k='name' v='Dimbo' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12777' lat='59.44774486606322' lon='15.275265905823767' >
+		<tag k='name' v='Avdala' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12906' lat='59.196065075687386' lon='15.24631743736674' >
+		<tag k='name' v='Norra Bro' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-12938' lat='59.263159063055156' lon='14.998584195628418' >
+		<tag k='name' v='Haglundstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13154' lat='59.314081381867965' lon='15.145617256752148' >
+		<tag k='name' v='Norra Runnaby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13310' lat='59.13489565279106' lon='15.521967124892125' >
+		<tag k='name' v='Björnhovda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13317' lat='59.19063600816177' lon='15.57170994593653' >
+		<tag k='name' v='Egbyåsen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13366' lat='59.12663673673887' lon='15.521771951946596' >
+		<tag k='name' v='Sandvad' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13474' lat='59.26402236407524' lon='15.15531128229379' >
+		<tag k='name' v='Lundsro' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13790' lat='59.05247682690067' lon='15.59366572734287' >
+		<tag k='name' v='Korsmon' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-13921' lat='59.22166630028481' lon='15.56102899234452' >
+		<tag k='name' v='Mellösa Täby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14118' lat='59.206154147012505' lon='15.563937350430551' >
+		<tag k='name' v='Bittinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14151' lat='59.346718627318054' lon='15.341104944608889' >
+		<tag k='name' v='Nasta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14171' lat='59.272991686323905' lon='15.01660906806255' >
+		<tag k='name' v='Kartorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14236' lat='59.4148767052675' lon='15.153778723133692' >
+		<tag k='name' v='Rörbraket' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14240' lat='59.23214710020822' lon='15.129602455726138' >
+		<tag k='name' v='Palmbohult' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14260' lat='59.15059078247695' lon='15.443536162042799' >
+		<tag k='name' v='Tybble' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14268' lat='59.184587174327426' lon='15.493139670114983' >
+		<tag k='name' v='Ytterby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14285' lat='59.43262830484629' lon='15.24259757339389' >
+		<tag k='name' v='Ervalla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14411' lat='59.331413003032544' lon='15.335700175006345' >
+		<tag k='name' v='Ramstena' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14431' lat='59.14329177510921' lon='15.511794914846016' >
+		<tag k='name' v='Askers-Mörby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14514' lat='59.2385582672011' lon='15.393088887405836' >
+		<tag k='name' v='Hjälmarsnäs' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14616' lat='59.29884204289617' lon='15.255644518605953' >
+		<tag k='name' v='Venan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14786' lat='59.40267013318839' lon='15.189241890262638' >
+		<tag k='name' v='Axbergs-Ön' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-14835' lat='59.322336838271816' lon='15.189691995709104' >
+		<tag k='name' v='Tjusebotorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15368' lat='59.28716592015834' lon='14.930831897281088' >
+		<tag k='name' v='Pölseboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15378' lat='59.275422742476295' lon='15.044962214974976' >
+		<tag k='name' v='Tysslinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15718' lat='59.299711825917086' lon='15.032675963750316' >
+		<tag k='name' v='Egersta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15778' lat='59.355383739019544' lon='15.116283625682081' >
+		<tag k='name' v='Backa' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-15889' lat='59.23190895240247' lon='15.223780242779783' >
+		<tag k='name' v='Attersta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16066' lat='59.220208564587224' lon='15.468888807038041' >
+		<tag k='name' v='Torsborg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16106' lat='59.23446702946383' lon='15.061802711444964' >
+		<tag k='name' v='Tredingsvägen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16145' lat='59.213117954648794' lon='15.623161868431827' >
+		<tag k='name' v='Biskopsvrak' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16150' lat='59.26809166262584' lon='15.041441605208853' >
+		<tag k='name' v='Rumboholm' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16290' lat='59.32416948644593' lon='15.45768561698792' >
+		<tag k='name' v='Ekeberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16488' lat='59.28208833364571' lon='15.14395299257762' >
+		<tag k='name' v='Gäddesta småstugeområde' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16497' lat='59.392493146125055' lon='15.202257519519819' >
+		<tag k='name' v='Seltorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16583' lat='59.152783704414475' lon='15.535954569777484' >
+		<tag k='name' v='Talby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16604' lat='59.47294482478525' lon='15.238547690295743' >
+		<tag k='name' v='Norra Klysna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16821' lat='59.334206900159984' lon='15.401545453093691' >
+		<tag k='name' v='Torphälla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16884' lat='59.367101268792204' lon='15.42542485002454' >
+		<tag k='name' v='Glanshammars-Hult' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16927' lat='59.29934561476792' lon='15.349381540235074' >
+		<tag k='name' v='Äsplunda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-16934' lat='59.472101166487874' lon='15.149626303110248' >
+		<tag k='name' v='Järle' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17078' lat='59.34017035572835' lon='14.982365361976711' >
+		<tag k='name' v='Kils-Nytorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17318' lat='59.37097422196063' lon='15.170444623919577' >
+		<tag k='name' v='Nävesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17457' lat='59.33545375295281' lon='15.207274781062074' >
+		<tag k='name' v='Björkvalla backe' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17569' lat='59.36320798656512' lon='15.562217852919021' >
+		<tag k='name' v='Munkaboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17644' lat='59.4140808112582' lon='15.502896253537761' >
+		<tag k='name' v='Ringaby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17744' lat='59.31060498183904' lon='15.429116616779316' >
+		<tag k='name' v='Glanshammars-Via' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17761' lat='59.35141195994338' lon='15.437321676102878' >
+		<tag k='name' v='Skäcklinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-17851' lat='59.193978554373274' lon='15.097290219416719' >
+		<tag k='name' v='Mosjö Hulinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18140' lat='59.413622623154616' lon='15.197070019893209' >
+		<tag k='name' v='Dyltatorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18153' lat='59.17374688146939' lon='15.157969231880303' >
+		<tag k='name' v='Näset' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18166' lat='59.38096765132648' lon='15.144102897209741' >
+		<tag k='name' v='Rönninge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18189' lat='59.42592688628871' lon='15.179393098785004' >
+		<tag k='name' v='Norsebäck' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18264' lat='59.42715451758859' lon='15.46829420893831' >
+		<tag k='name' v='Holmen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18440' lat='59.448294364739915' lon='15.215471001124305' >
+		<tag k='name' v='Gunnarsborg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18457' lat='59.235239448933655' lon='15.563049740221222' >
+		<tag k='name' v='Katrinelund' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18523' lat='59.33639125168998' lon='15.378837063289529' >
+		<tag k='name' v='Äversta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18563' lat='59.36238609584375' lon='14.972119764817078' >
+		<tag k='name' v='Blackstahyttan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18577' lat='59.31497753503415' lon='14.953912154044186' >
+		<tag k='name' v='Garphyttan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18699' lat='59.42573761557404' lon='15.13818994316979' >
+		<tag k='name' v='Axbergs-Rangeltorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18713' lat='59.150200151244036' lon='15.418267662115074' >
+		<tag k='name' v='Menigasker' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18719' lat='59.24246291758819' lon='14.961027941842756' >
+		<tag k='name' v='Östra Via' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-18901' lat='59.37344057762028' lon='15.08203863527144' >
+		<tag k='name' v='Falla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19039' lat='59.34571181666787' lon='15.589955605197495' >
+		<tag k='name' v='Gunnarsökna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19096' lat='59.32950949943924' lon='15.506123647722369' >
+		<tag k='name' v='Norra Åsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19216' lat='59.11888711565888' lon='15.568566821179372' >
+		<tag k='name' v='Vilhelmsberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19319' lat='59.24144194027895' lon='15.025768595340733' >
+		<tag k='name' v='Vintrosa-Sanna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19354' lat='59.13684548251152' lon='15.718955379473888' >
+		<tag k='name' v='Östra Rud' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19384' lat='59.47943522838583' lon='15.253021906695258' >
+		<tag k='name' v='Knattorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19427' lat='59.345350150945315' lon='15.118679014259238' >
+		<tag k='name' v='Röcklinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19448' lat='59.31830474813754' lon='15.395574770981085' >
+		<tag k='name' v='Glanshammar' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19461' lat='59.211404115140084' lon='15.513543954210583' >
+		<tag k='name' v='Råby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19777' lat='59.15772390606427' lon='15.390932117671598' >
+		<tag k='name' v='Hammars Säteri' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19793' lat='59.39817076436613' lon='14.99462407737206' >
+		<tag k='name' v='Blankhult' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19801' lat='59.22217284343005' lon='15.46352292998059' >
+		<tag k='name' v='Röhammar' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19853' lat='59.37240014731989' lon='15.218357398611928' >
+		<tag k='name' v='Axbergs-Dammsätter' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-19995' lat='59.287838648560474' lon='14.930008142612655' >
+		<tag k='name' v='Naddeboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20457' lat='59.26560861824899' lon='15.231932111247067' >
+		<tag k='name' v='Österplan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20862' lat='59.33221353771985' lon='14.982909657451481' >
+		<tag k='name' v='Filipshyttan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20899' lat='59.22116940847356' lon='15.091549592126377' >
+		<tag k='name' v='Mosebacke' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-20978' lat='59.39839055625344' lon='14.992334092541967' >
+		<tag k='name' v='Getingedalen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21014' lat='59.07728340254424' lon='15.572241641233557' >
+		<tag k='name' v='Labbetorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21102' lat='59.23350926081925' lon='15.17079394540709' >
+		<tag k='name' v='Vittvång' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21110' lat='59.32418319907478' lon='15.329793391588732' >
+		<tag k='name' v='Mäjsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21117' lat='59.10310352303156' lon='15.462378239711843' >
+		<tag k='name' v='Askers-Sand' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21123' lat='59.44023761163443' lon='15.24076186677064' >
+		<tag k='name' v='Baggetorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21304' lat='59.32131613095813' lon='15.142233459891395' >
+		<tag k='name' v='Eker' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21557' lat='59.5029673113764' lon='15.21679395389066' >
+		<tag k='name' v='Östansjö' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21662' lat='59.084982118857454' lon='15.640457101161724' >
+		<tag k='name' v='Eketorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21786' lat='59.22283598423019' lon='15.002933410354299' >
+		<tag k='name' v='Linneberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-21798' lat='59.39694567448084' lon='15.354383773940972' >
+		<tag k='name' v='Glanshammars-Bäcketorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22000' lat='59.37949420974413' lon='15.293409557595883' >
+		<tag k='name' v='Norra Listre' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22060' lat='59.412288876788935' lon='15.243992891111644' >
+		<tag k='name' v='Arrud' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22196' lat='59.20027843678053' lon='15.365890229026054' >
+		<tag k='name' v='Norrbyås' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22617' lat='59.20224060230553' lon='15.001896219479175' >
+		<tag k='name' v='Nybble' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22627' lat='59.34443731574908' lon='15.390880536562191' >
+		<tag k='name' v='Hagaby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22655' lat='59.1993010306947' lon='15.262046193584329' >
+		<tag k='name' v='Fällersta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22702' lat='59.10199286328732' lon='15.493966261568307' >
+		<tag k='name' v='Askers-Fasttorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22708' lat='59.274976193345815' lon='15.140947865003369' >
+		<tag k='name' v='Karlslund' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-22746' lat='59.1488745764053' lon='15.515461332088682' >
+		<tag k='name' v='Valsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23057' lat='59.39028743887492' lon='15.240431179387109' >
+		<tag k='name' v='Axbergs-Berga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23106' lat='59.314609771533256' lon='15.30009393541229' >
+		<tag k='name' v='Rinkaby-Solberga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23259' lat='59.102737959283964' lon='15.542511427900928' >
+		<tag k='name' v='Ulvstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23503' lat='59.13884189396332' lon='15.516899079198607' >
+		<tag k='name' v='Askers-Rud' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23709' lat='59.31615171011788' lon='15.380281825616656' >
+		<tag k='name' v='Koffsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23710' lat='59.362294317069036' lon='15.022449247287271' >
+		<tag k='name' v='Algutstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23853' lat='59.2026973571625' lon='15.574836283011209' >
+		<tag k='name' v='Åsby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23919' lat='59.243038478293435' lon='15.296001049491263' >
+		<tag k='name' v='Perstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-23979' lat='59.346384166378094' lon='15.046227548798143' >
+		<tag k='name' v='Blacksta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24057' lat='59.40637429434739' lon='15.150860825479674' >
+		<tag k='name' v='Askarboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24096' lat='59.38423313378403' lon='15.187567477372912' >
+		<tag k='name' v='Fagermon' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24182' lat='59.34869201720368' lon='15.357280205316178' >
+		<tag k='name' v='Balsna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24192' lat='59.24522549051764' lon='15.049040347595543' >
+		<tag k='name' v='Falltorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24295' lat='59.2426999969811' lon='15.297698660923619' >
+		<tag k='name' v='Hagtorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24406' lat='59.10610547907334' lon='15.522072402997203' >
+		<tag k='name' v='Lågetorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24473' lat='59.26007490305833' lon='14.955343603598038' >
+		<tag k='name' v='Östra Tomta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24476' lat='59.21400103090659' lon='15.49194494051874' >
+		<tag k='name' v='Alm' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24653' lat='59.25040420208648' lon='15.30283057907264' >
+		<tag k='name' v='Ormesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24671' lat='59.22272381997505' lon='15.252314756970698' >
+		<tag k='name' v='Gryt' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24789' lat='59.42644509656474' lon='15.353767378981496' >
+		<tag k='name' v='Tre Skär' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24883' lat='59.35222680542448' lon='15.200072419261389' >
+		<tag k='name' v='Fågelsång' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-24992' lat='59.12663386963063' lon='15.488081991643574' >
+		<tag k='name' v='Tångsätter' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25317' lat='59.09224956068029' lon='15.54278292861826' >
+		<tag k='name' v='Finntorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25776' lat='59.326303887494724' lon='15.475345436902648' >
+		<tag k='name' v='Lillkyrka' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-25877' lat='59.42251798507395' lon='15.198850614565908' >
+		<tag k='name' v='Norra Dylta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26020' lat='59.107404740578914' lon='15.478924626547181' >
+		<tag k='name' v='Rågsand' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26160' lat='59.24580632628047' lon='15.478923889746' >
+		<tag k='name' v='Hjälmarsstrand' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26251' lat='59.13757287032687' lon='15.718132421333381' >
+		<tag k='name' v='Nifsand' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26275' lat='59.11494226494537' lon='15.568267260505294' >
+		<tag k='name' v='Himmer' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26326' lat='59.381991449003905' lon='14.983433324822297' >
+		<tag k='name' v='Tomasboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26409' lat='59.44840518769197' lon='15.224189182553484' >
+		<tag k='name' v='Vassa' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26544' lat='59.34797019136701' lon='15.452186540900888' >
+		<tag k='name' v='Björka' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26619' lat='59.38544805453676' lon='15.204943436238993' >
+		<tag k='name' v='Långbyn' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26720' lat='59.10739513296488' lon='15.503210529265056' >
+		<tag k='name' v='Lekebo' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26765' lat='59.31395370716683' lon='15.40227842844928' >
+		<tag k='name' v='Eldvalla' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26813' lat='59.30577433631082' lon='14.916300894044026' >
+		<tag k='name' v='Hjulåsen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26910' lat='59.19808955097195' lon='15.572243080720225' >
+		<tag k='name' v='Egby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26960' lat='59.42940367676885' lon='15.310147798687135' >
+		<tag k='name' v='Furunäs' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-26990' lat='59.207362653408424' lon='15.482886312904402' >
+		<tag k='name' v='Råsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27186' lat='59.474691613587254' lon='15.20344290915859' >
+		<tag k='name' v='Östanberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27314' lat='59.480109412352284' lon='15.151156976426407' >
+		<tag k='name' v='Grindtorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27564' lat='59.29430456997893' lon='14.996875828665805' >
+		<tag k='name' v='Hagby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27582' lat='59.42927536751298' lon='15.19431828315316' >
+		<tag k='name' v='Tingstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-27616' lat='59.1348143973139' lon='15.451622954866915' >
+		<tag k='name' v='Malgräva' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28007' lat='59.27442136856895' lon='15.210005551021327' >
+		<tag k='name' v='Frimurareholmen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28023' lat='59.44358013881168' lon='15.22460763951258' >
+		<tag k='name' v='Lyttebäck' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28250' lat='59.37339325340923' lon='15.264716528868814' >
+		<tag k='name' v='Sigtuna' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28461' lat='59.45240886231633' lon='15.254138859961467' >
+		<tag k='name' v='Basketorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28705' lat='59.25340333986519' lon='14.967232876589625' >
+		<tag k='name' v='Vintrosa' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28715' lat='59.19250900507079' lon='15.714994327646018' >
+		<tag k='name' v='Norra Vinön' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28798' lat='59.25036171541792' lon='15.356243134183236' >
+		<tag k='name' v='Ekeby-Almby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28872' lat='59.333935677854' lon='15.186985619857378' >
+		<tag k='name' v='Tjuse' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-28984' lat='59.327446101620936' lon='15.066719602257876' >
+		<tag k='name' v='Rånnesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29027' lat='59.138635162327596' lon='15.678099428343534' >
+		<tag k='name' v='Ruddammen' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29063' lat='59.14674031977214' lon='15.545942914956804' >
+		<tag k='name' v='Skatteby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29151' lat='59.26473244149145' lon='14.974785169314702' >
+		<tag k='name' v='Holmstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29169' lat='59.25960097775986' lon='15.283510454763789' >
+		<tag k='name' v='Hjälmarsberg' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29265' lat='59.145593366110255' lon='15.406348318403872' >
+		<tag k='name' v='Askers Bergamon' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29331' lat='59.33751560608206' lon='15.187833100225093' >
+		<tag k='name' v='Ättinge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29412' lat='59.266817299885766' lon='15.111939650692907' >
+		<tag k='name' v='Lindbacka' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29538' lat='59.13831789189976' lon='15.68426146983272' >
+		<tag k='name' v='Notboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29554' lat='59.13928807695624' lon='15.42229844220863' >
+		<tag k='name' v='Askers-Lundby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29714' lat='59.447663393290064' lon='15.243405983459782' >
+		<tag k='name' v='Glömyra' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29751' lat='59.43559912950403' lon='15.222934873164704' >
+		<tag k='name' v='Puketorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29763' lat='59.296740649701206' lon='14.932131317020973' >
+		<tag k='name' v='Tule' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29868' lat='59.46629076057651' lon='15.195084289838244' >
+		<tag k='name' v='Torpa' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-29889' lat='59.29967504235742' lon='14.997277512099014' >
+		<tag k='name' v='Björksätter' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30051' lat='59.242425537671565' lon='15.088711780593272' >
+		<tag k='name' v='Ulvgryt' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30169' lat='59.154433303387904' lon='15.492348311140402' >
+		<tag k='name' v='Askersby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30172' lat='59.35913196536669' lon='15.12422047565324' >
+		<tag k='name' v='Frösta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30384' lat='59.448565796358494' lon='15.168238546123106' >
+		<tag k='name' v='Flåten' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30468' lat='59.33727902508088' lon='15.37668768654633' >
+		<tag k='name' v='Berga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30533' lat='59.22227003224839' lon='15.45458964064086' >
+		<tag k='name' v='Knarsta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30623' lat='59.248115378676104' lon='15.496077621409288' >
+		<tag k='name' v='Ekudden' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30774' lat='59.31183145278415' lon='15.350063762039815' >
+		<tag k='name' v='Ekbacken' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30787' lat='59.21580704853186' lon='15.024284183661733' >
+		<tag k='name' v='Sannamon' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30789' lat='59.280238686265776' lon='15.065927780069565' >
+		<tag k='name' v='Gräve-Åkerby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30909' lat='59.28318680064427' lon='15.038653674447188' >
+		<tag k='name' v='Irvingsholm' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30969' lat='59.171793927646405' lon='15.546355646175591' >
+		<tag k='name' v='Helgesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-30991' lat='59.36328073249528' lon='15.056975807192908' >
+		<tag k='name' v='Ullavi' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31058' lat='59.40976564206642' lon='15.135998489515005' >
+		<tag k='name' v='Lockenkil' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31183' lat='59.31397696834684' lon='15.331430256035508' >
+		<tag k='name' v='Rinkaby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31193' lat='59.386715458299534' lon='15.022191903268366' >
+		<tag k='name' v='Klockarhyttan' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31270' lat='59.31935933603075' lon='15.321571808173324' >
+		<tag k='name' v='Sjågesta' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31323' lat='59.399194456033754' lon='15.429851344585353' >
+		<tag k='name' v='Raboda' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31328' lat='59.44932773285031' lon='15.20586273704888' >
+		<tag k='name' v='Lyttebäckstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31430' lat='59.20680365550301' lon='15.060691533978453' >
+		<tag k='name' v='Råberga' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31850' lat='59.38520911084072' lon='15.214176323561192' >
+		<tag k='name' v='Norra Gottsätter' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31859' lat='59.206537597713954' lon='15.503621591099348' >
+		<tag k='name' v='Åkerby' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-31883' lat='59.440996970833915' lon='15.226598328041796' >
+		<tag k='name' v='Lickstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32012' lat='59.32603177163992' lon='15.453672618278961' >
+		<tag k='name' v='Biverud' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32100' lat='59.364517281037294' lon='15.505919912468482' >
+		<tag k='name' v='Karltorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32145' lat='59.47629896736812' lon='15.17437722318072' >
+		<tag k='name' v='Mosstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32166' lat='59.30379972345054' lon='14.989481482013113' >
+		<tag k='name' v='Olofstorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32242' lat='59.41349658092672' lon='15.133024132430663' >
+		<tag k='name' v='Kils-Bäcketorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32249' lat='59.29518263821654' lon='15.02645270577939' >
+		<tag k='name' v='Gymninge' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+	<node  id='-32320' lat='59.291242533795206' lon='14.977651041741408' >
+		<tag k='name' v='Latorp' />
+		<tag k='place' v='hamlet' />
+		<tag k='addr:city' v='Örebro' />
+	</node>
+</osm>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version='0.6' upload='true' generator='se.kodapan.osm.xml.OsmXmlWriter'>
+	<node  id='-33014' lat='59.286712555007725' lon='15.180154130829983' >
+		<tag k='name' v='Varberga familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1727' />
+	</node>
+	<node  id='-33015' lat='59.27853441850661' lon='15.174533257604848' >
+		<tag k='name' v='Oxhagens familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1726' />
+	</node>
+	<node  id='-33016' lat='59.23833747841935' lon='15.242394016101832' >
+		<tag k='name' v='Brickebackens familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1723' />
+	</node>
+	<node  id='-33017' lat='59.27978695115239' lon='15.219688629376396' >
+		<tag k='name' v='Olaus Petri familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1725' />
+	</node>
+	<node  id='-33018' lat='59.29921678115539' lon='15.18755938712877' >
+		<tag k='name' v='Vivalla familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1728' />
+	</node>
+	<node  id='-33019' lat='59.25732581996258' lon='15.203736595904706' >
+		<tag k='name' v='Ängens familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1729' />
+	</node>
+	<node  id='-33020' lat='59.289230870712345' lon='15.200146030448787' >
+		<tag k='name' v='Baronbackarnas familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1724' />
+	</node>
+	<node  id='-33021' lat='59.158956276954434' lon='15.5261121751877' >
+		<tag k='name' v='Östernärke familjecentral' />
+		<tag k='note' v='Todo: oklassficierad' />
+		<tag k='ref' v='http://karta2.orebro.se/api/v1/information/1730' />
+	</node>
+</osm>
